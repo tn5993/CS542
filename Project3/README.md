@@ -67,7 +67,6 @@ close {<br/>
 
 <h3> Assumption </h3>
 - Relation class heavily depends on FileInputStream and is built for file reading
-- Assumed left relation and right relations when doing join (left is loaded into memory comparing with right relation using iteration on the right relation)
 - Assumed that both relation's size are not too different from each other. If one relation's is significantly less than that of other relation, placing smaller size relation on the left can significantly improve performance.
 
 <h3> Testing </h3>
