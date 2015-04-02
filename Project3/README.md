@@ -10,6 +10,12 @@ Professor Singh <br/>
 Please note that model and class in this report will be used interchangeably.
 
 <h3> Introduction </h3>
+This project aimed to build a query execution engine by implementing the following requirement.
+<blockquote>
+"
+You may have realized that the functions of exercise 1 are actually methods of a Relation class. In a real database, we will have multiple instances of Relation, each representing one table. Modify your answer from exercise 1 to create the class and also add open(), getNext() and close() methods to it. Use the class to create and populate city and country tables (schema and data to be provided during January). Use the class to find all cities whose population is more than 40% of the population of their entire country.
+"
+</blockquote>
 
 <h3> Record </h3>
 <p>
