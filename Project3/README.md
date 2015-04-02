@@ -31,7 +31,7 @@ Please note that model and class in this report will be used interchangeably.
 </p>
 <h3> Condition </h3>
 <p>
-The condition class take care of the condition of the join. It keeps track of three important operations: equal, smaller, and greater. For example, if attr a < attr b, the condition will compare values at each tuple at particular attributes.
+The condition class take care of the condition of the join. It keeps track of three important operations: equal, smaller, and greater. For example, if attr a is less than attr b, the condition will compare values at each tuple at particular attributes.
 <p>
 <h3> Join Operation</h3>
 <p>
@@ -66,7 +66,9 @@ close {<br/>
 }
 
 <h3> Assumption </h3>
-
+- Relation class heavily depends on FileInputStream and is built for file reading
+- Assumed left relation and right relations when doing join (left is loaded into memory comparing with right relation using iteration on the right relation)
+- Assumed that both relation's size are not too different from each other. If one relation's is significantly less than that of other relation, placing smaller size relation on the left can significantly improve performance.
 
 <h3> Testing </h3>
 <h5> Scenario 1 </h5>
@@ -95,16 +97,12 @@ As we are trying to join the above two relation when city.CountryCode = country.
 100, China, 100000, 3, Beijing, China, 100
 </p>
 
-<p>
-
-</p>
-
 <h5> Scenario 2 </h5>
 <p> City csv file </p>
 <p> Country csv file </p>
 <p> 
 	<strong>Expected </strong>
-	40 percent of country polution < city's population
+	40 percent of country polution is less than city's population
 </p>
 
 <h5> Additional features </h5>
