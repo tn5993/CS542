@@ -38,12 +38,13 @@ The condition class take care of the condition of the join. It keeps track of th
 The join class aims to represent the join operation. It takes in two relation objects and multiple conditions for the join. The getNext() method will consider all the conditions between two relations (for every record in the left relation, check condition for all record in the right)
 </p>
 <h3> Join Mechanism</h3>
+<pre>
 open { <br/>
 	left.open() <br/>
 	right.open() <br/>
 } <br/>
 
-<pre>
+
 getNext { <br/>
 	if (right == null) {<br/>
 		left.getNext() <br/>
@@ -58,12 +59,12 @@ getNext { <br/>
 	}<br/>
 	
 }<br/>
-</pre>
 
 close {<br/>
 	left.close()<br/>
 	right.close()<br/>
 }
+</pre>
 
 <h3> Assumption </h3>
 - Relation class heavily depends on FileInputStream and is built for file reading
