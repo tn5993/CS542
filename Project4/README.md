@@ -2,7 +2,7 @@
 <hr/>
 <p>
 Cory Hayward, He Xuebin, Thinh Nguyen <br/>
-Project 3 for CS542: Database Management Systems <br/>
+Project 4 for CS542: Database Management Systems <br/>
 Professor Singh <br/>
 15 April 2015
 </p>
