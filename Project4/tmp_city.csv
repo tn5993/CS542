@@ -1,0 +1,4080 @@
+ID, Name, CountryCode, District, Population
+1,'Kabul','AFG','Kabol',2004568
+2,'Qandahar','AFG','Qandahar',267461
+3,'Herat','AFG','Herat',210363
+4,'Mazar-e-Sharif','AFG','Balkh',143922
+5,'Amsterdam','NLD','Noord-Holland',823448
+6,'Rotterdam','NLD','Zuid-Holland',668172
+7,'Haag','NLD','Zuid-Holland',496522
+8,'Utrecht','NLD','Utrecht',263883
+9,'Eindhoven','NLD','Noord-Brabant',227303
+10,'Tilburg','NLD','Noord-Brabant',217614
+11,'Groningen','NLD','Groningen',194487
+12,'Breda','NLD','Noord-Brabant',180631
+13,'Apeldoorn','NLD','Gelderland',172852
+14,'Nijmegen','NLD','Gelderland',171695
+15,'Enschede','NLD','Overijssel',168407
+16,'Haarlem','NLD','Noord-Holland',167538
+17,'Almere','NLD','Flevoland',160436
+18,'Arnhem','NLD','Gelderland',155429
+19,'Zaanstad','NLD','Noord-Holland',152727
+20,'´s-Hertogenbosch','NLD','Noord-Brabant',145464
+21,'Amersfoort','NLD','Utrecht',142197
+22,'Maastricht','NLD','Limburg',137486
+23,'Dordrecht','NLD','Zuid-Holland',134924
+24,'Leiden','NLD','Zuid-Holland',131978
+25,'Haarlemmermeer','NLD','Noord-Holland',124686
+26,'Zoetermeer','NLD','Zuid-Holland',124116
+27,'Emmen','NLD','Drenthe',119205
+28,'Zwolle','NLD','Overijssel',119165
+29,'Ede','NLD','Gelderland',114385
+30,'Delft','NLD','Zuid-Holland',107284
+31,'Heerlen','NLD','Limburg',107041
+32,'Alkmaar','NLD','Noord-Holland',104408
+33,'Willemstad','ANT','Curaçao',2636
+34,'Tirana','ALB','Tirana',304063
+35,'Alger','DZA','Alger',2441517
+36,'Oran','DZA','Oran',686756
+37,'Constantine','DZA','Constantine',499707
+38,'Annaba','DZA','Annaba',250589
+39,'Batna','DZA','Batna',206508
+40,'Sétif','DZA','Sétif',201642
+41,'Sidi Bel Abbès','DZA','Sidi Bel Abbès',172419
+42,'Skikda','DZA','Skikda',144986
+43,'Biskra','DZA','Biskra',144462
+44,'Blidael-Boulaida ','DZA','Blida',143339
+45,'Béjaïa','DZA','Béjaïa',131941
+46,'Mostaganem','DZA','Mostaganem',129746
+47,'Tébessa','DZA','Tébessa',126135
+48,'TlemcenTilimsen ','DZA','Tlemcen',124146
+49,'Béchar','DZA','Béchar',120847
+50,'Tiaret','DZA','Tiaret',112746
+51,'Ech-Chleffel-Asnam ','DZA','Chlef',109003
+52,'Ghardaïa','DZA','Ghardaïa',100693
+53,'Tafuna','ASM','Tutuila',5854
+54,'Fagatogo','ASM','Tutuila',2614
+55,'Andorra la Vella','AND','Andorra la Vella',23858
+56,'Luanda','AGO','Luanda',2277097
+57,'Huambo','AGO','Huambo',183674
+58,'Lobito','AGO','Benguela',146400
+59,'Benguela','AGO','Benguela',144485
+60,'Namibe','AGO','Namibe',133110
+61,'South Hill','AIA','–',1079
+62,'The Valley','AIA','–',667
+63,'Saint John´s','ATG','St John',27025
+64,'Dubai','ARE','Dubai',753603
+65,'Abu Dhabi','ARE','Abu Dhabi',448992
+66,'Sharja','ARE','Sharja',360475
+67,'al-Ayn','ARE','Abu Dhabi',254474
+68,'Ajman','ARE','Ajman',128823
+69,'Buenos Aires','ARG','Distrito Federal',3358377
+70,'La Matanza','ARG','Buenos Aires',1426238
+71,'Córdoba','ARG','Córdoba',1303539
+72,'Rosario','ARG','Santa Fé',1022234
+73,'Lomas de Zamora','ARG','Buenos Aires',700485
+74,'Quilmes','ARG','Buenos Aires',629801
+75,'Almirante Brown','ARG','Buenos Aires',606906
+76,'La Plata','ARG','Buenos Aires',587782
+77,'Mar del Plata','ARG','Buenos Aires',577583
+78,'San Miguel de Tucumán','ARG','Tucumán',530205
+79,'Lanús','ARG','Buenos Aires',528995
+80,'Merlo','ARG','Buenos Aires',522362
+81,'General San Martín','ARG','Buenos Aires',475848
+82,'Salta','ARG','Salta',413918
+83,'Moreno','ARG','Buenos Aires',402028
+84,'Santa Fé','ARG','Santa Fé',397604
+85,'Avellaneda','ARG','Buenos Aires',397584
+86,'Tres de Febrero','ARG','Buenos Aires',396757
+87,'Morón','ARG','Buenos Aires',393304
+88,'Florencio Varela','ARG','Buenos Aires',355224
+89,'San Isidro','ARG','Buenos Aires',344986
+90,'Tigre','ARG','Buenos Aires',333596
+91,'Malvinas Argentinas','ARG','Buenos Aires',326962
+92,'Vicente López','ARG','Buenos Aires',324715
+93,'Berazategui','ARG','Buenos Aires',311850
+94,'Corrientes','ARG','Corrientes',290664
+95,'San Miguel','ARG','Buenos Aires',280073
+96,'Bahía Blanca','ARG','Buenos Aires',270062
+97,'Esteban Echeverría','ARG','Buenos Aires',265500
+98,'Resistencia','ARG','Chaco',258127
+99,'José C. Paz','ARG','Buenos Aires',249728
+100,'Paraná','ARG','Entre Rios',233159
+101,'Godoy Cruz','ARG','Mendoza',233110
+102,'Posadas','ARG','Misiones',226663
+103,'Guaymallén','ARG','Mendoza',225899
+104,'Santiago del Estero','ARG','Santiago del Estero',213908
+105,'San Salvador de Jujuy','ARG','Jujuy',201295
+106,'Hurlingham','ARG','Buenos Aires',191475
+107,'Neuquén','ARG','Neuquén',188399
+108,'Ituzaingó','ARG','Buenos Aires',178152
+109,'San Fernando','ARG','Buenos Aires',172340
+110,'Formosa','ARG','Formosa',166258
+111,'Las Heras','ARG','Mendoza',164216
+112,'La Rioja','ARG','La Rioja',155539
+113,'San Fernando del Valle de Cata','ARG','Catamarca',151955
+114,'Río Cuarto','ARG','Córdoba',151302
+115,'Comodoro Rivadavia','ARG','Chubut',139758
+116,'Mendoza','ARG','Mendoza',138545
+117,'San Nicolás de los Arroyos','ARG','Buenos Aires',134351
+118,'San Juan','ARG','San Juan',134182
+119,'Escobar','ARG','Buenos Aires',131392
+120,'Concordia','ARG','Entre Rios',131178
+121,'Pilar','ARG','Buenos Aires',127735
+122,'San Luis','ARG','San Luis',124027
+123,'Ezeiza','ARG','Buenos Aires',112138
+124,'San Rafael','ARG','Mendoza',106590
+125,'Tandil','ARG','Buenos Aires',102592
+126,'Yerevan','ARM','Yerevan',1406236
+127,'Gjumri','ARM','Širak',238407
+128,'Vanadzor','ARM','Lori',194486
+129,'Oranjestad','ABW','–',32695
+130,'Sydney','AUS','New South Wales',3689538
+131,'Melbourne','AUS','Victoria',3226823
+132,'Brisbane','AUS','Queensland',1454003
+133,'Perth','AUS','West Australia',1235204
+134,'Adelaide','AUS','South Australia',1101498
+135,'Canberra','AUS','Capital Region',363436
+136,'Gold Coast','AUS','Queensland',351282
+137,'Newcastle','AUS','New South Wales',304426
+138,'Central Coast','AUS','New South Wales',256377
+139,'Wollongong','AUS','New South Wales',247484
+140,'Hobart','AUS','Tasmania',142026
+141,'Geelong','AUS','Victoria',141197
+142,'Townsville','AUS','Queensland',123779
+143,'Cairns','AUS','Queensland',103912
+144,'Baku','AZE','Baki',2013351
+145,'Gäncä','AZE','Gäncä',337057
+146,'Sumqayit','AZE','Sumqayit',318702
+147,'Mingäçevir','AZE','Mingäçevir',105743
+148,'Nassau','BHS','New Providence',193696
+149,'al-Manama','BHR','al-Manama',166670
+150,'Dhaka','BGD','Dhaka',4068654
+151,'Chittagong','BGD','Chittagong',1568584
+152,'Khulna','BGD','Khulna',747025
+153,'Rajshahi','BGD','Rajshahi',331152
+154,'Narayanganj','BGD','Dhaka',227632
+155,'Rangpur','BGD','Rajshahi',215542
+156,'Mymensingh','BGD','Dhaka',212519
+157,'Barisal','BGD','Barisal',191706
+158,'Tungi','BGD','Dhaka',189984
+159,'Jessore','BGD','Khulna',157335
+160,'Comilla','BGD','Chittagong',152381
+161,'Nawabganj','BGD','Rajshahi',147048
+162,'Dinajpur','BGD','Rajshahi',143937
+163,'Bogra','BGD','Rajshahi',135328
+164,'Sylhet','BGD','Sylhet',132203
+165,'Brahmanbaria','BGD','Chittagong',122785
+166,'Tangail','BGD','Dhaka',119374
+167,'Jamalpur','BGD','Dhaka',116617
+168,'Pabna','BGD','Rajshahi',116302
+169,'Naogaon','BGD','Rajshahi',114040
+170,'Sirajganj','BGD','Rajshahi',112240
+171,'Narsinghdi','BGD','Dhaka',110746
+172,'Saidpur','BGD','Rajshahi',108983
+173,'Gazipur','BGD','Dhaka',108916
+174,'Bridgetown','BRB','St Michael',6832
+175,'Antwerpen','BEL','Antwerpen',502857
+176,'Gent','BEL','East Flanderi',252461
+177,'Charleroi','BEL','Hainaut',226160
+178,'Liège','BEL','Liège',209057
+179,'Bruxelles [Brussel]','BEL','Bryssel',150744
+180,'Brugge','BEL','West Flanderi',130908
+181,'Schaerbeek','BEL','Bryssel',119024
+182,'Namur','BEL','Namur',118716
+183,'Mons','BEL','Hainaut',102405
+184,'Belize City','BLZ','Belize City',62849
+185,'Belmopan','BLZ','Cayo',7997
+186,'Cotonou','BEN','Atlantique',604551
+187,'Porto-Novo','BEN','Ouémé',218472
+188,'Djougou','BEN','Atacora',151015
+189,'Parakou','BEN','Borgou',116642
+190,'Saint George','BMU','Saint George´s',2024
+191,'Hamilton','BMU','Hamilton',1348
+192,'Thimphu','BTN','Thimphu',24772
+193,'Santa Cruz de la Sierra','BOL','Santa Cruz',1053366
+194,'La Paz','BOL','La Paz',853786
+195,'El Alto','BOL','La Paz',601893
+196,'Cochabamba','BOL','Cochabamba',543709
+197,'Oruro','BOL','Oruro',251754
+198,'Sucre','BOL','Chuquisaca',200932
+199,'Potosí','BOL','Potosí',158382
+200,'Tarija','BOL','Tarija',141055
+201,'Sarajevo','BIH','Federaatio',405416
+202,'Banja Luka','BIH','Republika Srpska',161127
+203,'Zenica','BIH','Federaatio',108139
+204,'Gaborone','BWA','Gaborone',239889
+205,'Francistown','BWA','Francistown',114645
+206,'São Paulo','BRA','São Paulo',11226131
+207,'Rio de Janeiro','BRA','Rio de Janeiro',6305328
+208,'Salvador','BRA','Bahia',2593360
+209,'Belo Horizonte','BRA','Minas Gerais',2409000
+210,'Fortaleza','BRA','Ceará',2362413
+211,'Brasília','BRA','Distrito Federal',2218388
+212,'Curitiba','BRA','Paraná',1784099
+213,'Recife','BRA','Pernambuco',1551946
+214,'Porto Alegre','BRA','Rio Grande do Sul',1479810
+215,'Manaus','BRA','Amazonas',1413386
+216,'Belém','BRA','Pará',1336669
+217,'Guarulhos','BRA','São Paulo',1234128
+218,'Goiânia','BRA','Goiás',1189597
+219,'Campinas','BRA','São Paulo',1069899
+220,'São Gonçalo','BRA','Rio de Janeiro',978919
+221,'Nova Iguaçu','BRA','Rio de Janeiro',971002
+222,'São Luís','BRA','Maranhão',943257
+223,'Maceió','BRA','Alagoas',885486
+224,'Duque de Caxias','BRA','Rio de Janeiro',840968
+225,'São Bernardo do Campo','BRA','São Paulo',814359
+226,'Teresina','BRA','Piauí',779235
+227,'Natal','BRA','Rio Grande do Norte',775872
+228,'Osasco','BRA','São Paulo',742819
+229,'Campo Grande','BRA','Mato Grosso do Sul',731544
+230,'Santo André','BRA','São Paulo',709561
+231,'João Pessoa','BRA','Paraíba',657709
+232,'Jaboatão dos Guararapes','BRA','Pernambuco',629162
+233,'Contagem','BRA','Minas Gerais',586504
+234,'São José dos Campos','BRA','São Paulo',580595
+235,'Uberlândia','BRA','Minas Gerais',548688
+236,'Feira de Santana','BRA','Bahia',540545
+237,'Ribeirão Preto','BRA','São Paulo',532981
+238,'Sorocaba','BRA','São Paulo',525716
+239,'Niterói','BRA','Rio de Janeiro',517900
+240,'Cuiabá','BRA','Mato Grosso',511063
+241,'Juiz de Fora','BRA','Minas Gerais',507094
+242,'Aracaju','BRA','Sergipe',501765
+243,'São João de Meriti','BRA','Rio de Janeiro',495568
+244,'Londrina','BRA','Paraná',486789
+245,'Joinville','BRA','Santa Catarina',482008
+246,'Belford Roxo','BRA','Rio de Janeiro',478833
+247,'Santos','BRA','São Paulo',460313
+248,'Ananindeua','BRA','Pará',451520
+249,'Campos dos Goytacazes','BRA','Rio de Janeiro',448681
+250,'Mauá','BRA','São Paulo',422371
+251,'Carapicuíba','BRA','São Paulo',402659
+252,'Olinda','BRA','Pernambuco',399483
+253,'Campina Grande','BRA','Paraíba',396965
+254,'São José do Rio Preto','BRA','São Paulo',396343
+255,'Caxias do Sul','BRA','Rio Grande do Sul',393682
+256,'Moji das Cruzes','BRA','São Paulo',381984
+257,'Diadema','BRA','São Paulo',377349
+258,'Aparecida de Goiânia','BRA','Goiás',365620
+259,'Piracicaba','BRA','São Paulo',359360
+260,'Cariacica','BRA','Espírito Santo',359280
+261,'Vila Velha','BRA','Espírito Santo',358970
+262,'Pelotas','BRA','Rio Grande do Sul',355206
+263,'Bauru','BRA','São Paulo',353240
+264,'Porto Velho','BRA','Rondônia',348826
+265,'Serra','BRA','Espírito Santo',340848
+266,'Betim','BRA','Minas Gerais',340221
+267,'Jundíaí','BRA','São Paulo',333483
+268,'Canoas','BRA','Rio Grande do Sul',331230
+269,'Franca','BRA','São Paulo',326740
+270,'São Vicente','BRA','São Paulo',323034
+271,'Maringá','BRA','Paraná',322598
+272,'Montes Claros','BRA','Minas Gerais',322145
+273,'Anápolis','BRA','Goiás',317796
+274,'Florianópolis','BRA','Santa Catarina',317494
+275,'Petrópolis','BRA','Rio de Janeiro',314402
+276,'Itaquaquecetuba','BRA','São Paulo',305046
+277,'Vitória','BRA','Espírito Santo',304765
+278,'Ponta Grossa','BRA','Paraná',301824
+279,'Rio Branco','BRA','Acre',292277
+280,'Foz do Iguaçu','BRA','Paraná',292153
+281,'Macapá','BRA','Amapá',288332
+282,'Ilhéus','BRA','Bahia',287135
+283,'Vitória da Conquista','BRA','Bahia',285577
+284,'Uberaba','BRA','Minas Gerais',280665
+285,'Paulista','BRA','Pernambuco',279818
+286,'Limeira','BRA','São Paulo',276466
+287,'Blumenau','BRA','Santa Catarina',275208
+288,'Caruaru','BRA','Pernambuco',275058
+289,'Santarém','BRA','Pará',272270
+290,'Volta Redonda','BRA','Rio de Janeiro',270631
+291,'Novo Hamburgo','BRA','Rio Grande do Sul',270208
+292,'Caucaia','BRA','Ceará',268854
+293,'Santa Maria','BRA','Rio Grande do Sul',268556
+294,'Cascavel','BRA','Paraná',267472
+295,'Guarujá','BRA','São Paulo',267130
+296,'Ribeirão das Neves','BRA','Minas Gerais',262038
+297,'Governador Valadares','BRA','Minas Gerais',260956
+298,'Taubaté','BRA','São Paulo',258035
+299,'Imperatriz','BRA','Maranhão',252893
+300,'Gravataí','BRA','Rio Grande do Sul',251144
+301,'Embu','BRA','São Paulo',250257
+302,'Mossoró','BRA','Rio Grande do Norte',242011
+303,'Várzea Grande','BRA','Mato Grosso',241486
+304,'Petrolina','BRA','Pernambuco',237099
+305,'Barueri','BRA','São Paulo',234718
+306,'Viamão','BRA','Rio Grande do Sul',233741
+307,'Ipatinga','BRA','Minas Gerais',232367
+308,'Juazeiro','BRA','Bahia',226436
+309,'Juazeiro do Norte','BRA','Ceará',224820
+310,'Taboão da Serra','BRA','São Paulo',222471
+311,'São José dos Pinhais','BRA','Paraná',221720
+312,'Magé','BRA','Rio de Janeiro',220891
+313,'Suzano','BRA','São Paulo',220086
+314,'São Leopoldo','BRA','Rio Grande do Sul',213133
+315,'Marília','BRA','São Paulo',212493
+316,'São Carlos','BRA','São Paulo',210726
+317,'Sumaré','BRA','São Paulo',209695
+318,'Presidente Prudente','BRA','São Paulo',208719
+319,'Divinópolis','BRA','Minas Gerais',208389
+320,'Sete Lagoas','BRA','Minas Gerais',206066
+321,'Rio Grande','BRA','Rio Grande do Sul',205208
+322,'Itabuna','BRA','Bahia',205125
+323,'Jequié','BRA','Bahia',201724
+324,'Arapiraca','BRA','Alagoas',201566
+325,'Colombo','BRA','Paraná',200188
+326,'Americana','BRA','São Paulo',199789
+327,'Alvorada','BRA','Rio Grande do Sul',197721
+328,'Araraquara','BRA','São Paulo',196379
+329,'Itaboraí','BRA','Rio de Janeiro',195924
+330,'Santa Bárbara d´Oeste','BRA','São Paulo',193311
+331,'Nova Friburgo','BRA','Rio de Janeiro',192229
+332,'Jacareí','BRA','São Paulo',191845
+333,'Araçatuba','BRA','São Paulo',190660
+334,'Barra Mansa','BRA','Rio de Janeiro',190265
+335,'Praia Grande','BRA','São Paulo',189681
+336,'Marabá','BRA','Pará',188962
+337,'Criciúma','BRA','Santa Catarina',188811
+338,'Boa Vista','BRA','Roraima',188274
+339,'Passo Fundo','BRA','Rio Grande do Sul',187327
+340,'Dourados','BRA','Mato Grosso do Sul',185494
+341,'Santa Luzia','BRA','Minas Gerais',185480
+342,'Rio Claro','BRA','São Paulo',184183
+343,'Maracanaú','BRA','Ceará',182460
+344,'Guarapuava','BRA','Paraná',180757
+345,'Rondonópolis','BRA','Mato Grosso',174683
+346,'São José','BRA','Santa Catarina',174670
+347,'Cachoeiro de Itapemirim','BRA','Espírito Santo',174580
+348,'Nilópolis','BRA','Rio de Janeiro',172731
+349,'Itapevi','BRA','São Paulo',169669
+350,'Cabo de Santo Agostinho','BRA','Pernambuco',168881
+351,'Camaçari','BRA','Bahia',167959
+352,'Sobral','BRA','Ceará',164422
+353,'Itajaí','BRA','Santa Catarina',163513
+354,'Chapecó','BRA','Santa Catarina',162342
+355,'Cotia','BRA','São Paulo',157706
+356,'Lages','BRA','Santa Catarina',157176
+357,'Ferraz de Vasconcelos','BRA','São Paulo',156853
+358,'Indaiatuba','BRA','São Paulo',153119
+359,'Hortolândia','BRA','São Paulo',152879
+360,'Caxias','BRA','Maranhão',150880
+361,'São Caetano do Sul','BRA','São Paulo',150138
+362,'Itu','BRA','São Paulo',149478
+363,'Nossa Senhora do Socorro','BRA','Sergipe',147920
+364,'Parnaíba','BRA','Piauí',146124
+365,'Poços de Caldas','BRA','Minas Gerais',146041
+366,'Teresópolis','BRA','Rio de Janeiro',144235
+367,'Barreiras','BRA','Bahia',143923
+368,'Castanhal','BRA','Pará',143733
+369,'Alagoinhas','BRA','Bahia',142817
+370,'Itapecerica da Serra','BRA','São Paulo',142651
+371,'Uruguaiana','BRA','Rio Grande do Sul',142237
+372,'Paranaguá','BRA','Paraná',141978
+373,'Ibirité','BRA','Minas Gerais',141873
+374,'Timon','BRA','Maranhão',141682
+375,'Luziânia','BRA','Goiás',141439
+376,'Macaé','BRA','Rio de Janeiro',141439
+377,'Teófilo Otoni','BRA','Minas Gerais',140191
+378,'Moji-Guaçu','BRA','São Paulo',139396
+379,'Palmas','BRA','Tocantins',137298
+380,'Pindamonhangaba','BRA','São Paulo',137281
+381,'Francisco Morato','BRA','São Paulo',136484
+382,'Bagé','BRA','Rio Grande do Sul',136029
+383,'Sapucaia do Sul','BRA','Rio Grande do Sul',135381
+384,'Cabo Frio','BRA','Rio de Janeiro',134577
+385,'Itapetininga','BRA','São Paulo',134450
+386,'Patos de Minas','BRA','Minas Gerais',134305
+387,'Camaragibe','BRA','Pernambuco',133973
+388,'Bragança Paulista','BRA','São Paulo',131678
+389,'Queimados','BRA','Rio de Janeiro',129529
+390,'Araguaína','BRA','Tocantins',129446
+391,'Garanhuns','BRA','Pernambuco',129058
+392,'Vitória de Santo Antão','BRA','Pernambuco',127923
+393,'Santa Rita','BRA','Paraíba',127406
+394,'Barbacena','BRA','Minas Gerais',127340
+395,'Abaetetuba','BRA','Pará',125292
+396,'Jaú','BRA','São Paulo',123836
+397,'Lauro de Freitas','BRA','Bahia',123014
+398,'Franco da Rocha','BRA','São Paulo',122708
+399,'Teixeira de Freitas','BRA','Bahia',122119
+400,'Varginha','BRA','Minas Gerais',121975
+401,'Ribeirão Pires','BRA','São Paulo',121758
+402,'Sabará','BRA','Minas Gerais',121375
+403,'Catanduva','BRA','São Paulo',121354
+404,'Rio Verde','BRA','Goiás',121348
+405,'Botucatu','BRA','São Paulo',121244
+406,'Colatina','BRA','Espírito Santo',120896
+407,'Santa Cruz do Sul','BRA','Rio Grande do Sul',120196
+408,'Linhares','BRA','Espírito Santo',119683
+409,'Apucarana','BRA','Paraná',118373
+410,'Barretos','BRA','São Paulo',117293
+411,'Guaratinguetá','BRA','São Paulo',116480
+412,'Cachoeirinha','BRA','Rio Grande do Sul',116262
+413,'Codó','BRA','Maranhão',116165
+414,'Jaraguá do Sul','BRA','Santa Catarina',115519
+415,'Cubatão','BRA','São Paulo',115285
+416,'Itabira','BRA','Minas Gerais',115110
+417,'Itaituba','BRA','Pará',114100
+418,'Araras','BRA','São Paulo',113791
+419,'Resende','BRA','Rio de Janeiro',113318
+420,'Atibaia','BRA','São Paulo',113014
+421,'Pouso Alegre','BRA','Minas Gerais',112644
+422,'Toledo','BRA','Paraná',111923
+423,'Crato','BRA','Ceará',111448
+424,'Passos','BRA','Minas Gerais',111003
+425,'Araguari','BRA','Minas Gerais',110810
+426,'São José de Ribamar','BRA','Maranhão',110718
+427,'Pinhais','BRA','Paraná',110584
+428,'Sertãozinho','BRA','São Paulo',110519
+429,'Conselheiro Lafaiete','BRA','Minas Gerais',109806
+430,'Paulo Afonso','BRA','Bahia',109562
+431,'Angra dos Reis','BRA','Rio de Janeiro',109081
+432,'Eunápolis','BRA','Bahia',108796
+433,'Salto','BRA','São Paulo',108499
+434,'Ourinhos','BRA','São Paulo',108436
+435,'Parnamirim','BRA','Rio Grande do Norte',108344
+436,'Jacobina','BRA','Bahia',108257
+437,'Coronel Fabriciano','BRA','Minas Gerais',108034
+438,'Birigui','BRA','São Paulo',106627
+439,'Tatuí','BRA','São Paulo',105739
+440,'Ji-Paraná','BRA','Rondônia',105120
+441,'Bacabal','BRA','Maranhão',104866
+442,'Cametá','BRA','Pará',104481
+443,'Guaíba','BRA','Rio Grande do Sul',103856
+444,'São Lourenço da Mata','BRA','Pernambuco',103602
+445,'Santana do Livramento','BRA','Rio Grande do Sul',103354
+446,'Votorantim','BRA','São Paulo',103352
+447,'Campo Largo','BRA','Paraná',102706
+448,'Patos','BRA','Paraíba',101936
+449,'Ituiutaba','BRA','Minas Gerais',101923
+450,'Corumbá','BRA','Mato Grosso do Sul',101477
+451,'Palhoça','BRA','Santa Catarina',100749
+452,'Barra do Piraí','BRA','Rio de Janeiro',100662
+453,'Bento Gonçalves','BRA','Rio Grande do Sul',100512
+454,'Poá','BRA','São Paulo',100490
+455,'Águas Lindas de Goiás','BRA','Goiás',100452
+456,'London','GBR','England',8204092
+457,'Birmingham','GBR','England',1140801
+458,'Glasgow','GBR','Scotland',697858
+459,'Liverpool','GBR','England',519159
+460,'Edinburgh','GBR','Scotland',506972
+461,'Sheffield','GBR','England',486056
+462,'Manchester','GBR','England',484248
+463,'Leeds','GBR','England',477708
+464,'Bristol','GBR','England',452714
+465,'Cardiff','GBR','Wales',361496
+466,'Coventry','GBR','England',342351
+467,'Leicester','GBR','England',331088
+468,'Bradford','GBR','England',325881
+469,'Belfast','GBR','North Ireland',323769
+470,'Nottingham','GBR','England',323206
+471,'Kingston upon Hull','GBR','England',295051
+472,'Plymouth','GBR','England',284917
+473,'Stoke-on-Trent','GBR','England',283790
+474,'Wolverhampton','GBR','England',272528
+475,'Derby','GBR','England',265772
+476,'Swansea','GBR','Wales',259015
+477,'Southampton','GBR','England',243249
+478,'Aberdeen','GBR','Scotland',239948
+479,'Northampton','GBR','England',220725
+480,'Dudley','GBR','England',216413
+481,'Portsmouth','GBR','England',213969
+482,'Newcastle upon Tyne','GBR','England',213010
+483,'Sunderland','GBR','England',206434
+484,'Luton','GBR','England',206085
+485,'Swindon','GBR','England',202707
+486,'Southend-on-Sea','GBR','England',198203
+487,'Walsall','GBR','England',196780
+488,'Bournemouth','GBR','England',182436
+489,'Peterborough','GBR','England',175679
+490,'Brighton','GBR','England',175817
+491,'Blackpool','GBR','England',170048
+492,'Dundee','GBR','Scotland',165194
+493,'West Bromwich','GBR','England',164851
+494,'Reading','GBR','England',166670
+495,'Oldbury/SmethwickWarley ','GBR','England',163900
+496,'Middlesbrough','GBR','England',163292
+497,'Huddersfield','GBR','England',161856
+498,'Oxford','GBR','England',162165
+499,'Poole','GBR','England',158786
+500,'Bolton','GBR','England',156556
+501,'Blackburn','GBR','England',157661
+502,'Newport','GBR','Wales',156535
+503,'Preston','GBR','England',152031
+504,'Stockport','GBR','England',149566
+505,'Norwich','GBR','England',139642
+506,'Rotherham','GBR','England',136691
+507,'Cambridge','GBR','England',136263
+508,'Watford','GBR','England',127341
+509,'Ipswich','GBR','England',128380
+510,'Slough','GBR','England',126128
+511,'Exeter','GBR','England',125001
+512,'Cheltenham','GBR','England',119370
+513,'Gloucester','GBR','England',120496
+514,'Saint Helens','GBR','England',119700
+515,'Sutton Coldfield','GBR','England',119371
+516,'York','GBR','England',117596
+517,'Oldham','GBR','England',117039
+518,'Basildon','GBR','England',113654
+519,'Worthing','GBR','England',112614
+520,'Chelmsford','GBR','England',109743
+521,'Colchester','GBR','England',108179
+522,'Crawley','GBR','England',109234
+523,'Gillingham','GBR','England',103604
+524,'Solihull','GBR','England',106454
+525,'Rochdale','GBR','England',106208
+526,'Birkenhead','GBR','England',104827
+527,'Worcester','GBR','England',106983
+528,'Hartlepool','GBR','England',103604
+529,'Halifax','GBR','England',102554
+530,'Woking/Byfleet','GBR','England',103604
+531,'Southport','GBR','England',102432
+532,'Maidstone','GBR','England',102339
+533,'Eastbourne','GBR','England',101353
+534,'Grimsby','GBR','England',100225
+535,'Saint Helier','GBR','Jersey',30992
+536,'Douglas','GBR','–',26447
+537,'Road Town','VGB','Tortola',9007
+538,'Bandar Seri Begawan','BRN','Brunei and Muara',24192
+539,'Sofija','BGR','Grad Sofija',1263891
+540,'Plovdiv','BGR','Plovdiv',385802
+541,'Varna','BGR','Varna',337623
+542,'Burgas','BGR','Burgas',219886
+543,'Ruse','BGR','Ruse',187465
+544,'Stara Zagora','BGR','Haskovo',166599
+545,'Pleven','BGR','Lovec',137335
+546,'Sliven','BGR','Burgas',118840
+547,'Dobric','BGR','Varna',113062
+548,'Šumen','BGR','Varna',106628
+549,'Ouagadougou','BFA','Kadiogo',927955
+550,'Bobo-Dioulasso','BFA','Houet',337847
+551,'Koudougou','BFA','Boulkiemdé',118245
+552,'Bujumbura','BDI','Bujumbura',337847
+553,'George Town','CYM','Grand Cayman',22069
+554,'Santiago de Chile','CHL','Santiago',5297413
+555,'Puente Alto','CHL','Santiago',434961
+556,'Viña del Mar','CHL','Valparaíso',351915
+557,'Valparaíso','CHL','Valparaíso',330864
+558,'Talcahuano','CHL','Bíobío',312792
+559,'Antofagasta','CHL','Antofagasta',283147
+560,'San Bernardo','CHL','Santiago',272426
+561,'Temuco','CHL','La Araucanía',262440
+562,'Concepción','CHL','Bíobío',245123
+563,'Rancagua','CHL','O´Higgins',239843
+564,'Arica','CHL','Tarapacá',212883
+565,'Talca','CHL','Maule',211217
+566,'Chillán','CHL','Bíobío',200658
+567,'Iquique','CHL','Tarapacá',200332
+568,'Los Angeles','CHL','Bíobío',178173
+569,'Puerto Montt','CHL','Los Lagos',171391
+570,'Coquimbo','CHL','Coquimbo',161436
+571,'Osorno','CHL','Los Lagos',159312
+572,'La Serena','CHL','Coquimbo',154743
+573,'Calama','CHL','Antofagasta',154581
+574,'Valdivia','CHL','Los Lagos',149897
+575,'Punta Arenas','CHL','Magallanes',141478
+576,'Copiapó','CHL','Atacama',135280
+577,'Quilpué','CHL','Valparaíso',133850
+578,'Curicó','CHL','Maule',130369
+579,'Ovalle','CHL','Coquimbo',106819
+580,'Coronel','CHL','Bíobío',104799
+581,'San Pedro de la Paz','CHL','Bíobío',103247
+582,'Melipilla','CHL','Santiago',102541
+583,'Avarua','COK','Rarotonga',13398
+584,'San José','CRI','San José',381913
+585,'Djibouti','DJI','Djibouti',431318
+586,'Roseau','DMA','St George',18288
+587,'Santo Domingo de Guzmán','DOM','Distrito Nacional',1813081
+588,'Santiago de los Caballeros','DOM','Santiago',411567
+589,'La Romana','DOM','La Romana',157890
+590,'San Pedro de Macorís','DOM','San Pedro de Macorís',140469
+591,'San Francisco de Macorís','DOM','Duarte',122169
+592,'San Felipe de Puerto Plata','DOM','Puerto Plata',100701
+593,'Guayaquil','ECU','Guayas',2331197
+594,'Quito','ECU','Pichincha',1771967
+595,'Cuenca','ECU','Azuay',304459
+596,'Machala','ECU','El Oro',236906
+597,'Santo Domingo de los Colorados','ECU','Pichincha',227607
+598,'Portoviejo','ECU','Manabí',198667
+599,'Ambato','ECU','Tungurahua',191008
+600,'Manta','ECU','Manabí',185519
+601,'Duran [Eloy Alfaro]','ECU','Guayas',171752
+602,'Ibarra','ECU','Imbabura',147122
+603,'Quevedo','ECU','Los Ríos',145983
+604,'Milagro','ECU','Guayas',139840
+605,'Loja','ECU','Loja',139501
+606,'Ríobamba','ECU','Chimborazo',138699
+607,'Esmeraldas','ECU','Esmeraldas',138565
+608,'Cairo','EGY','Kairo',7646052
+609,'Alexandria','EGY','Aleksandria',3748086
+610,'Giza','EGY','Giza',2502182
+611,'Shubra al-Khayma','EGY','al-Qalyubiya',980564
+612,'Port Said','EGY','Port Said',528768
+613,'Suez','EGY','Suez',470294
+614,'al-Mahallat al-Kubra','EGY','al-Gharbiya',445285
+615,'Tanta','EGY','al-Gharbiya',417814
+616,'al-Mansura','EGY','al-Daqahliya',416250
+617,'Luxor','EGY','Luxor',405983
+618,'Asyut','EGY','Asyut',386831
+619,'Bahtim','EGY','al-Qalyubiya',310600
+620,'Zagazig','EGY','al-Sharqiya',301078
+621,'al-Faiyum','EGY','al-Faiyum',293885
+622,'Ismailia','EGY','Ismailia',286581
+623,'Kafr al-Dawwar','EGY','al-Buhayra',261241
+624,'Assuan','EGY','Assuan',246646
+625,'Damanhur','EGY','al-Buhayra',238971
+626,'al-Minya','EGY','al-Minya',226761
+627,'Bani Suwayf','EGY','Bani Suwayf',193733
+628,'Qina','EGY','Qina',192880
+629,'Sawhaj','EGY','Sawhaj',191584
+630,'Shibin al-Kawm','EGY','al-Minufiya',180081
+631,'Bulaq al-Dakrur','EGY','Giza',167554
+632,'Banha','EGY','al-Qalyubiya',164183
+633,'Warraq al-Arab','EGY','Giza',143141
+634,'Kafr al-Shaykh','EGY','Kafr al-Shaykh',140565
+635,'Mallawi','EGY','al-Minya',134329
+636,'Bilbays','EGY','al-Sharqiya',127938
+637,'Mit Ghamr','EGY','al-Daqahliya',114641
+638,'al-Arish','EGY','Shamal Sina',113116
+639,'Talkha','EGY','al-Daqahliya',110024
+640,'Qalyub','EGY','al-Qalyubiya',109460
+641,'Jirja','EGY','Sawhaj',107434
+642,'Idfu','EGY','Qina',106083
+643,'al-Hawamidiya','EGY','Giza',103267
+644,'Disuq','EGY','Kafr al-Shaykh',102816
+645,'San Salvador','SLV','San Salvador',467744
+646,'Santa Ana','SLV','Santa Ana',156971
+647,'Mejicanos','SLV','San Salvador',156308
+648,'Soyapango','SLV','San Salvador',146172
+649,'San Miguel','SLV','San Miguel',143803
+650,'Nueva San Salvador','SLV','La Libertad',110812
+651,'Apopa','SLV','San Salvador',100000
+652,'Asmara','ERI','Maekel',485374
+653,'Madrid','ESP','Madrid',3242278
+654,'Barcelona','ESP','Katalonia',1693127
+655,'Valencia','ESP','Valencia',832696
+656,'Sevilla','ESP','Andalusia',790480
+657,'Zaragoza','ESP','Aragonia',679486
+658,'Málaga','ESP','Andalusia',597486
+659,'Bilbao','ESP','Baskimaa',402700
+660,'Las Palmas de Gran Canaria','ESP','Canary Islands',399511
+661,'Murcia','ESP','Murcia',398099
+662,'Palma de Mallorca','ESP','Balears',368244
+663,'Valladolid','ESP','Castilla and León',360366
+664,'Córdoba','ESP','Andalusia',351031
+665,'Vigo','ESP','Galicia',319455
+666,'Alicante [Alacant]','ESP','Valencia',306799
+667,'Gijón','ESP','Asturia',301786
+668,'L´Hospitalet de Llobregat','ESP','Katalonia',279269
+669,'Granada','ESP','Andalusia',275644
+670,'A CoruñaLa Coruña ','ESP','Galicia',274107
+671,'Vitoria-Gasteiz','ESP','Baskimaa',244548
+672,'Santa Cruz de Tenerife','ESP','Canary Islands',239927
+673,'Badalona','ESP','Katalonia',236081
+674,'Oviedo','ESP','Asturia',225741
+675,'Móstoles','ESP','Madrid',219995
+676,'Elche [Elx]','ESP','Valencia',217541
+677,'Sabadell','ESP','Katalonia',208178
+678,'Santander','ESP','Cantabria',207396
+679,'Jerez de la Frontera','ESP','Andalusia',205702
+680,'Pamplona [Iruña]','ESP','Navarra',203250
+681,'Donostia-San Sebastián','ESP','Baskimaa',201814
+682,'Cartagena','ESP','Murcia',200127
+683,'Leganés','ESP','Madrid',195007
+684,'Fuenlabrada','ESP','Madrid',192764
+685,'Almería','ESP','Andalusia',190350
+686,'Terrassa','ESP','Katalonia',189975
+687,'Alcalá de Henares','ESP','Madrid',185210
+688,'Burgos','ESP','Castilla and León',183339
+689,'Salamanca','ESP','Castilla and León',178741
+690,'Albacete','ESP','Kastilia-La Mancha',166136
+691,'Getafe','ESP','Madrid',163708
+692,'Cádiz','ESP','Andalusia',160417
+693,'Alcorcón','ESP','Madrid',159965
+694,'Huelva','ESP','Andalusia',158316
+695,'León','ESP','Castilla and León',157446
+696,'Castellón de la Plana [Castell','ESP','Valencia',157337
+697,'Badajoz','ESP','Extremadura',153845
+698,'[San Cristóbal de] la Laguna','ESP','Canary Islands',144084
+699,'Logroño','ESP','La Rioja',143124
+700,'Santa Coloma de Gramenet','ESP','Katalonia',136040
+701,'Tarragona','ESP','Katalonia',127271
+702,'LleidaLérida ','ESP','Katalonia',126361
+703,'Jaén','ESP','Andalusia',123027
+704,'OurenseOrense ','ESP','Galicia',122884
+705,'Mataró','ESP','Katalonia',117224
+706,'Algeciras','ESP','Andalusia',116112
+707,'Marbella','ESP','Andalusia',113901
+708,'Barakaldo','ESP','Baskimaa',110600
+709,'Dos Hermanas','ESP','Andalusia',106521
+710,'Santiago de Compostela','ESP','Galicia',105568
+711,'Torrejón de Ardoz','ESP','Madrid',103900
+712,'Cape Town','ZAF','Western Cape',2648867
+713,'Soweto','ZAF','Gauteng',1018233
+714,'Johannesburg','ZAF','Gauteng',852112
+715,'Port Elizabeth','ZAF','Eastern Cape',847231
+716,'Pretoria','ZAF','Gauteng',741721
+717,'Inanda','ZAF','KwaZulu-Natal',714057
+718,'Durban','ZAF','KwaZulu-Natal',637539
+719,'Vanderbijlpark','ZAF','Gauteng',528089
+720,'Kempton Park','ZAF','Gauteng',498474
+721,'Alberton','ZAF','Gauteng',461840
+722,'Pinetown','ZAF','KwaZulu-Natal',426598
+723,'Pietermaritzburg','ZAF','KwaZulu-Natal',416890
+724,'Benoni','ZAF','Gauteng',411572
+725,'Randburg','ZAF','Gauteng',384343
+726,'Umlazi','ZAF','KwaZulu-Natal',382027
+727,'Bloemfontein','ZAF','Free State',376518
+728,'Vereeniging','ZAF','Gauteng',369981
+729,'Wonderboom','ZAF','Gauteng',319026
+730,'Roodepoort','ZAF','Gauteng',314579
+731,'Boksburg','ZAF','Gauteng',295781
+732,'Klerksdorp','ZAF','North West',294950
+733,'Soshanguve','ZAF','Gauteng',273346
+734,'Newcastle','ZAF','KwaZulu-Natal',251124
+735,'East London','ZAF','Eastern Cape',248932
+736,'Welkom','ZAF','Free State',228942
+737,'Kimberley','ZAF','Northern Cape',222137
+738,'Uitenhage','ZAF','Eastern Cape',216356
+739,'Chatsworth','ZAF','KwaZulu-Natal',213838
+740,'Mdantsane','ZAF','Eastern Cape',205677
+741,'Krugersdorp','ZAF','Gauteng',204399
+742,'Botshabelo','ZAF','Free State',200421
+743,'Brakpan','ZAF','Gauteng',192979
+744,'Witbank','ZAF','Mpumalanga',188272
+745,'Oberholzer','ZAF','Gauteng',185102
+746,'Germiston','ZAF','Gauteng',184971
+747,'Springs','ZAF','Gauteng',182516
+748,'Westonaria','ZAF','Gauteng',179768
+749,'Randfontein','ZAF','Gauteng',136080
+750,'Paarl','ZAF','Western Cape',119108
+751,'Potchefstroom','ZAF','North West',114660
+752,'Rustenburg','ZAF','North West',109244
+753,'Nigel','ZAF','Gauteng',108936
+754,'George','ZAF','Western Cape',105652
+755,'Ladysmith','ZAF','KwaZulu-Natal',100554
+756,'Addis Abeba','ETH','Addis Abeba',2809773
+757,'Dire Dawa','ETH','Dire Dawa',185646
+758,'Nazret','ETH','Oromia',143967
+759,'Gonder','ETH','Amhara',126406
+760,'Dese','ETH','Amhara',109588
+761,'Mekele','ETH','Tigray',109165
+762,'Bahir Dar','ETH','Amhara',108266
+763,'Stanley','FLK','East Falkland',1840
+764,'Suva','FJI','Central',87124
+765,'Quezon','PHL','National Capital Reg',2448084
+766,'Manila','PHL','National Capital Reg',1780553
+767,'Kalookan','PHL','National Capital Reg',1326171
+768,'Davao','PHL','Southern Mindanao',1291837
+769,'Cebu','PHL','Central Visayas',809506
+770,'Zamboanga','PHL','Western Mindanao',677714
+771,'Pasig','PHL','National Capital Reg',568775
+772,'Valenzuela','PHL','National Capital Reg',546672
+773,'Las Piñas','PHL','National Capital Reg',532424
+774,'Antipolo','PHL','Southern Tagalog',530268
+775,'Taguig','PHL','National Capital Reg',526338
+776,'Cagayan de Oro','PHL','Northern Mindanao',520144
+777,'Parañaque','PHL','National Capital Reg',506557
+778,'Makati','PHL','National Capital Reg',500989
+779,'Bacolod','PHL','Western Visayas',483206
+780,'General Santos','PHL','Southern Mindanao',463776
+781,'Marikina','PHL','National Capital Reg',440518
+782,'Dasmariñas','PHL','Southern Tagalog',427399
+783,'Muntinlupa','PHL','National Capital Reg',427161
+784,'Iloilo','PHL','Western Visayas',411969
+785,'Pasay','PHL','National Capital Reg',399681
+786,'Malabon','PHL','National Capital Reg',381602
+787,'San José del Monte','PHL','Central Luzon',355647
+788,'Bacoor','PHL','Southern Tagalog',344263
+789,'Iligan','PHL','Central Mindanao',321023
+790,'Calamba','PHL','Southern Tagalog',316614
+791,'Mandaluyong','PHL','National Capital Reg',313604
+792,'Butuan','PHL','Caraga',300996
+793,'Angeles','PHL','Central Luzon',297271
+794,'Tarlac','PHL','Central Luzon',295592
+795,'Mandaue','PHL','Central Visayas',292493
+796,'Baguio','PHL','CAR',284224
+797,'Batangas','PHL','Southern Tagalog',278820
+798,'Cainta','PHL','Southern Tagalog',273106
+799,'San Pedro','PHL','Southern Tagalog',260595
+800,'Navotas','PHL','National Capital Reg',259469
+801,'Cabanatuan','PHL','Central Luzon',250973
+802,'San Fernando','PHL','Central Luzon',249843
+803,'Lipa','PHL','Southern Tagalog',246004
+804,'Lapu-Lapu','PHL','Central Visayas',244397
+805,'San Pablo','PHL','Southern Tagalog',234157
+806,'Biñan','PHL','Southern Tagalog',226565
+807,'Taytay','PHL','Southern Tagalog',223183
+808,'Lucena','PHL','Southern Tagalog',220808
+809,'Imus','PHL','Southern Tagalog',220140
+810,'Olongapo','PHL','Central Luzon',218765
+811,'Binangonan','PHL','Southern Tagalog',211367
+812,'Santa Rosa','PHL','Southern Tagalog',209049
+813,'Tagum','PHL','Southern Mindanao',202178
+814,'Tacloban','PHL','Eastern Visayas',201174
+815,'Malolos','PHL','Central Luzon',197402
+816,'Mabalacat','PHL','Central Luzon',192621
+817,'Cotabato','PHL','Central Mindanao',184518
+818,'Meycauayan','PHL','Central Luzon',183603
+819,'Puerto Princesa','PHL','Southern Tagalog',182338
+820,'Legazpi','PHL','Bicol',176818
+821,'Silang','PHL','Southern Tagalog',175832
+822,'Ormoc','PHL','Eastern Visayas',173760
+823,'San Carlos','PHL','Ilocos',173723
+824,'Kabankalan','PHL','Western Visayas',168662
+825,'Talisay','PHL','Central Visayas',166793
+826,'Valencia','PHL','Northern Mindanao',166583
+827,'Calbayog','PHL','Eastern Visayas',165753
+828,'Santa Maria','PHL','Central Luzon',162482
+829,'Pagadian','PHL','Western Mindanao',160492
+830,'Cadiz','PHL','Western Visayas',159860
+831,'Bago','PHL','Western Visayas',159598
+832,'Toledo','PHL','Central Visayas',158982
+833,'Naga','PHL','Bicol',155194
+834,'San Mateo','PHL','Southern Tagalog',152709
+835,'Panabo','PHL','Southern Mindanao',150846
+836,'Koronadal','PHL','Southern Mindanao',150662
+837,'Marawi','PHL','Central Mindanao',147625
+838,'Dagupan','PHL','Ilocos',146767
+839,'Sagay','PHL','Western Visayas',146135
+840,'Roxas','PHL','Western Visayas',142291
+841,'Lubao','PHL','Central Luzon',141554
+842,'Digos','PHL','Southern Mindanao',140959
+843,'San Miguel','PHL','Central Luzon',139444
+844,'Malaybalay','PHL','Northern Mindanao',139271
+845,'Tuguegarao','PHL','Cagayan Valley',135862
+846,'Ilagan','PHL','Cagayan Valley',135124
+847,'Baliuag','PHL','Central Luzon',134770
+848,'Surigao','PHL','Caraga',133486
+849,'San Carlos','PHL','Western Visayas',133176
+850,'San Juan del Monte','PHL','National Capital Reg',132523
+851,'Tanauan','PHL','Southern Tagalog',132364
+852,'Concepcion','PHL','Central Luzon',129699
+853,'RodriguezMontalban ','PHL','Southern Tagalog',129695
+854,'Sariaya','PHL','Southern Tagalog',129019
+855,'Malasiqui','PHL','Ilocos',127468
+856,'General Mariano Alvarez','PHL','Southern Tagalog',126628
+857,'Urdaneta','PHL','Ilocos',125656
+858,'Hagonoy','PHL','Central Luzon',125480
+859,'San Jose','PHL','Southern Tagalog',125012
+860,'Polomolok','PHL','Southern Mindanao',124673
+861,'Santiago','PHL','Cagayan Valley',124471
+862,'Tanza','PHL','Southern Tagalog',124457
+863,'Ozamis','PHL','Northern Mindanao',124348
+864,'Mexico','PHL','Central Luzon',123291
+865,'San Jose','PHL','Central Luzon',121909
+866,'Silay','PHL','Western Visayas',121310
+867,'General Trias','PHL','Southern Tagalog',121273
+868,'Tabaco','PHL','Bicol',120683
+869,'Cabuyao','PHL','Southern Tagalog',120080
+870,'Calapan','PHL','Southern Tagalog',119268
+871,'Mati','PHL','Southern Mindanao',119266
+872,'Midsayap','PHL','Central Mindanao',119100
+873,'Cauayan','PHL','Cagayan Valley',117065
+874,'Gingoog','PHL','Northern Mindanao',115292
+875,'Dumaguete','PHL','Central Visayas',115164
+876,'San Fernando','PHL','Ilocos',114958
+877,'Arayat','PHL','Central Luzon',114631
+878,'BayawanTulong ','PHL','Central Visayas',114178
+879,'Kidapawan','PHL','Central Mindanao',113969
+880,'DaragaLocsin ','PHL','Bicol',113775
+881,'Marilao','PHL','Central Luzon',113757
+882,'Malita','PHL','Southern Mindanao',112614
+883,'Dipolog','PHL','Western Mindanao',112458
+884,'Cavite','PHL','Southern Tagalog',111901
+885,'Danao','PHL','Central Visayas',111241
+886,'Bislig','PHL','Caraga',110203
+887,'Talavera','PHL','Central Luzon',109606
+888,'Guagua','PHL','Central Luzon',109074
+889,'Bayambang','PHL','Ilocos',108795
+890,'Nasugbu','PHL','Southern Tagalog',108235
+891,'Baybay','PHL','Eastern Visayas',107691
+892,'Capas','PHL','Central Luzon',107229
+893,'Sultan Kudarat','PHL','ARMM',106826
+894,'Laoag','PHL','Ilocos',106381
+895,'Bayugan','PHL','Caraga',105432
+896,'Malungon','PHL','Southern Mindanao',104990
+897,'Santa Cruz','PHL','Southern Tagalog',104384
+898,'Sorsogon','PHL','Bicol',104180
+899,'Candelaria','PHL','Southern Tagalog',104086
+900,'Ligao','PHL','Bicol',102031
+901,'Tórshavn','FRO','Streymoyar',16373
+902,'Libreville','GAB','Estuaire',471859
+903,'Serekunda','GMB','Kombo St Mary',115542
+904,'Banjul','GMB','Banjul',47663
+905,'Tbilisi','GEO','Tbilisi',1391035
+906,'Kutaisi','GEO','Imereti',271290
+907,'Rustavi','GEO','Kvemo Kartli',175004
+908,'Batumi','GEO','Adzaria [Atšara]',155071
+909,'Sohumi','GEO','Abhasia [Aphazeti]',125790
+910,'Accra','GHA','Greater Accra',1204992
+911,'Kumasi','GHA','Ashanti',433785
+912,'Tamale','GHA','Northern',170125
+913,'Tema','GHA','Greater Accra',123847
+914,'Sekondi-Takoradi','GHA','Western',116726
+915,'Gibraltar','GIB','–',30432
+916,'Saint George´s','GRD','St George',5203
+917,'Nuuk','GRL','Kitaa',15138
+918,'Les Abymes','GLP','Grande-Terre',70884
+919,'Basse-Terre','GLP','Basse-Terre',13998
+920,'Tamuning','GUM','–',10695
+921,'Agaña','GUM','–',1280
+922,'Ciudad de Guatemala','GTM','Guatemala',927168
+923,'Mixco','GTM','Guatemala',236255
+924,'Villa Nueva','GTM','Guatemala',114070
+925,'Quetzaltenango','GTM','Quetzaltenango',102255
+926,'Conakry','GIN','Conakry',1228202
+927,'Bissau','GNB','Bissau',271403
+928,'Georgetown','GUY','Georgetown',286042
+929,'Port-au-Prince','HTI','Ouest',996057
+930,'Carrefour','HTI','Ouest',326815
+931,'Delmas','HTI','Ouest',270757
+932,'Le-Cap-Haïtien','HTI','Nord',115128
+933,'Tegucigalpa','HND','Distrito Central',916581
+934,'San Pedro Sula','HND','Cortés',432331
+935,'La Ceiba','HND','Atlántida',100452
+936,'Kowloon and New Kowloon','HKG','Kowloon and New Kowl',2238804
+937,'Victoria','HKG','Hongkong',1478239
+938,'Longyearbyen','SJM','Länsimaa',1616
+939,'Jakarta','IDN','Jakarta Raya',10816674
+940,'Surabaya','IDN','East Java',2999891
+941,'Bandung','IDN','West Java',2735446
+942,'Medan','IDN','Sumatera Utara',2076549
+943,'Palembang','IDN','Sumatera Selatan',1377029
+944,'Tangerang','IDN','West Java',1349478
+945,'Semarang','IDN','Central Java',1243737
+946,'Ujung Pandang','IDN','Sulawesi Selatan',1194020
+947,'Malang','IDN','East Java',807300
+948,'Bandar Lampung','IDN','Lampung',766161
+949,'Bekasi','IDN','West Java',725584
+950,'Padang','IDN','Sumatera Barat',601902
+951,'Surakarta','IDN','Central Java',584025
+952,'Banjarmasin','IDN','Kalimantan Selatan',543854
+953,'Pekan Baru','IDN','Riau',493974
+954,'Denpasar','IDN','Bali',489879
+955,'Yogyakarta','IDN','Yogyakarta',471795
+956,'Pontianak','IDN','Kalimantan Barat',461309
+957,'Samarinda','IDN','Kalimantan Timur',449534
+958,'Jambi','IDN','Jambi',433797
+959,'Depok','IDN','West Java',411274
+960,'Cimahi','IDN','West Java',388073
+961,'Balikpapan','IDN','Kalimantan Timur',381487
+962,'Manado','IDN','Sulawesi Utara',374207
+963,'Mataram','IDN','Nusa Tenggara Barat',345279
+964,'Pekalongan','IDN','Central Java',339540
+965,'Tegal','IDN','Central Java',326294
+966,'Bogor','IDN','West Java',321082
+967,'Ciputat','IDN','West Java',304962
+968,'Pondokgede','IDN','West Java',296403
+969,'Cirebon','IDN','West Java',286499
+970,'Kediri','IDN','East Java',285772
+971,'Ambon','IDN','Molukit',280763
+972,'Jember','IDN','East Java',246064
+973,'Cilacap','IDN','Central Java',233001
+974,'Cimanggis','IDN','West Java',230974
+975,'Pematang Siantar','IDN','Sumatera Utara',228671
+976,'Purwokerto','IDN','Central Java',228045
+977,'Ciomas','IDN','West Java',211040
+978,'Tasikmalaya','IDN','West Java',202482
+979,'Madiun','IDN','East Java',193170
+980,'Bengkulu','IDN','Bengkulu',164912
+981,'Karawang','IDN','West Java',163292
+982,'Banda Aceh','IDN','Aceh',161499
+983,'Palu','IDN','Sulawesi Tengah',160814
+984,'Pasuruan','IDN','East Java',150924
+985,'Kupang','IDN','Nusa Tenggara Timur',145611
+986,'Tebing Tinggi','IDN','Sumatera Utara',145611
+987,'Percut Sei Tuan','IDN','Sumatera Utara',145272
+988,'Binjai','IDN','Sumatera Utara',143271
+989,'Sukabumi','IDN','West Java',141630
+990,'Waru','IDN','East Java',139979
+991,'Pangkal Pinang','IDN','Sumatera Selatan',139642
+992,'Magelang','IDN','Central Java',139417
+993,'Blitar','IDN','East Java',138067
+994,'Serang','IDN','West Java',137838
+995,'Probolinggo','IDN','East Java',136003
+996,'Cilegon','IDN','West Java',131758
+997,'Cianjur','IDN','West Java',128717
+998,'Ciparay','IDN','West Java',125565
+999,'Lhokseumawe','IDN','Aceh',123425
+1000,'Taman','IDN','East Java',120496
+1001,'Depok','IDN','Yogyakarta',120272
+1002,'Citeureup','IDN','West Java',118357
+1003,'Pemalang','IDN','Central Java',116555
+1004,'Klaten','IDN','Central Java',116331
+1005,'Salatiga','IDN','Central Java',115993
+1006,'Cibinong','IDN','West Java',114076
+1007,'Palangka Raya','IDN','Kalimantan Tengah',112267
+1008,'Mojokerto','IDN','East Java',108813
+1009,'Purwakarta','IDN','West Java',107997
+1010,'Garut','IDN','West Java',107884
+1011,'Kudus','IDN','Central Java',107322
+1012,'Kendari','IDN','Sulawesi Tenggara',106758
+1013,'Jaya Pura','IDN','West Irian',106645
+1014,'Gorontalo','IDN','Sulawesi Utara',105922
+1015,'Majalaya','IDN','West Java',104956
+1016,'Pondok Aren','IDN','West Java',104392
+1017,'Jombang','IDN','East Java',104280
+1018,'Sunggal','IDN','Sumatera Utara',103942
+1019,'Batam','IDN','Riau',103458
+1020,'Padang Sidempuan','IDN','Sumatera Utara',102703
+1021,'Sawangan','IDN','West Java',102591
+1022,'Banyuwangi','IDN','East Java',101240
+1023,'Tanjung Pinang','IDN','Riau',101240
+1024,'MumbaiBombay ','IND','Maharashtra',11824703
+1025,'Delhi','IND','Delhi',8115917
+1026,'Calcutta [Kolkata]','IND','West Bengali',4954909
+1027,'ChennaiMadras ','IND','Tamil Nadu',4326032
+1028,'Hyderabad','IND','Andhra Pradesh',3338660
+1029,'Ahmedabad','IND','Gujarat',3239639
+1030,'Bangalore','IND','Karnataka',2995689
+1031,'Kanpur','IND','Uttar Pradesh',2110885
+1032,'Nagpur','IND','Maharashtra',1829731
+1033,'Lucknow','IND','Uttar Pradesh',1823383
+1034,'Pune','IND','Maharashtra',1764300
+1035,'Surat','IND','Gujarat',1687909
+1036,'Jaipur','IND','Rajasthan',1642487
+1037,'Indore','IND','Madhya Pradesh',1229399
+1038,'Bhopal','IND','Madhya Pradesh',1196850
+1039,'Ludhiana','IND','Punjab',1174291
+1040,'VadodaraBaroda ','IND','Gujarat',1161460
+1041,'Kalyan','IND','Maharashtra',1142553
+1042,'Madurai','IND','Tamil Nadu',1101223
+1043,'HaoraHowrah ','IND','West Bengali',1070341
+1044,'VaranasiBenares ','IND','Uttar Pradesh',1046506
+1045,'Patna','IND','Bihar',1032961
+1046,'Srinagar','IND','Jammu and Kashmir',1005104
+1047,'Agra','IND','Uttar Pradesh',1004298
+1048,'Coimbatore','IND','Tamil Nadu',919306
+1049,'ThaneThana ','IND','Maharashtra',904744
+1050,'Allahabad','IND','Uttar Pradesh',892884
+1051,'Meerut','IND','Uttar Pradesh',848874
+1052,'Vishakhapatnam','IND','Andhra Pradesh',846913
+1053,'Jabalpur','IND','Madhya Pradesh',835527
+1054,'Amritsar','IND','Punjab',798261
+1055,'Faridabad','IND','Haryana',792356
+1056,'Vijayawada','IND','Andhra Pradesh',790368
+1057,'Gwalior','IND','Madhya Pradesh',777911
+1058,'Jodhpur','IND','Rajasthan',750336
+1059,'NashikNasik ','IND','Maharashtra',739801
+1060,'Hubli-Dharwad','IND','Karnataka',730085
+1061,'SolapurSholapur ','IND','Maharashtra',680440
+1062,'Ranchi','IND','Jharkhand',674913
+1063,'Bareilly','IND','Uttar Pradesh',661293
+1064,'GuwahatiGauhati ','IND','Assam',658061
+1065,'ShambajinagarAurangabad ','IND','Maharashtra',645594
+1066,'CochinKochi ','IND','Kerala',635814
+1067,'Rajkot','IND','Gujarat',629980
+1068,'Kota','IND','Rajasthan',605164
+1069,'ThiruvananthapuramTrivandrum','IND','Kerala',590112
+1070,'Pimpri-Chinchwad','IND','Maharashtra',582316
+1071,'JalandharJullundur ','IND','Punjab',573788
+1072,'Gorakhpur','IND','Uttar Pradesh',569346
+1073,'Chandigarh','IND','Chandigarh',567688
+1074,'Mysore','IND','Karnataka',541335
+1075,'Aligarh','IND','Uttar Pradesh',541140
+1076,'Guntur','IND','Andhra Pradesh',530477
+1077,'Jamshedpur','IND','Jharkhand',518681
+1078,'Ghaziabad','IND','Uttar Pradesh',511451
+1079,'Warangal','IND','Andhra Pradesh',504132
+1080,'Raipur','IND','Chhatisgarh',493975
+1081,'Moradabad','IND','Uttar Pradesh',483361
+1082,'Durgapur','IND','West Bengali',479557
+1083,'Amravati','IND','Maharashtra',474761
+1084,'CalicutKozhikode ','IND','Kerala',472794
+1085,'Bikaner','IND','Rajasthan',468807
+1086,'Bhubaneswar','IND','Orissa',463460
+1087,'Kolhapur','IND','Maharashtra',457635
+1088,'KatakaCuttack ','IND','Orissa',454312
+1089,'Ajmer','IND','Rajasthan',453503
+1090,'Bhavnagar','IND','Gujarat',453095
+1091,'Tiruchirapalli','IND','Tamil Nadu',436073
+1092,'Bhilai','IND','Chhatisgarh',434874
+1093,'Bhiwandi','IND','Maharashtra',426892
+1094,'Saharanpur','IND','Uttar Pradesh',422244
+1095,'Ulhasnagar','IND','Maharashtra',415637
+1096,'Salem','IND','Tamil Nadu',412974
+1097,'Ujjain','IND','Madhya Pradesh',407968
+1098,'Malegaon','IND','Maharashtra',385813
+1099,'Jamnagar','IND','Gujarat',384734
+1100,'Bokaro Steel City','IND','Jharkhand',375779
+1101,'Akola','IND','Maharashtra',369416
+1102,'Belgaum','IND','Karnataka',367575
+1103,'Rajahmundry','IND','Andhra Pradesh',365832
+1104,'Nellore','IND','Andhra Pradesh',356547
+1105,'Udaipur','IND','Rajasthan',347498
+1106,'New Bombay','IND','Maharashtra',346063
+1107,'Bhatpara','IND','West Bengali',343423
+1108,'Gulbarga','IND','Karnataka',342461
+1109,'New Delhi','IND','Delhi',339306
+1110,'Jhansi','IND','Uttar Pradesh',338804
+1111,'Gaya','IND','Bihar',328471
+1112,'Kakinada','IND','Andhra Pradesh',315300
+1113,'DhuleDhulia ','IND','Maharashtra',313428
+1114,'Panihati','IND','West Bengali',310806
+1115,'NandedNander ','IND','Maharashtra',309785
+1116,'Mangalore','IND','Karnataka',307781
+1117,'Dehra Dun','IND','Uttaranchal',304240
+1118,'Kamarhati','IND','West Bengali',300557
+1119,'Davangere','IND','Karnataka',299649
+1120,'Asansol','IND','West Bengali',295262
+1121,'Bhagalpur','IND','Bihar',285169
+1122,'Bellary','IND','Karnataka',276347
+1123,'BarddhamanBurdwan ','IND','West Bengali',275995
+1124,'Rampur','IND','Uttar Pradesh',274490
+1125,'Jalgaon','IND','Maharashtra',272745
+1126,'Muzaffarpur','IND','Bihar',271522
+1127,'Nizamabad','IND','Andhra Pradesh',271441
+1128,'Muzaffarnagar','IND','Uttar Pradesh',270961
+1129,'Patiala','IND','Punjab',268438
+1130,'Shahjahanpur','IND','Uttar Pradesh',267702
+1131,'Kurnool','IND','Andhra Pradesh',266672
+1132,'TiruppurTirupper ','IND','Tamil Nadu',265389
+1133,'Rohtak','IND','Haryana',262843
+1134,'South Dum Dum','IND','West Bengali',262181
+1135,'Mathura','IND','Uttar Pradesh',255287
+1136,'Chandrapur','IND','Maharashtra',254627
+1137,'BarahanagarBaranagar ','IND','West Bengali',253183
+1138,'Darbhanga','IND','Bihar',245941
+1139,'SiliguriShiliguri ','IND','West Bengali',244318
+1140,'Raurkela','IND','Orissa',242671
+1141,'Ambattur','IND','Tamil Nadu',242599
+1142,'Panipat','IND','Haryana',242368
+1143,'Firozabad','IND','Uttar Pradesh',242266
+1144,'Ichalkaranji','IND','Maharashtra',242066
+1145,'Jammu','IND','Jammu and Kashmir',241825
+1146,'Ramagundam','IND','Andhra Pradesh',241428
+1147,'Eluru','IND','Andhra Pradesh',239719
+1148,'Brahmapur','IND','Orissa',236962
+1149,'Alwar','IND','Rajasthan',230956
+1150,'Pondicherry','IND','Pondicherry',228681
+1151,'Thanjavur','IND','Tamil Nadu',227497
+1152,'Bihar Sharif','IND','Bihar',226719
+1153,'Tuticorin','IND','Tamil Nadu',225066
+1154,'Imphal','IND','Manipur',223579
+1155,'Latur','IND','Maharashtra',222311
+1156,'Sagar','IND','Madhya Pradesh',219988
+1157,'Farrukhabad-cum-Fatehgarh','IND','Uttar Pradesh',219112
+1158,'Sangli','IND','Maharashtra',217569
+1159,'Parbhani','IND','Maharashtra',214255
+1160,'Nagar Coil','IND','Tamil Nadu',214063
+1161,'Bijapur','IND','Karnataka',210519
+1162,'Kukatpalle','IND','Andhra Pradesh',208763
+1163,'Bally','IND','West Bengali',207745
+1164,'Bhilwara','IND','Rajasthan',207171
+1165,'Ratlam','IND','Madhya Pradesh',206506
+1166,'Avadi','IND','Tamil Nadu',206327
+1167,'Dindigul','IND','Tamil Nadu',205495
+1168,'Ahmadnagar','IND','Maharashtra',204214
+1169,'Bilaspur','IND','Chhatisgarh',202517
+1170,'Shimoga','IND','Karnataka',201870
+1171,'Kharagpur','IND','West Bengali',200441
+1172,'Mira Bhayandar','IND','Maharashtra',197495
+1173,'Vellore','IND','Tamil Nadu',197144
+1174,'Jalna','IND','Maharashtra',197058
+1175,'Burnpur','IND','West Bengali',196999
+1176,'Anantapur','IND','Andhra Pradesh',196989
+1177,'AllappuzhaAlleppey ','IND','Kerala',196700
+1178,'Tirupati','IND','Andhra Pradesh',196365
+1179,'Karnal','IND','Haryana',195669
+1180,'Burhanpur','IND','Madhya Pradesh',194496
+1181,'HisarHissar ','IND','Haryana',194459
+1182,'Tiruvottiyur','IND','Tamil Nadu',194330
+1183,'Mirzapur-cum-Vindhyachal','IND','Uttar Pradesh',190696
+1184,'Secunderabad','IND','Andhra Pradesh',188586
+1185,'Nadiad','IND','Gujarat',188123
+1186,'Dewas','IND','Madhya Pradesh',185099
+1187,'MurwaraKatni ','IND','Madhya Pradesh',184046
+1188,'Ganganagar','IND','Rajasthan',181852
+1189,'Vizianagaram','IND','Andhra Pradesh',180587
+1190,'Erode','IND','Tamil Nadu',179319
+1191,'MachilipatnamMasulipatam ','IND','Andhra Pradesh',179180
+1192,'BhatindaBathinda ','IND','Punjab',179104
+1193,'Raichur','IND','Karnataka',177425
+1194,'Agartala','IND','Tripura',177208
+1195,'ArrahAra ','IND','Bihar',176896
+1196,'Satna','IND','Madhya Pradesh',176388
+1197,'Lalbahadur Nagar','IND','Andhra Pradesh',175116
+1198,'Aizawl','IND','Mizoram',174821
+1199,'Uluberia','IND','West Bengali',174746
+1200,'Katihar','IND','Bihar',173840
+1201,'Cuddalore','IND','Tamil Nadu',172397
+1202,'Hugli-Chinsurah','IND','West Bengali',170955
+1203,'Dhanbad','IND','Jharkhand',170935
+1204,'Raiganj','IND','West Bengali',170097
+1205,'Sambhal','IND','Uttar Pradesh',169901
+1206,'Durg','IND','Chhatisgarh',169648
+1207,'MungerMonghyr ','IND','Bihar',169047
+1208,'Kanchipuram','IND','Tamil Nadu',169035
+1209,'North Dum Dum','IND','West Bengali',168882
+1210,'Karimnagar','IND','Andhra Pradesh',167325
+1211,'Bharatpur','IND','Rajasthan',167254
+1212,'Sikar','IND','Rajasthan',166975
+1213,'HardwarHaridwar ','IND','Uttaranchal',165887
+1214,'Dabgram','IND','West Bengali',165788
+1215,'Morena','IND','Madhya Pradesh',165683
+1216,'Noida','IND','Uttar Pradesh',164995
+1217,'Hapur','IND','Uttar Pradesh',164712
+1218,'Bhusawal','IND','Maharashtra',163451
+1219,'Khandwa','IND','Madhya Pradesh',163439
+1220,'Yamuna Nagar','IND','Haryana',162553
+1221,'SonipatSonepat ','IND','Haryana',162076
+1222,'Tenali','IND','Andhra Pradesh',161856
+1223,'Raurkela Civil Township','IND','Orissa',158120
+1224,'KollamQuilon ','IND','Kerala',157494
+1225,'Kumbakonam','IND','Tamil Nadu',157077
+1226,'Ingraj BazarEnglish Bazar ','IND','West Bengali',156763
+1227,'Timkur','IND','Karnataka',156426
+1228,'Amroha','IND','Uttar Pradesh',154350
+1229,'Serampore','IND','West Bengali',154313
+1230,'Chapra','IND','Bihar',154144
+1231,'Pali','IND','Rajasthan',154103
+1232,'Maunath Bhanjan','IND','Uttar Pradesh',153940
+1233,'Adoni','IND','Andhra Pradesh',153361
+1234,'Jaunpur','IND','Uttar Pradesh',153225
+1235,'Tirunelveli','IND','Tamil Nadu',152958
+1236,'Bahraich','IND','Uttar Pradesh',152480
+1237,'Gadag Betigeri','IND','Karnataka',150962
+1238,'Proddatur','IND','Andhra Pradesh',150807
+1239,'Chittoor','IND','Andhra Pradesh',150298
+1240,'Barrackpur','IND','West Bengali',150074
+1241,'BharuchBroach ','IND','Gujarat',149892
+1242,'Naihati','IND','West Bengali',149441
+1243,'Shillong','IND','Meghalaya',148334
+1244,'Sambalpur','IND','Orissa',147679
+1245,'Junagadh','IND','Gujarat',146943
+1246,'Rae Bareli','IND','Uttar Pradesh',146292
+1247,'Rewa','IND','Madhya Pradesh',145251
+1248,'Gurgaon','IND','Haryana',144831
+1249,'Khammam','IND','Andhra Pradesh',144137
+1250,'Bulandshahr','IND','Uttar Pradesh',143245
+1251,'Navsari','IND','Gujarat',141994
+1252,'Malkajgiri','IND','Andhra Pradesh',141968
+1253,'MidnaporeMedinipur ','IND','West Bengali',141328
+1254,'Miraj','IND','Maharashtra',141226
+1255,'Raj Nandgaon','IND','Chhatisgarh',141185
+1256,'Alandur','IND','Tamil Nadu',141042
+1257,'Puri','IND','Orissa',140992
+1258,'Navadwip','IND','West Bengali',140807
+1259,'Sirsa','IND','Haryana',140770
+1260,'Korba','IND','Chhatisgarh',140206
+1261,'Faizabad','IND','Uttar Pradesh',140133
+1262,'Etawah','IND','Uttar Pradesh',139722
+1263,'Pathankot','IND','Punjab',139562
+1264,'Gandhinagar','IND','Gujarat',138919
+1265,'PalghatPalakkad ','IND','Kerala',138841
+1266,'Veraval','IND','Gujarat',138516
+1267,'Hoshiarpur','IND','Punjab',138184
+1268,'Ambala','IND','Haryana',138058
+1269,'Sitapur','IND','Uttar Pradesh',137210
+1270,'Bhiwani','IND','Haryana',136971
+1271,'Cuddapah','IND','Andhra Pradesh',136784
+1272,'Bhimavaram','IND','Andhra Pradesh',136616
+1273,'Krishnanagar','IND','West Bengali',136387
+1274,'Chandannagar','IND','West Bengali',135561
+1275,'Mandya','IND','Karnataka',135435
+1276,'Dibrugarh','IND','Assam',135279
+1277,'Nandyal','IND','Andhra Pradesh',134926
+1278,'Balurghat','IND','West Bengali',134906
+1279,'Neyveli','IND','Tamil Nadu',132974
+1280,'Fatehpur','IND','Uttar Pradesh',132518
+1281,'Mahbubnagar','IND','Andhra Pradesh',131570
+1282,'Budaun','IND','Uttar Pradesh',131414
+1283,'Porbandar','IND','Gujarat',131388
+1284,'Silchar','IND','Assam',130047
+1285,'BerhamporeBaharampur ','IND','West Bengali',129666
+1286,'PurneaPurnia ','IND','Jharkhand',129407
+1287,'Bankura','IND','West Bengali',129366
+1288,'Rajapalaiyam','IND','Tamil Nadu',128607
+1289,'Titagarh','IND','West Bengali',128475
+1290,'Halisahar','IND','West Bengali',128411
+1291,'Hathras','IND','Uttar Pradesh',127575
+1292,'BhirBid ','IND','Maharashtra',126616
+1293,'Pallavaram','IND','Tamil Nadu',125977
+1294,'Anand','IND','Gujarat',124175
+1295,'Mango','IND','Jharkhand',123902
+1296,'Santipur','IND','West Bengali',123825
+1297,'Bhind','IND','Madhya Pradesh',123600
+1298,'Gondiya','IND','Maharashtra',123278
+1299,'Tiruvannamalai','IND','Tamil Nadu',122969
+1300,'YeotmalYavatmal ','IND','Maharashtra',122273
+1301,'Kulti-Barakar','IND','West Bengali',122207
+1302,'Moga','IND','Punjab',121965
+1303,'Shivapuri','IND','Madhya Pradesh',121935
+1304,'Bidar','IND','Karnataka',121641
+1305,'Guntakal','IND','Andhra Pradesh',121162
+1306,'Unnao','IND','Uttar Pradesh',120975
+1307,'Barasat','IND','West Bengali',120908
+1308,'Tambaram','IND','Tamil Nadu',120706
+1309,'Abohar','IND','Punjab',120680
+1310,'Pilibhit','IND','Uttar Pradesh',120051
+1311,'Valparai','IND','Tamil Nadu',119960
+1312,'Gonda','IND','Uttar Pradesh',119458
+1313,'Surendranagar','IND','Gujarat',119341
+1314,'Qutubullapur','IND','Andhra Pradesh',118671
+1315,'Beawar','IND','Rajasthan',118653
+1316,'Hindupur','IND','Andhra Pradesh',117851
+1317,'Gandhidham','IND','Gujarat',117777
+1318,'Haldwani-cum-Kathgodam','IND','Uttaranchal',117337
+1319,'TellicherryThalassery ','IND','Kerala',116645
+1320,'Wardha','IND','Maharashtra',115974
+1321,'Rishra','IND','West Bengali',115596
+1322,'Bhuj','IND','Gujarat',115064
+1323,'Modinagar','IND','Uttar Pradesh',114482
+1324,'Gudivada','IND','Andhra Pradesh',114478
+1325,'Basirhat','IND','West Bengali',114201
+1326,'Uttarpara-Kotrung','IND','West Bengali',113589
+1327,'Ongole','IND','Andhra Pradesh',113555
+1328,'North Barrackpur','IND','West Bengali',113191
+1329,'Guna','IND','Madhya Pradesh',113163
+1330,'Haldia','IND','West Bengali',113004
+1331,'Habra','IND','West Bengali',112865
+1332,'Kanchrapara','IND','West Bengali',112831
+1333,'Tonk','IND','Rajasthan',112702
+1334,'Champdani','IND','West Bengali',111283
+1335,'Orai','IND','Uttar Pradesh',111082
+1336,'Pudukkottai','IND','Tamil Nadu',111058
+1337,'Sasaram','IND','Bihar',110608
+1338,'Hazaribag','IND','Jharkhand',110037
+1339,'Palayankottai','IND','Tamil Nadu',109981
+1340,'Banda','IND','Uttar Pradesh',109490
+1341,'Godhra','IND','Gujarat',109023
+1342,'Hospet','IND','Karnataka',108471
+1343,'Ashoknagar-Kalyangarh','IND','West Bengali',108464
+1344,'Achalpur','IND','Maharashtra',108352
+1345,'Patan','IND','Gujarat',108231
+1346,'Mandasor','IND','Madhya Pradesh',107837
+1347,'Damoh','IND','Madhya Pradesh',107727
+1348,'Satara','IND','Maharashtra',107132
+1349,'Meerut Cantonment','IND','Uttar Pradesh',106842
+1350,'Dehri','IND','Bihar',106449
+1351,'Delhi Cantonment','IND','Delhi',106222
+1352,'Chhindwara','IND','Madhya Pradesh',105554
+1353,'Bansberia','IND','West Bengali',105233
+1354,'Nagaon','IND','Assam',105125
+1355,'Kanpur Cantonment','IND','Uttar Pradesh',104853
+1356,'Vidisha','IND','Madhya Pradesh',104637
+1357,'Bettiah','IND','Bihar',104260
+1358,'Purulia','IND','Jharkhand',104251
+1359,'Hassan','IND','Karnataka',102257
+1360,'Ambala Sadar','IND','Haryana',102154
+1361,'Baidyabati','IND','West Bengali',102029
+1362,'Morvi','IND','Gujarat',101755
+1363,'Raigarh','IND','Chhatisgarh',100412
+1364,'Vejalpur','IND','Gujarat',100286
+1365,'Baghdad','IRQ','Baghdad',4883037
+1366,'Mosul','IRQ','Ninawa',989895
+1367,'Irbil','IRQ','Irbil',547276
+1368,'Kirkuk','IRQ','al-Tamim',471434
+1369,'Basra','IRQ','Basra',457552
+1370,'al-Sulaymaniya','IRQ','al-Sulaymaniya',410028
+1371,'al-Najaf','IRQ','al-Najaf',347992
+1372,'Karbala','IRQ','Karbala',334135
+1373,'al-Hilla','IRQ','Babil',302747
+1374,'al-Nasiriya','IRQ','DhiQar',299486
+1375,'al-Amara','IRQ','Maysan',235136
+1376,'al-Diwaniya','IRQ','al-Qadisiya',221309
+1377,'al-Ramadi','IRQ','al-Anbar',216846
+1378,'al-Kut','IRQ','Wasit',206289
+1379,'Baquba','IRQ','Diyala',128961
+1380,'Teheran','IRN','Teheran',7611554
+1381,'Mashhad','IRN','Khorasan',2125522
+1382,'Esfahan','IRN','Esfahan',1425799
+1383,'Tabriz','IRN','East Azerbaidzan',1341305
+1384,'Shiraz','IRN','Fars',1185874
+1385,'Karaj','IRN','Teheran',1059680
+1386,'Ahvaz','IRN','Khuzestan',906536
+1387,'Qom','IRN','Qom',875787
+1388,'Kermanshah','IRN','Kermanshah',780412
+1389,'Urmia','IRN','West Azerbaidzan',490103
+1390,'Zahedan','IRN','Sistan va Baluchesta',472442
+1391,'Rasht','IRN','Gilan',470449
+1392,'Hamadan','IRN','Hamadan',451904
+1393,'Kerman','IRN','Kerman',433559
+1394,'Arak','IRN','Markazi',428789
+1395,'Ardebil','IRN','Ardebil',383326
+1396,'Yazd','IRN','Yazd',368000
+1397,'Qazvin','IRN','Qazvin',327842
+1398,'Zanjan','IRN','Zanjan',322411
+1399,'Sanandaj','IRN','Kordestan',312855
+1400,'Bandar-e-Abbas','IRN','Hormozgan',308089
+1401,'Khorramabad','IRN','Lorestan',307232
+1402,'Eslamshahr','IRN','Teheran',298937
+1403,'Borujerd','IRN','Lorestan',245281
+1404,'Abadan','IRN','Khuzestan',232068
+1405,'Dezful','IRN','Khuzestan',228200
+1406,'Kashan','IRN','Esfahan',226774
+1407,'Sari','IRN','Mazandaran',220591
+1408,'Gorgan','IRN','Golestan',212515
+1409,'Najafabad','IRN','Esfahan',201015
+1410,'Sabzevar','IRN','Khorasan',192276
+1411,'Khomeynishahr','IRN','Esfahan',186814
+1412,'Amol','IRN','Mazandaran',179160
+1413,'Neyshabur','IRN','Khorasan',178884
+1414,'Babol','IRN','Mazandaran',178319
+1415,'Khoy','IRN','West Azerbaidzan',167732
+1416,'Malayer','IRN','Hamadan',162585
+1417,'Bushehr','IRN','Bushehr',161759
+1418,'Qaemshahr','IRN','Mazandaran',161360
+1419,'Qarchak','IRN','Teheran',160689
+1420,'Qods','IRN','Teheran',155720
+1421,'Sirjan','IRN','Kerman',152056
+1422,'Bojnurd','IRN','Khorasan',151842
+1423,'Maragheh','IRN','East Azerbaidzan',149009
+1424,'Birjand','IRN','Khorasan',143705
+1425,'Ilam','IRN','Ilam',142282
+1426,'Bukan','IRN','West Azerbaidzan',135160
+1427,'Masjed-e-Soleyman','IRN','Khuzestan',131626
+1428,'Saqqez','IRN','Kordestan',129951
+1429,'Gonbad-e Qabus','IRN','Mazandaran',125286
+1430,'Saveh','IRN','Qom',125277
+1431,'Mahabad','IRN','West Azerbaidzan',121396
+1432,'Varamin','IRN','Teheran',120758
+1433,'Andimeshk','IRN','Khuzestan',120409
+1434,'Khorramshahr','IRN','Khuzestan',118960
+1435,'Shahrud','IRN','Semnan',117979
+1436,'Marv Dasht','IRN','Fars',116645
+1437,'Zabol','IRN','Sistan va Baluchesta',113613
+1438,'Shahr-e Kord','IRN','Chaharmahal va Bakht',113150
+1439,'Bandar-e Anzali','IRN','Gilan',110925
+1440,'Rafsanjan','IRN','Kerman',110700
+1441,'Marand','IRN','East Azerbaidzan',108558
+1442,'Torbat-e Heydariyeh','IRN','Khorasan',106531
+1443,'Jahrom','IRN','Fars',106083
+1444,'Semnan','IRN','Semnan',102528
+1445,'Miandoab','IRN','West Azerbaidzan',101465
+1446,'Qomsheh','IRN','Esfahan',101126
+1447,'Dublin','IRL','Leinster',542643
+1448,'Cork','IRL','Munster',143230
+1449,'Reykjavík','ISL','Höfuðborgarsvæði',122955
+1450,'Jerusalem','ISR','Jerusalem',713647
+1451,'Tel Aviv-Jaffa','ISR','Tel Aviv',392015
+1452,'Haifa','ISR','Haifa',299220
+1453,'Rishon Le Ziyyon','ISR','Ha Merkaz',211942
+1454,'Beerseba','ISR','Ha Darom',184350
+1455,'Holon','ISR','Tel Aviv',183674
+1456,'Petah Tiqwa','ISR','Ha Merkaz',179507
+1457,'Ashdod','ISR','Ha Darom',175453
+1458,'Netanya','ISR','Ha Merkaz',174440
+1459,'Bat Yam','ISR','Tel Aviv',154281
+1460,'Bene Beraq','ISR','Tel Aviv',150790
+1461,'Ramat Gan','ISR','Tel Aviv',142908
+1462,'Ashqelon','ISR','Ha Darom',103942
+1463,'Rehovot','ISR','Ha Merkaz',101689
+1464,'Roma','ITA','Latium',2977098
+1465,'Milano','ITA','Lombardia',1465108
+1466,'Napoli','ITA','Campania',1129109
+1467,'Torino','ITA','Piemonte',1017716
+1468,'Palermo','ITA','Sisilia',770060
+1469,'Genova','ITA','Liguria',716354
+1470,'Bologna','ITA','Emilia-Romagna',429246
+1471,'Firenze','ITA','Toscana',424180
+1472,'Catania','ITA','Sisilia',380485
+1473,'Bari','ITA','Apulia',373712
+1474,'Venezia','ITA','Veneto',312289
+1475,'Messina','ITA','Sisilia',291849
+1476,'Verona','ITA','Veneto',287470
+1477,'Trieste','ITA','Friuli-Venezia Giuli',243766
+1478,'Padova','ITA','Veneto',238057
+1479,'Taranto','ITA','Apulia',234480
+1480,'Brescia','ITA','Lombardia',215450
+1481,'Reggio di Calabria','ITA','Calabria',202276
+1482,'Modena','ITA','Emilia-Romagna',198225
+1483,'Prato','ITA','Toscana',194229
+1484,'Parma','ITA','Emilia-Romagna',189999
+1485,'Cagliari','ITA','Sardinia',186856
+1486,'Livorno','ITA','Toscana',182067
+1487,'Perugia','ITA','Umbria',176437
+1488,'Foggia','ITA','Apulia',174429
+1489,'Reggio nell´ Emilia','ITA','Emilia-Romagna',161787
+1490,'Salerno','ITA','Campania',159973
+1491,'Ravenna','ITA','Emilia-Romagna',155878
+1492,'Ferrara','ITA','Emilia-Romagna',148794
+1493,'Rimini','ITA','Emilia-Romagna',147595
+1494,'Syrakusa','ITA','Sisilia',142211
+1495,'Sassari','ITA','Sardinia',136041
+1496,'Monza','ITA','Lombardia',134592
+1497,'Bergamo','ITA','Lombardia',132698
+1498,'Pescara','ITA','Abruzzit',130291
+1499,'Latina','ITA','Latium',128491
+1500,'Vicenza','ITA','Veneto',123580
+1501,'Terni','ITA','Umbria',121364
+1502,'Forlì','ITA','Emilia-Romagna',121032
+1503,'Trento','ITA','Trentino-Alto Adige',118139
+1504,'Novara','ITA','Piemonte',114907
+1505,'Piacenza','ITA','Emilia-Romagna',110794
+1506,'Ancona','ITA','Marche',110731
+1507,'Lecce','ITA','Apulia',110596
+1508,'Bolzano','ITA','Trentino-Alto Adige',109495
+1509,'Catanzaro','ITA','Calabria',108898
+1510,'La Spezia','ITA','Liguria',107550
+1511,'Udine','ITA','Friuli-Venezia Giuli',106906
+1512,'Torre del Greco','ITA','Campania',106424
+1513,'Andria','ITA','Apulia',106355
+1514,'Brindisi','ITA','Apulia',105242
+1515,'Giugliano in Campania','ITA','Campania',105052
+1516,'Pisa','ITA','Toscana',104030
+1517,'Barletta','ITA','Apulia',103496
+1518,'Arezzo','ITA','Toscana',103298
+1519,'Alessandria','ITA','Piemonte',101676
+1520,'Cesena','ITA','Emilia-Romagna',101186
+1521,'Pesaro','ITA','Marche',100210
+1522,'Dili','TMP','Dili',53940
+1523,'Wien','AUT','Wien',1811029
+1524,'Graz','AUT','Steiermark',271365
+1525,'Linz','AUT','North Austria',211740
+1526,'Salzburg','AUT','Salzburg',162442
+1527,'Innsbruck','AUT','Tiroli',125848
+1528,'Klagenfurt','AUT','Kärnten',102637
+1529,'Spanish Town','JAM','St. Catherine',124301
+1530,'Kingston','JAM','St. Andrew',117075
+1531,'Portmore','JAM','St. Andrew',112386
+1532,'Tokyo','JPN','Tokyo-to',8987032
+1533,'Jokohama [Yokohama]','JPN','Kanagawa',3760922
+1534,'Osaka','JPN','Osaka',2923146
+1535,'Nagoya','JPN','Aichi',2426175
+1536,'Sapporo','JPN','Hokkaido',2016826
+1537,'Kioto','JPN','Kyoto',1646417
+1538,'Kobe','JPN','Hyogo',1604935
+1539,'Fukuoka','JPN','Fukuoka',1473444
+1540,'Kawasaki','JPN','Kanagawa',1370942
+1541,'Hiroshima','JPN','Hiroshima',1260304
+1542,'Kitakyushu','JPN','Fukuoka',1144475
+1543,'Sendai','JPN','Miyagi',1114870
+1544,'Chiba','JPN','Chiba',972922
+1545,'Sakai','JPN','Osaka',898376
+1546,'Kumamoto','JPN','Kumamoto',739586
+1547,'Okayama','JPN','Okayama',703025
+1548,'Sagamihara','JPN','Kanagawa',660266
+1549,'Hamamatsu','JPN','Shizuoka',640553
+1550,'Kagoshima','JPN','Kagoshima',619360
+1551,'Funabashi','JPN','Chiba',614092
+1552,'Higashiosaka','JPN','Osaka',583107
+1553,'Hachioji','JPN','Tokyo-to',578226
+1554,'Niigata','JPN','Niigata',560223
+1555,'Amagasaki','JPN','Hyogo',542170
+1556,'Himeji','JPN','Hyogo',535113
+1557,'Shizuoka','JPN','Shizuoka',533634
+1558,'Urawa','JPN','Saitama',528927
+1559,'Matsuyama','JPN','Ehime',524939
+1560,'Matsudo','JPN','Chiba',519299
+1561,'Kanazawa','JPN','Ishikawa',512835
+1562,'Kawaguchi','JPN','Saitama',509197
+1563,'Ichikawa','JPN','Chiba',497639
+1564,'Omiya','JPN','Saitama',497365
+1565,'Utsunomiya','JPN','Tochigi',495907
+1566,'Oita','JPN','Oita',488078
+1567,'Nagasaki','JPN','Nagasaki',487353
+1568,'Yokosuka','JPN','Kanagawa',484473
+1569,'Kurashiki','JPN','Okayama',478732
+1570,'Gifu','JPN','Gifu',459479
+1571,'Hirakata','JPN','Osaka',454011
+1572,'Nishinomiya','JPN','Hyogo',447780
+1573,'Toyonaka','JPN','Osaka',446733
+1574,'Wakayama','JPN','Wakayama',440589
+1575,'Fukuyama','JPN','Hiroshima',424470
+1576,'Fujisawa','JPN','Kanagawa',419875
+1577,'Asahikawa','JPN','Hokkaido',410836
+1578,'Machida','JPN','Tokyo-to',410142
+1579,'Nara','JPN','Nara',408583
+1580,'Takatsuki','JPN','Osaka',407382
+1581,'Iwaki','JPN','Fukushima',407372
+1582,'Nagano','JPN','Nagano',406982
+1583,'Toyohashi','JPN','Aichi',405490
+1584,'Toyota','JPN','Aichi',389751
+1585,'Suita','JPN','Osaka',389369
+1586,'Takamatsu','JPN','Kagawa',374414
+1587,'Koriyama','JPN','Fukushima',372008
+1588,'Okazaki','JPN','Aichi',370179
+1589,'Kawagoe','JPN','Saitama',368490
+1590,'Tokorozawa','JPN','Saitama',366912
+1591,'Toyama','JPN','Toyama',366889
+1592,'Kochi','JPN','Kochi',365674
+1593,'Kashiwa','JPN','Chiba',360701
+1594,'Akita','JPN','Akita',354107
+1595,'Miyazaki','JPN','Miyazaki',342108
+1596,'Koshigaya','JPN','Saitama',339473
+1597,'Naha','JPN','Okinawa',337679
+1598,'Aomori','JPN','Aomori',333306
+1599,'Hakodate','JPN','Hokkaido',331975
+1600,'Akashi','JPN','Hyogo',329121
+1601,'Yokkaichi','JPN','Mie',324527
+1602,'Fukushima','JPN','Fukushima',323796
+1603,'Morioka','JPN','Iwate',323604
+1604,'Maebashi','JPN','Gumma',320360
+1605,'Kasugai','JPN','Aichi',317966
+1606,'Otsu','JPN','Shiga',317654
+1607,'Ichihara','JPN','Chiba',314512
+1608,'Yao','JPN','Osaka',311291
+1609,'Ichinomiya','JPN','Aichi',304994
+1610,'Tokushima','JPN','Tokushima',303665
+1611,'Kakogawa','JPN','Hyogo',299872
+1612,'Ibaraki','JPN','Osaka',293947
+1613,'Neyagawa','JPN','Osaka',289776
+1614,'Shimonoseki','JPN','Yamaguchi',289718
+1615,'Yamagata','JPN','Yamagata',287863
+1616,'Fukui','JPN','Fukui',286964
+1617,'Hiratsuka','JPN','Kanagawa',286276
+1618,'Mito','JPN','Ibaragi',277662
+1619,'Sasebo','JPN','Nagasaki',275051
+1620,'Hachinohe','JPN','Aomori',273630
+1621,'Takasaki','JPN','Gumma',269290
+1622,'Shimizu','JPN','Shizuoka',269289
+1623,'Kurume','JPN','Fukuoka',265333
+1624,'Fuji','JPN','Shizuoka',260734
+1625,'Soka','JPN','Saitama',250871
+1626,'Fuchu','JPN','Tokyo-to',248401
+1627,'Chigasaki','JPN','Kanagawa',243264
+1628,'Atsugi','JPN','Kanagawa',239203
+1629,'Numazu','JPN','Shizuoka',238048
+1630,'Ageo','JPN','Saitama',235863
+1631,'Yamato','JPN','Kanagawa',234501
+1632,'Matsumoto','JPN','Nagano',232889
+1633,'Kure','JPN','Hiroshima',232553
+1634,'Takarazuka','JPN','Hyogo',231979
+1635,'Kasukabe','JPN','Saitama',227298
+1636,'Chofu','JPN','Tokyo-to',227015
+1637,'Odawara','JPN','Kanagawa',225423
+1638,'Kofu','JPN','Yamanashi',224951
+1639,'Kushiro','JPN','Hokkaido',222536
+1640,'Kishiwada','JPN','Osaka',222161
+1641,'Hitachi','JPN','Ibaragi',221426
+1642,'Nagaoka','JPN','Niigata',216679
+1643,'Itami','JPN','Hyogo',214966
+1644,'Uji','JPN','Kyoto',212543
+1645,'Suzuka','JPN','Mie',207279
+1646,'Hirosaki','JPN','Aomori',199915
+1647,'Ube','JPN','Yamaguchi',197307
+1648,'Kodaira','JPN','Tokyo-to',197057
+1649,'Takaoka','JPN','Toyama',196378
+1650,'Obihiro','JPN','Hokkaido',195596
+1651,'Tomakomai','JPN','Hokkaido',193650
+1652,'Saga','JPN','Saga',191482
+1653,'Sakura','JPN','Chiba',189274
+1654,'Kamakura','JPN','Kanagawa',188811
+1655,'Mitaka','JPN','Tokyo-to',188369
+1656,'Izumi','JPN','Osaka',188042
+1657,'Hino','JPN','Tokyo-to',187808
+1658,'Hadano','JPN','Kanagawa',187516
+1659,'Ashikaga','JPN','Tochigi',186087
+1660,'Tsu','JPN','Mie',185299
+1661,'Sayama','JPN','Saitama',182967
+1662,'Yachiyo','JPN','Chiba',181558
+1663,'Tsukuba','JPN','Ibaragi',181048
+1664,'Tachikawa','JPN','Tokyo-to',179541
+1665,'Kumagaya','JPN','Saitama',176997
+1666,'Moriguchi','JPN','Osaka',175611
+1667,'Otaru','JPN','Hokkaido',175434
+1668,'Anjo','JPN','Aichi',173226
+1669,'Narashino','JPN','Chiba',172130
+1670,'Oyama','JPN','Tochigi',172097
+1671,'Ogaki','JPN','Gifu',170901
+1672,'Matsue','JPN','Shimane',168720
+1673,'Kawanishi','JPN','Hyogo',168688
+1674,'Hitachinaka','JPN','Tokyo-to',166677
+1675,'Niiza','JPN','Saitama',166380
+1676,'Nagareyama','JPN','Chiba',166374
+1677,'Tottori','JPN','Tottori',166132
+1678,'Tama','JPN','Ibaragi',165218
+1679,'Iruma','JPN','Saitama',164329
+1680,'Ota','JPN','Gumma',163647
+1681,'Omuta','JPN','Fukuoka',160913
+1682,'Komaki','JPN','Aichi',157465
+1683,'Ome','JPN','Tokyo-to',156777
+1684,'Kadoma','JPN','Osaka',156482
+1685,'Yamaguchi','JPN','Yamaguchi',155644
+1686,'Higashimurayama','JPN','Tokyo-to',154249
+1687,'Yonago','JPN','Tottori',153675
+1688,'Matsubara','JPN','Osaka',152041
+1689,'Musashino','JPN','Tokyo-to',151384
+1690,'Tsuchiura','JPN','Ibaragi',150984
+1691,'Joetsu','JPN','Niigata',150345
+1692,'Miyakonojo','JPN','Miyazaki',149982
+1693,'Misato','JPN','Saitama',149728
+1694,'Kakamigahara','JPN','Gifu',148459
+1695,'Daito','JPN','Osaka',147067
+1696,'Seto','JPN','Aichi',146927
+1697,'Kariya','JPN','Aichi',144111
+1698,'Urayasu','JPN','Chiba',143641
+1699,'Beppu','JPN','Oita',143566
+1700,'Niihama','JPN','Ehime',143252
+1701,'Minoo','JPN','Osaka',143049
+1702,'Fujieda','JPN','Shizuoka',142904
+1703,'Abiko','JPN','Chiba',142649
+1704,'Nobeoka','JPN','Miyazaki',141383
+1705,'Tondabayashi','JPN','Osaka',140872
+1706,'Ueda','JPN','Nagano',139886
+1707,'Kashihara','JPN','Nara',139656
+1708,'Matsusaka','JPN','Mie',139170
+1709,'Isesaki','JPN','Gumma',138836
+1710,'Zama','JPN','Kanagawa',137440
+1711,'Kisarazu','JPN','Chiba',137352
+1712,'Noda','JPN','Chiba',136297
+1713,'Ishinomaki','JPN','Miyagi',136221
+1714,'Fujinomiya','JPN','Shizuoka',134815
+1715,'Kawachinagano','JPN','Osaka',134761
+1716,'Imabari','JPN','Ehime',134412
+1717,'Aizuwakamatsu','JPN','Fukushima',134334
+1718,'Higashihiroshima','JPN','Hiroshima',134197
+1719,'Habikino','JPN','Osaka',133973
+1720,'Ebetsu','JPN','Hokkaido',133791
+1721,'Hofu','JPN','Yamaguchi',133730
+1722,'Kiryu','JPN','Gumma',133251
+1723,'Okinawa','JPN','Okinawa',132602
+1724,'Yaizu','JPN','Shizuoka',132049
+1725,'Toyokawa','JPN','Aichi',130385
+1726,'Ebina','JPN','Kanagawa',130147
+1727,'Asaka','JPN','Saitama',129298
+1728,'Higashikurume','JPN','Tokyo-to',125750
+1729,'Ikoma','JPN','Nara',125727
+1730,'Kitami','JPN','Hokkaido',125333
+1731,'Koganei','JPN','Tokyo-to',124967
+1732,'Iwatsuki','JPN','Saitama',123913
+1733,'Mishima','JPN','Shizuoka',123535
+1734,'Handa','JPN','Aichi',122299
+1735,'Muroran','JPN','Hokkaido',121931
+1736,'Komatsu','JPN','Ishikawa',121550
+1737,'Yatsushiro','JPN','Kumamoto',121242
+1738,'Iida','JPN','Nagano',121152
+1739,'Tokuyama','JPN','Yamaguchi',120585
+1740,'Kokubunji','JPN','Tokyo-to',120491
+1741,'Akishima','JPN','Tokyo-to',120400
+1742,'Iwakuni','JPN','Yamaguchi',120098
+1743,'Kusatsu','JPN','Shiga',119631
+1744,'Kuwana','JPN','Mie',119507
+1745,'Sanda','JPN','Hyogo',118969
+1746,'Hikone','JPN','Shiga',118817
+1747,'Toda','JPN','Saitama',117082
+1748,'Tajimi','JPN','Gifu',116184
+1749,'Ikeda','JPN','Osaka',115665
+1750,'Fukaya','JPN','Saitama',115041
+1751,'Ise','JPN','Mie',114564
+1752,'Sakata','JPN','Yamagata',114473
+1753,'Kasuga','JPN','Fukuoka',114125
+1754,'Kamagaya','JPN','Chiba',113537
+1755,'Tsuruoka','JPN','Yamagata',113416
+1756,'Hoya','JPN','Tokyo-to',112967
+1757,'Nishio','JPN','Chiba',112649
+1758,'Tokai','JPN','Aichi',112318
+1759,'Inazawa','JPN','Aichi',111200
+1760,'Sakado','JPN','Saitama',110609
+1761,'Isehara','JPN','Kanagawa',110499
+1762,'Takasago','JPN','Hyogo',109946
+1763,'Fujimi','JPN','Saitama',109204
+1764,'Urasoe','JPN','Okinawa',108111
+1765,'Yonezawa','JPN','Yamagata',107649
+1766,'Konan','JPN','Aichi',107569
+1767,'Yamatokoriyama','JPN','Nara',107169
+1768,'Maizuru','JPN','Kyoto',106738
+1769,'Onomichi','JPN','Hiroshima',105581
+1770,'Higashimatsuyama','JPN','Saitama',105116
+1771,'Kimitsu','JPN','Chiba',104973
+1772,'Isahaya','JPN','Nagasaki',104796
+1773,'Kanuma','JPN','Tochigi',104790
+1774,'Izumisano','JPN','Osaka',104260
+1775,'Kameoka','JPN','Kyoto',104052
+1776,'Mobara','JPN','Chiba',103226
+1777,'Narita','JPN','Chiba',103007
+1778,'Kashiwazaki','JPN','Niigata',102736
+1779,'Tsuyama','JPN','Okayama',102669
+1780,'Sanaa','YEM','Sanaa',567133
+1781,'Aden','YEM','Aden',448548
+1782,'Taizz','YEM','Taizz',357667
+1783,'Hodeida','YEM','Hodeida',336158
+1784,'al-Mukalla','YEM','Hadramawt',137838
+1785,'Ibb','YEM','Ibb',116331
+1786,'Amman','JOR','Amman',1126161
+1787,'al-Zarqa','JOR','al-Zarqa',438992
+1788,'Irbid','JOR','Irbid',260716
+1789,'al-Rusayfa','JOR','al-Zarqa',154558
+1790,'Wadi al-Sir','JOR','Amman',100343
+1791,'Flying Fish Cove','CXR','–',786
+1792,'Beograd','YUG','Central Serbia',1355896
+1793,'Novi Sad','YUG','Vojvodina',202285
+1794,'Niš','YUG','Central Serbia',197514
+1795,'Priština','YUG','Kosovo and Metohija',175111
+1796,'Kragujevac','YUG','Central Serbia',165887
+1797,'Podgorica','YUG','Montenegro',152031
+1798,'Subotica','YUG','Vojvodina',113047
+1799,'Prizren','YUG','Kosovo and Metohija',103946
+1800,'Phnom Penh','KHM','Phnom Penh',642085
+1801,'Battambang','KHM','Battambang',146172
+1802,'Siem Reap','KHM','Siem Reap',118357
+1803,'Douala','CMR','Littoral',1631018
+1804,'Yaoundé','CMR','Centre',1545994
+1805,'Garoua','CMR','Nord',199328
+1806,'Maroua','CMR','Extrême-Nord',161039
+1807,'Bamenda','CMR','Nord-Ouest',155408
+1808,'Bafoussam','CMR','Ouest',147524
+1809,'Nkongsamba','CMR','Littoral',126639
+1810,'Montréal','CAN','Québec',1144602
+1811,'Calgary','CAN','Alberta',864981
+1812,'Toronto','CAN','Ontario',775107
+1813,'North York','CAN','Ontario',701181
+1814,'Winnipeg','CAN','Manitoba',696502
+1815,'Edmonton','CAN','Alberta',694059
+1816,'Mississauga','CAN','Ontario',684784
+1817,'Scarborough','CAN','Ontario',669502
+1818,'Vancouver','CAN','British Colombia',578854
+1819,'Etobicoke','CAN','Ontario',392851
+1820,'London','CAN','Ontario',382798
+1821,'Hamilton','CAN','Ontario',377953
+1822,'Ottawa','CAN','Ontario',377573
+1823,'Laval','CAN','Québec',372073
+1824,'Surrey','CAN','British Colombia',342888
+1825,'Brampton','CAN','Ontario',334141
+1826,'Windsor','CAN','Ontario',233773
+1827,'Saskatoon','CAN','Saskatchewan',218074
+1828,'Kitchener','CAN','Ontario',213922
+1829,'Markham','CAN','Ontario',212951
+1830,'Regina','CAN','Saskatchewan',203157
+1831,'Burnaby','CAN','British Colombia',201815
+1832,'Québec','CAN','Québec',188365
+1833,'York','CAN','Ontario',174530
+1834,'Richmond','CAN','British Colombia',167645
+1835,'Vaughan','CAN','Ontario',166543
+1836,'Burlington','CAN','Ontario',163461
+1837,'Oshawa','CAN','Ontario',157855
+1838,'Oakville','CAN','Ontario',156750
+1839,'Saint Catharines','CAN','Ontario',153398
+1840,'Longueuil','CAN','Québec',144119
+1841,'Richmond Hill','CAN','Ontario',131114
+1842,'Thunder Bay','CAN','Ontario',130534
+1843,'Nepean','CAN','Ontario',129619
+1844,'Cape Breton','CAN','Nova Scotia',129205
+1845,'East York','CAN','Ontario',128418
+1846,'Halifax','CAN','Nova Scotia',128278
+1847,'Cambridge','CAN','Ontario',122957
+1848,'Gloucester','CAN','Ontario',120850
+1849,'Abbotsford','CAN','British Colombia',118699
+1850,'Guelph','CAN','Ontario',116659
+1851,'Saint John´s','CAN','Newfoundland',114793
+1852,'Coquitlam','CAN','British Colombia',114664
+1853,'Saanich','CAN','British Colombia',114175
+1854,'Gatineau','CAN','Québec',113405
+1855,'Delta','CAN','British Colombia',107446
+1856,'Sudbury','CAN','Ontario',104376
+1857,'Kelowna','CAN','British Colombia',100723
+1858,'Barrie','CAN','Ontario',100529
+1859,'Praia','CPV','São Tiago',106758
+1860,'Almaty','KAZ','Almaty Qalasy',1271884
+1861,'Qaraghandy','KAZ','Qaraghandy',492018
+1862,'Shymkent','KAZ','South Kazakstan',405528
+1863,'Taraz','KAZ','Taraz',371745
+1864,'Astana','KAZ','Astana',350459
+1865,'Öskemen','KAZ','East Kazakstan',350234
+1866,'Pavlodar','KAZ','Pavlodar',338409
+1867,'Semey','KAZ','East Kazakstan',303611
+1868,'Aqtöbe','KAZ','Aqtöbe',285029
+1869,'Qostanay','KAZ','Qostanay',249329
+1870,'Petropavl','KAZ','North Kazakstan',229172
+1871,'Oral','KAZ','West Kazakstan',220162
+1872,'Temirtau','KAZ','Qaraghandy',192008
+1873,'Qyzylorda','KAZ','Qyzylorda',177255
+1874,'Aqtau','KAZ','Mangghystau',161489
+1875,'Atyrau','KAZ','Atyrau',160476
+1876,'Ekibastuz','KAZ','Pavlodar',143244
+1877,'Kökshetau','KAZ','North Kazakstan',138966
+1878,'Rudnyy','KAZ','Qostanay',123312
+1879,'Taldyqorghan','KAZ','Almaty',110361
+1880,'Zhezqazghan','KAZ','Qaraghandy',101353
+1881,'Nairobi','KEN','Nairobi',2578910
+1882,'Mombasa','KEN','Coast',520007
+1883,'Kisumu','KEN','Nyanza',217045
+1884,'Nakuru','KEN','Rift Valley',184605
+1885,'Machakos','KEN','Eastern',130961
+1886,'Eldoret','KEN','Rift Valley',125995
+1887,'Meru','KEN','Eastern',106922
+1888,'Nyeri','KEN','Central',102768
+1889,'Bangui','CAF','Bangui',590106
+1890,'Shanghai','CHN','Shanghai',10919605
+1891,'Peking','CHN','Peking',8414682
+1892,'Chongqing','CHN','Chongqing',7152931
+1893,'Tianjin','CHN','Tianjin',5953793
+1894,'Wuhan','CHN','Hubei',4892722
+1895,'Harbin','CHN','Heilongjiang',4831009
+1896,'Shenyang','CHN','Liaoning',4803306
+1897,'Kanton [Guangzhou]','CHN','Guangdong',4793283
+1898,'Chengdu','CHN','Sichuan',3785593
+1899,'Nanking [Nanjing]','CHN','Jiangsu',3232422
+1900,'Changchun','CHN','Jilin',3166766
+1901,'Xi´an','CHN','Shaanxi',3109783
+1902,'Dalian','CHN','Liaoning',3037258
+1903,'Qingdao','CHN','Shandong',2923514
+1904,'Jinan','CHN','Shandong',2565508
+1905,'Hangzhou','CHN','Zhejiang',2466856
+1906,'Zhengzhou','CHN','Henan',2373046
+1907,'Shijiazhuang','CHN','Hebei',2299058
+1908,'Taiyuan','CHN','Shanxi',2216736
+1909,'Kunming','CHN','Yunnan',2060312
+1910,'Changsha','CHN','Hunan',2038126
+1911,'Nanchang','CHN','Jiangxi',1905013
+1912,'Fuzhou','CHN','Fujian',1794875
+1913,'Lanzhou','CHN','Gansu',1763343
+1914,'Guiyang','CHN','Guizhou',1650050
+1915,'Ningbo','CHN','Zhejiang',1544191
+1916,'Hefei','CHN','Anhui',1541826
+1917,'Urumtši [Ürümqi]','CHN','Xinxiang',1475383
+1918,'Anshan','CHN','Liaoning',1351392
+1919,'Fushun','CHN','Liaoning',1351392
+1920,'Nanning','CHN','Guangxi',1308373
+1921,'Zibo','CHN','Shandong',1283824
+1922,'Qiqihar','CHN','Heilongjiang',1204992
+1923,'Jilin','CHN','Jilin',1171207
+1924,'Tangshan','CHN','Hebei',1171207
+1925,'Baotou','CHN','Inner Mongolia',1103636
+1926,'Shenzhen','CHN','Guangdong',1070416
+1927,'Hohhot','CHN','Inner Mongolia',1032351
+1928,'Handan','CHN','Hebei',945974
+1929,'Wuxi','CHN','Jiangsu',934713
+1930,'Xuzhou','CHN','Jiangsu',912190
+1931,'Datong','CHN','Shanxi',900928
+1932,'Yichun','CHN','Heilongjiang',900928
+1933,'Benxi','CHN','Liaoning',867143
+1934,'Luoyang','CHN','Henan',855882
+1935,'Suzhou','CHN','Jiangsu',799573
+1936,'Xining','CHN','Qinghai',788537
+1937,'Huainan','CHN','Anhui',788312
+1938,'Jixi','CHN','Heilongjiang',770163
+1939,'Daqing','CHN','Heilongjiang',743265
+1940,'Fuxin','CHN','Liaoning',720743
+1941,'Amoy [Xiamen]','CHN','Fujian',706666
+1942,'Liuzhou','CHN','Guangxi',686956
+1943,'Shantou','CHN','Guangdong',653173
+1944,'Jinzhou','CHN','Liaoning',641910
+1945,'Mudanjiang','CHN','Heilongjiang',641910
+1946,'Yinchuan','CHN','Ningxia',613192
+1947,'Changzhou','CHN','Jiangsu',596864
+1948,'Zhangjiakou','CHN','Hebei',596864
+1949,'Dandong','CHN','Liaoning',585603
+1950,'Hegang','CHN','Heilongjiang',585603
+1951,'Kaifeng','CHN','Henan',574341
+1952,'Jiamusi','CHN','Heilongjiang',555656
+1953,'Liaoyang','CHN','Liaoning',554700
+1954,'Hengyang','CHN','Hunan',548604
+1955,'Baoding','CHN','Hebei',544108
+1956,'Hunjiang','CHN','Jilin',542855
+1957,'Xinxiang','CHN','Henan',533531
+1958,'Huangshi','CHN','Hubei',515331
+1959,'Haikou','CHN','Hainan',511613
+1960,'Yantai','CHN','Shandong',509164
+1961,'Bengbu','CHN','Anhui',505918
+1962,'Xiangtan','CHN','Hunan',497725
+1963,'Weifang','CHN','Shandong',482581
+1964,'Wuhu','CHN','Anhui',479448
+1965,'Pingxiang','CHN','Jiangxi',479268
+1966,'Yingkou','CHN','Liaoning',474774
+1967,'Anyang','CHN','Henan',473359
+1968,'Panzhihua','CHN','Sichuan',467880
+1969,'Pingdingshan','CHN','Henan',462596
+1970,'Xiangfan','CHN','Hubei',462182
+1971,'Zhuzhou','CHN','Hunan',461638
+1972,'Jiaozuo','CHN','Henan',460710
+1973,'Wenzhou','CHN','Zhejiang',452569
+1974,'Zhangjiang','CHN','Guangdong',451583
+1975,'Zigong','CHN','Sichuan',442785
+1976,'Shuangyashan','CHN','Heilongjiang',434788
+1977,'Zaozhuang','CHN','Shandong',428891
+1978,'Yakeshi','CHN','Inner Mongolia',425538
+1979,'Yichang','CHN','Hubei',418480
+1980,'Zhenjiang','CHN','Jiangsu',414780
+1981,'Huaibei','CHN','Anhui',412790
+1982,'Qinhuangdao','CHN','Hebei',411016
+1983,'Guilin','CHN','Guangxi',410066
+1984,'Liupanshui','CHN','Guizhou',409869
+1985,'Panjin','CHN','Liaoning',408538
+1986,'Yangquan','CHN','Shanxi',407970
+1987,'Jinxi','CHN','Liaoning',402096
+1988,'Liaoyuan','CHN','Jilin',398816
+1989,'Lianyungang','CHN','Jiangsu',398814
+1990,'Xianyang','CHN','Shaanxi',396548
+1991,'Tai´an','CHN','Shandong',394938
+1992,'Chifeng','CHN','Inner Mongolia',394241
+1993,'Shaoguan','CHN','Guangdong',394201
+1994,'Nantong','CHN','Jiangsu',386655
+1995,'Leshan','CHN','Sichuan',384163
+1996,'Baoji','CHN','Shaanxi',380376
+1997,'Linyi','CHN','Shandong',365684
+1998,'Tonghua','CHN','Jilin',365550
+1999,'Siping','CHN','Jilin',357241
+2000,'Changzhi','CHN','Shanxi',357153
+2001,'Tengzhou','CHN','Shandong',354832
+2002,'Chaozhou','CHN','Guangdong',353014
+2003,'Yangzhou','CHN','Jiangsu',352363
+2004,'Dongwan','CHN','Guangdong',347608
+2005,'Ma´anshan','CHN','Anhui',343951
+2006,'Foshan','CHN','Guangdong',341405
+2007,'Yueyang','CHN','Hunan',341000
+2008,'Xingtai','CHN','Hebei',340986
+2009,'Changde','CHN','Hunan',339283
+2010,'Shihezi','CHN','Xinxiang',337481
+2011,'Yancheng','CHN','Jiangsu',334276
+2012,'Jiujiang','CHN','Jiangxi',327921
+2013,'Dongying','CHN','Shandong',317269
+2014,'Shashi','CHN','Hubei',316845
+2015,'Xintai','CHN','Shandong',316728
+2016,'Jingdezhen','CHN','Jiangxi',316654
+2017,'Tongchuan','CHN','Shaanxi',316062
+2018,'Zhongshan','CHN','Guangdong',314003
+2019,'Shiyan','CHN','Hubei',308324
+2020,'Tieli','CHN','Heilongjiang',299198
+2021,'Jining','CHN','Shandong',298710
+2022,'Wuhai','CHN','Inner Mongolia',297394
+2023,'Mianyang','CHN','Sichuan',296118
+2024,'Luzhou','CHN','Sichuan',296056
+2025,'Zunyi','CHN','Guizhou',294895
+2026,'Shizuishan','CHN','Ningxia',290391
+2027,'Neijiang','CHN','Sichuan',288309
+2028,'Tongliao','CHN','Inner Mongolia',287313
+2029,'Tieling','CHN','Liaoning',286989
+2030,'Wafangdian','CHN','Liaoning',283489
+2031,'Anqing','CHN','Anhui',282346
+2032,'Shaoyang','CHN','Hunan',278416
+2033,'Laiwu','CHN','Shandong',277971
+2034,'Chengde','CHN','Hebei',277932
+2035,'Tianshui','CHN','Gansu',275878
+2036,'Nanyang','CHN','Henan',273996
+2037,'Cangzhou','CHN','Hebei',273327
+2038,'Yibin','CHN','Sichuan',271424
+2039,'Huaiyin','CHN','Jiangsu',269910
+2040,'Dunhua','CHN','Jilin',264758
+2041,'Yanji','CHN','Jilin',260019
+2042,'Jiangmen','CHN','Guangdong',259674
+2043,'Tongling','CHN','Anhui',256781
+2044,'Suihua','CHN','Heilongjiang',256627
+2045,'Gongziling','CHN','Jilin',255150
+2046,'Xiantao','CHN','Hubei',251000
+2047,'Chaoyang','CHN','Liaoning',250448
+2048,'Ganzhou','CHN','Jiangxi',247898
+2049,'Huzhou','CHN','Zhejiang',245580
+2050,'Baicheng','CHN','Jilin',245485
+2051,'Shangzi','CHN','Heilongjiang',242542
+2052,'Yangjiang','CHN','Guangdong',242341
+2053,'Qitaihe','CHN','Heilongjiang',242074
+2054,'Gejiu','CHN','Yunnan',241327
+2055,'Jiangyin','CHN','Jiangsu',240611
+2056,'Hebi','CHN','Henan',239842
+2057,'Jiaxing','CHN','Zhejiang',238210
+2058,'Wuzhou','CHN','Guangxi',237001
+2059,'Meihekou','CHN','Jilin',235407
+2060,'Xuchang','CHN','Henan',235156
+2061,'Liaocheng','CHN','Shandong',234063
+2062,'Haicheng','CHN','Liaoning',231492
+2063,'Qianjiang','CHN','Hubei',231428
+2064,'Baiyin','CHN','Gansu',230828
+2065,'Bei´an','CHN','Heilongjiang',230745
+2066,'Yixing','CHN','Jiangsu',226157
+2067,'Laizhou','CHN','Shandong',223724
+2068,'Qaramay','CHN','Xinxiang',222529
+2069,'Acheng','CHN','Heilongjiang',222520
+2070,'Dezhou','CHN','Shandong',220143
+2071,'Nanping','CHN','Fujian',219671
+2072,'Zhaoqing','CHN','Guangdong',219356
+2073,'Beipiao','CHN','Liaoning',218812
+2074,'Fengcheng','CHN','Jiangxi',218230
+2075,'Fuyu','CHN','Jilin',217324
+2076,'Xinyang','CHN','Henan',216793
+2077,'Dongtai','CHN','Jiangsu',216498
+2078,'Yuci','CHN','Shanxi',215495
+2079,'Honghu','CHN','Hubei',214836
+2080,'Ezhou','CHN','Hubei',214107
+2081,'Heze','CHN','Shandong',213170
+2082,'Daxian','CHN','Sichuan',211831
+2083,'Linfen','CHN','Shanxi',210938
+2084,'Tianmen','CHN','Hubei',209837
+2085,'Yiyang','CHN','Hunan',209258
+2086,'Quanzhou','CHN','Fujian',208511
+2087,'Rizhao','CHN','Shandong',208390
+2088,'Deyang','CHN','Sichuan',205508
+2089,'Guangyuan','CHN','Sichuan',205230
+2090,'Changshu','CHN','Jiangsu',204738
+2091,'Zhangzhou','CHN','Fujian',204311
+2092,'Hailar','CHN','Inner Mongolia',203439
+2093,'Nanchong','CHN','Sichuan',203014
+2094,'Jiutai','CHN','Jilin',202853
+2095,'Zhaodong','CHN','Heilongjiang',202679
+2096,'Shaoxing','CHN','Zhejiang',202501
+2097,'Fuyang','CHN','Anhui',202225
+2098,'Maoming','CHN','Guangdong',201224
+2099,'Qujing','CHN','Yunnan',201207
+2100,'Ghulja','CHN','Xinxiang',199544
+2101,'Jiaohe','CHN','Jilin',198615
+2102,'Puyang','CHN','Henan',198188
+2103,'Huadian','CHN','Jilin',198058
+2104,'Jiangyou','CHN','Sichuan',197924
+2105,'Qashqar','CHN','Xinxiang',196592
+2106,'Anshun','CHN','Guizhou',196108
+2107,'Fuling','CHN','Sichuan',195813
+2108,'Xinyu','CHN','Jiangxi',195412
+2109,'Hanzhong','CHN','Shaanxi',191365
+2110,'Danyang','CHN','Jiangsu',190998
+2111,'Chenzhou','CHN','Hunan',190769
+2112,'Xiaogan','CHN','Hubei',187255
+2113,'Shangqiu','CHN','Henan',185678
+2114,'Zhuhai','CHN','Guangdong',185528
+2115,'Qingyuan','CHN','Guangdong',185409
+2116,'Aqsu','CHN','Xinxiang',184791
+2117,'Jining','CHN','Inner Mongolia',184184
+2118,'Xiaoshan','CHN','Zhejiang',183483
+2119,'Zaoyang','CHN','Hubei',182657
+2120,'Xinghua','CHN','Jiangsu',182335
+2121,'Hami','CHN','Xinxiang',181664
+2122,'Huizhou','CHN','Guangdong',181334
+2123,'Jinmen','CHN','Hubei',181076
+2124,'Sanming','CHN','Fujian',180961
+2125,'Ulanhot','CHN','Inner Mongolia',179662
+2126,'Korla','CHN','Xinxiang',179443
+2127,'Wanxian','CHN','Sichuan',176605
+2128,'Rui´an','CHN','Zhejiang',176205
+2129,'Zhoushan','CHN','Zhejiang',176035
+2130,'Liangcheng','CHN','Shandong',176024
+2131,'Jiaozhou','CHN','Shandong',172711
+2132,'Taizhou','CHN','Jiangsu',171671
+2133,'Suzhou','CHN','Anhui',171018
+2134,'Yichun','CHN','Jiangxi',170707
+2135,'Taonan','CHN','Jilin',169110
+2136,'Pingdu','CHN','Shandong',169059
+2137,'Ji´an','CHN','Jiangxi',167325
+2138,'Longkou','CHN','Shandong',167077
+2139,'Langfang','CHN','Hebei',166788
+2140,'Zhoukou','CHN','Henan',164740
+2141,'Suining','CHN','Sichuan',164513
+2142,'Yulin','CHN','Guangxi',162692
+2143,'Jinhua','CHN','Zhejiang',162480
+2144,'Liu´an','CHN','Anhui',162443
+2145,'Shuangcheng','CHN','Heilongjiang',160655
+2146,'Suizhou','CHN','Hubei',160253
+2147,'Ankang','CHN','Shaanxi',160104
+2148,'Weinan','CHN','Shaanxi',157850
+2149,'Longjing','CHN','Jilin',157003
+2150,'Da´an','CHN','Jilin',156492
+2151,'Lengshuijiang','CHN','Hunan',155401
+2152,'Laiyang','CHN','Shandong',154371
+2153,'Xianning','CHN','Hubei',154067
+2154,'Dali','CHN','Yunnan',153780
+2155,'Anda','CHN','Heilongjiang',153656
+2156,'Jincheng','CHN','Shanxi',153600
+2157,'Longyan','CHN','Fujian',151445
+2158,'Xichang','CHN','Sichuan',151374
+2159,'Wendeng','CHN','Shandong',150801
+2160,'Hailun','CHN','Heilongjiang',150413
+2161,'Binzhou','CHN','Shandong',150403
+2162,'Linhe','CHN','Inner Mongolia',149982
+2163,'Wuwei','CHN','Gansu',149891
+2164,'Duyun','CHN','Guizhou',149744
+2165,'Mishan','CHN','Heilongjiang',149488
+2166,'Shangrao','CHN','Jiangxi',149164
+2167,'Changji','CHN','Xinxiang',148945
+2168,'Meixian','CHN','Guangdong',148825
+2169,'Yushu','CHN','Jilin',148493
+2170,'Tiefa','CHN','Liaoning',148433
+2171,'Huai´an','CHN','Jiangsu',147691
+2172,'Leiyang','CHN','Hunan',146528
+2173,'Zalantun','CHN','Inner Mongolia',146432
+2174,'Weihai','CHN','Shandong',145146
+2175,'Loudi','CHN','Hunan',144617
+2176,'Qingzhou','CHN','Shandong',144437
+2177,'Qidong','CHN','Jiangsu',142875
+2178,'Huaihua','CHN','Hunan',142777
+2179,'Luohe','CHN','Henan',142386
+2180,'Chuzhou','CHN','Anhui',141151
+2181,'Kaiyuan','CHN','Liaoning',139888
+2182,'Linqing','CHN','Shandong',139594
+2183,'Chaohu','CHN','Anhui',139275
+2184,'Laohekou','CHN','Hubei',138927
+2185,'Dujiangyan','CHN','Sichuan',138917
+2186,'Zhumadian','CHN','Henan',138776
+2187,'Linchuan','CHN','Jiangxi',137330
+2188,'Jiaonan','CHN','Shandong',136710
+2189,'Sanmenxia','CHN','Henan',135725
+2190,'Heyuan','CHN','Guangdong',135253
+2191,'Manzhouli','CHN','Inner Mongolia',135163
+2192,'Lhasa','CHN','Tibet',135136
+2193,'Lianyuan','CHN','Hunan',133851
+2194,'Kuytun','CHN','Xinxiang',133507
+2195,'Puqi','CHN','Hubei',132056
+2196,'Hongjiang','CHN','Hunan',130843
+2197,'Qinzhou','CHN','Guangxi',129039
+2198,'Renqiu','CHN','Hebei',128667
+2199,'Yuyao','CHN','Zhejiang',128452
+2200,'Guigang','CHN','Guangxi',128408
+2201,'Kaili','CHN','Guizhou',128333
+2202,'Yan´an','CHN','Shaanxi',127566
+2203,'Beihai','CHN','Guangxi',126885
+2204,'Xuangzhou','CHN','Anhui',126885
+2205,'Quzhou','CHN','Zhejiang',126548
+2206,'Yong´an','CHN','Fujian',125859
+2207,'Zixing','CHN','Hunan',123927
+2208,'Liyang','CHN','Jiangsu',123334
+2209,'Yizheng','CHN','Jiangsu',123051
+2210,'Yumen','CHN','Gansu',123012
+2211,'Liling','CHN','Hunan',122189
+2212,'Yuncheng','CHN','Shanxi',122026
+2213,'Shanwei','CHN','Guangdong',121450
+2214,'Cixi','CHN','Zhejiang',120866
+2215,'Yuanjiang','CHN','Hunan',120501
+2216,'Bozhou','CHN','Anhui',119760
+2217,'Jinchang','CHN','Gansu',118566
+2218,'Fu´an','CHN','Fujian',118543
+2219,'Suqian','CHN','Jiangsu',118267
+2220,'Shishou','CHN','Hubei',117761
+2221,'Hengshui','CHN','Hebei',117422
+2222,'Danjiangkou','CHN','Hubei',116230
+2223,'Fujin','CHN','Heilongjiang',116110
+2224,'Sanya','CHN','Hainan',115789
+2225,'Guangshui','CHN','Hubei',115733
+2226,'Huangshan','CHN','Anhui',115573
+2227,'Xingcheng','CHN','Liaoning',115297
+2228,'Zhucheng','CHN','Shandong',115017
+2229,'Kunshan','CHN','Jiangsu',114924
+2230,'Haining','CHN','Zhejiang',113151
+2231,'Pingliang','CHN','Gansu',111785
+2232,'Fuqing','CHN','Fujian',111704
+2233,'Xinzhou','CHN','Shanxi',111112
+2234,'Jieyang','CHN','Guangdong',110960
+2235,'Zhangjiagang','CHN','Jiangsu',110354
+2236,'Tong Xian','CHN','Peking',109424
+2237,'Ya´an','CHN','Sichuan',107997
+2238,'Jinzhou','CHN','Liaoning',107840
+2239,'Emeishan','CHN','Sichuan',105856
+2240,'Enshi','CHN','Hubei',104794
+2241,'Bose','CHN','Guangxi',104741
+2242,'Yuzhou','CHN','Henan',104604
+2243,'Kaiyuan','CHN','Yunnan',103602
+2244,'Tumen','CHN','Jilin',103009
+2245,'Putian','CHN','Fujian',102513
+2246,'Linhai','CHN','Zhejiang',102331
+2247,'Xilin Hot','CHN','Inner Mongolia',102079
+2248,'Shaowu','CHN','Fujian',101673
+2249,'Junan','CHN','Shandong',101602
+2250,'Huaying','CHN','Sichuan',100677
+2251,'Pingyi','CHN','Shandong',100645
+2252,'Huangyan','CHN','Zhejiang',100549
+2253,'Bishkek','KGZ','Bishkek shaary',663757
+2254,'Osh','KGZ','Osh',250794
+2255,'Bikenibeu','KIR','South Tarawa',5691
+2256,'Bairiki','KIR','South Tarawa',2505
+2257,'Santafé de Bogotá','COL','Santafé de Bogotá',7050745
+2258,'Cali','COL','Valle',2339470
+2259,'Medellín','COL','Antioquia',2096083
+2260,'Barranquilla','COL','Atlántico',1377586
+2261,'Cartagena','COL','Bolívar',907411
+2262,'Cúcuta','COL','Norte de Santander',683502
+2263,'Bucaramanga','COL','Santander',580597
+2264,'Ibagué','COL','Tolima',443327
+2265,'Pereira','COL','Risaralda',429881
+2266,'Santa Marta','COL','Magdalena',404455
+2267,'Manizales','COL','Caldas',380167
+2268,'Bello','COL','Antioquia',375538
+2269,'Pasto','COL','Nariño',374327
+2270,'Neiva','COL','Huila',337905
+2271,'Soledad','COL','Atlántico',332281
+2272,'Armenia','COL','Quindío',325433
+2273,'Villavicencio','COL','Meta',307598
+2274,'Soacha','COL','Cundinamarca',306378
+2275,'Valledupar','COL','Cesar',296455
+2276,'Montería','COL','Córdoba',279561
+2277,'Itagüí','COL','Antioquia',257871
+2278,'Palmira','COL','Valle',255083
+2279,'Buenaventura','COL','Valle',252635
+2280,'Floridablanca','COL','Santander',249908
+2281,'Sincelejo','COL','Sucre',248546
+2282,'Popayán','COL','Cauca',226040
+2283,'Barrancabermeja','COL','Santander',200476
+2284,'Dos Quebradas','COL','Risaralda',179466
+2285,'Tuluá','COL','Valle',171723
+2286,'Envigado','COL','Antioquia',152983
+2287,'Cartago','COL','Valle',141763
+2288,'Girardot','COL','Cundinamarca',124960
+2289,'Buga','COL','Valle',124662
+2290,'Tunja','COL','Boyacá',123582
+2291,'Florencia','COL','Caquetá',122269
+2292,'Maicao','COL','La Guajira',121683
+2293,'Sogamoso','COL','Boyacá',121316
+2294,'Giron','COL','Santander',102127
+2295,'Moroni','COM','Njazidja',40540
+2296,'Brazzaville','COG','Brazzaville',1069852
+2297,'Pointe-Noire','COG','Kouilou',563080
+2298,'Kinshasa','COD','Kinshasa',5702884
+2299,'Lubumbashi','COD','Shaba',958790
+2300,'Mbuji-Mayi','COD','East Kasai',908220
+2301,'Kolwezi','COD','Shaba',470518
+2302,'Kisangani','COD','Haute-Zaïre',470189
+2303,'Kananga','COD','West Kasai',442612
+2304,'Likasi','COD','Shaba',336853
+2305,'Bukavu','COD','South Kivu',226997
+2306,'Kikwit','COD','Bandundu',205117
+2307,'Tshikapa','COD','West Kasai',203675
+2308,'Matadi','COD','Bas-Zaïre',194520
+2309,'Mbandaka','COD','Equateur',191265
+2310,'Mwene-Ditu','COD','East Kasai',154799
+2311,'Boma','COD','Bas-Zaïre',152348
+2312,'Uvira','COD','South Kivu',130171
+2313,'Butembo','COD','North Kivu',123206
+2314,'Goma','COD','North Kivu',122854
+2315,'Kalemie','COD','Shaba',114089
+2316,'Bantam','CCK','Home Island',564
+2317,'West Island','CCK','West Island',185
+2318,'Pyongyang','PRK','Pyongyang-si',2797385
+2319,'Hamhung','PRK','Hamgyong N',799268
+2320,'Chongjin','PRK','Hamgyong P',655964
+2321,'Nampo','PRK','Nampo-si',637631
+2322,'Sinuiju','PRK','Pyongan P',367138
+2323,'Wonsan','PRK','Kangwon',338012
+2324,'Phyongsong','PRK','Pyongan N',307364
+2325,'Sariwon','PRK','Hwanghae P',286206
+2326,'Haeju','PRK','Hwanghae N',258082
+2327,'Kanggye','PRK','Chagang',251593
+2328,'Kimchaek','PRK','Hamgyong P',201581
+2329,'Hyesan','PRK','Yanggang',200476
+2330,'Kaesong','PRK','Kaesong-si',193133
+2331,'Seoul','KOR','Seoul',11240922
+2332,'Pusan','KOR','Pusan',4284506
+2333,'Inchon','KOR','Inchon',2882325
+2334,'Taegu','KOR','Taegu',2870099
+2335,'Taejon','KOR','Taejon',1605719
+2336,'Kwangju','KOR','Kwangju',1540971
+2337,'Ulsan','KOR','Kyongsangnam',1221760
+2338,'Songnam','KOR','Kyonggi',978737
+2339,'Puchon','KOR','Kyonggi',877743
+2340,'Suwon','KOR','Kyonggi',850869
+2341,'Anyang','KOR','Kyonggi',665678
+2342,'Chonju','KOR','Chollabuk',634200
+2343,'Chongju','KOR','Chungchongbuk',598412
+2344,'Koyang','KOR','Kyonggi',583667
+2345,'Ansan','KOR','Kyonggi',574693
+2346,'Pohang','KOR','Kyongsangbuk',573099
+2347,'Chang-won','KOR','Kyongsangnam',542462
+2348,'Masan','KOR','Kyongsangnam',496907
+2349,'Kwangmyong','KOR','Kyonggi',395182
+2350,'Chonan','KOR','Chungchongnam',371923
+2351,'Chinju','KOR','Kyongsangnam',371502
+2352,'Iksan','KOR','Chollabuk',363392
+2353,'Pyongtaek','KOR','Kyonggi',352403
+2354,'Kumi','KOR','Kyongsangbuk',350719
+2355,'Uijongbu','KOR','Kyonggi',310943
+2356,'Kyongju','KOR','Kyongsangbuk',307403
+2357,'Kunsan','KOR','Chollabuk',300197
+2358,'Cheju','KOR','Cheju',291123
+2359,'Kimhae','KOR','Kyongsangnam',288712
+2360,'Sunchon','KOR','Chollanam',280708
+2361,'Mokpo','KOR','Chollanam',278668
+2362,'Yong-in','KOR','Kyonggi',273250
+2363,'Wonju','KOR','Kang-won',267416
+2364,'Kunpo','KOR','Kyonggi',264907
+2365,'Chunchon','KOR','Kang-won',264114
+2366,'Namyangju','KOR','Kyonggi',257955
+2367,'Kangnung','KOR','Kang-won',248207
+2368,'Chungju','KOR','Chungchongbuk',231093
+2369,'Andong','KOR','Kyongsangbuk',212215
+2370,'Yosu','KOR','Chollanam',206756
+2371,'Kyongsan','KOR','Kyongsangbuk',195663
+2372,'Paju','KOR','Kyonggi',183987
+2373,'Yangsan','KOR','Kyongsangnam',183958
+2374,'Ichon','KOR','Kyonggi',174925
+2375,'Asan','KOR','Chungchongnam',174174
+2376,'Koje','KOR','Kyongsangnam',166176
+2377,'Kimchon','KOR','Kyongsangbuk',165573
+2378,'Nonsan','KOR','Chungchongnam',165114
+2379,'Kuri','KOR','Kyonggi',160107
+2380,'Chong-up','KOR','Chollabuk',156658
+2381,'Chechon','KOR','Chungchongbuk',154361
+2382,'Sosan','KOR','Chungchongnam',151742
+2383,'Shihung','KOR','Kyonggi',150275
+2384,'Tong-yong','KOR','Kyongsangnam',148332
+2385,'Kongju','KOR','Chungchongnam',147782
+2386,'Yongju','KOR','Kyongsangbuk',147633
+2387,'Chinhae','KOR','Kyongsangnam',141890
+2388,'Sangju','KOR','Kyongsangbuk',139771
+2389,'Poryong','KOR','Chungchongnam',138071
+2390,'Kwang-yang','KOR','Chollanam',137448
+2391,'Miryang','KOR','Kyongsangnam',136827
+2392,'Hanam','KOR','Kyonggi',130420
+2393,'Kimje','KOR','Chollabuk',129985
+2394,'Yongchon','KOR','Kyongsangbuk',127829
+2395,'Sachon','KOR','Kyongsangnam',127809
+2396,'Uiwang','KOR','Kyonggi',122510
+2397,'Naju','KOR','Chollanam',121432
+2398,'Namwon','KOR','Chollabuk',116604
+2399,'Tonghae','KOR','Kang-won',107514
+2400,'Mun-gyong','KOR','Kyongsangbuk',103872
+2401,'Athenai','GRC','Attika',869476
+2402,'Thessaloniki','GRC','Central Macedonia',432406
+2403,'Pireus','GRC','Attika',205715
+2404,'Patras','GRC','West Greece',172687
+2405,'Peristerion','GRC','Attika',154605
+2406,'Herakleion','GRC','Crete',130833
+2407,'Kallithea','GRC','Attika',128641
+2408,'Larisa','GRC','Thessalia',127356
+2409,'Zagreb','HRV','Grad Zagreb',795935
+2410,'Split','HRV','Split-Dalmatia',213277
+2411,'Rijeka','HRV','Primorje-Gorski Kota',189151
+2412,'Osijek','HRV','Osijek-Baranja',117975
+2413,'La Habana','CUB','La Habana',2540620
+2414,'Santiago de Cuba','CUB','Santiago de Cuba',487827
+2415,'Camagüey','CUB','Camagüey',336411
+2416,'Holguín','CUB','Holguín',280966
+2417,'Santa Clara','CUB','Villa Clara',233506
+2418,'Guantánamo','CUB','Guantánamo',230948
+2419,'Pinar del Río','CUB','Pinar del Río',160024
+2420,'Bayamo','CUB','Granma',158786
+2421,'Cienfuegos','CUB','Cienfuegos',149517
+2422,'Victoria de las Tunas','CUB','Las Tunas',149044
+2423,'Matanzas','CUB','Matanzas',138823
+2424,'Manzanillo','CUB','Granma',123143
+2425,'Sancti-Spíritus','CUB','Sancti-Spíritus',113460
+2426,'Ciego de Ávila','CUB','Ciego de Ávila',110930
+2427,'al-Salimiya','KWT','Hawalli',146640
+2428,'Jalib al-Shuyukh','KWT','Hawalli',115066
+2429,'Kuwait','KWT','al-Asima',32497
+2430,'Nicosia','CYP','Nicosia',219599
+2431,'Limassol','CYP','Limassol',173876
+2432,'Vientiane','LAO','Viangchan',598889
+2433,'Savannakhet','LAO','Savannakhet',108844
+2434,'Riga','LVA','Riika',860755
+2435,'Daugavpils','LVA','Daugavpils',129313
+2436,'Liepaja','LVA','Liepaja',100720
+2437,'Maseru','LSO','Maseru',334467
+2438,'Beirut','LBN','Beirut',1238776
+2439,'Tripoli','LBN','al-Shamal',270276
+2440,'Monrovia','LBR','Montserrado',957236
+2441,'Tripoli','LBY','Tripoli',1894204
+2442,'Bengasi','LBY','Bengasi',905432
+2443,'Misrata','LBY','Misrata',137016
+2444,'al-Zawiya','LBY','al-Zawiya',100606
+2445,'Schaan','LIE','Schaan',6018
+2446,'Vaduz','LIE','Vaduz',5675
+2447,'Vilnius','LTU','Vilna',650884
+2448,'Kaunas','LTU','Kaunas',464695
+2449,'Klaipeda','LTU','Klaipeda',227990
+2450,'Šiauliai','LTU','Šiauliai',165050
+2451,'Panevezys','LTU','Panevezys',150559
+2452,'Luxembourg [Luxemburg/Lëtzebuerg]','LUX','Luxembourg',90879
+2453,'El-Aaiún','ESH','El-Aaiún',190318
+2454,'Macao','MAC','Macau',492694
+2455,'Antananarivo','MDG','Antananarivo',760910
+2456,'Toamasina','MDG','Toamasina',143515
+2457,'Antsirabé','MDG','Antananarivo',135403
+2458,'Mahajanga','MDG','Mahajanga',113522
+2459,'Fianarantsoa','MDG','Fianarantsoa',111494
+2460,'Skopje','MKD','Skopje',500348
+2461,'Blantyre','MWI','Blantyre',538478
+2462,'Lilongwe','MWI','Lilongwe',490962
+2463,'Male','MDV','Maale',79955
+2464,'Kuala Lumpur','MYS','Wilayah Persekutuan',1461221
+2465,'Ipoh','MYS','Perak',431152
+2466,'Johor Baharu','MYS','Johor',369870
+2467,'Petaling Jaya','MYS','Selangor',286437
+2468,'Kelang','MYS','Selangor',274054
+2469,'Kuala Terengganu','MYS','Terengganu',256896
+2470,'Pinang','MYS','Pulau Pinang',247306
+2471,'Kota Bharu','MYS','Kelantan',247282
+2472,'Kuantan','MYS','Pahang',224647
+2473,'Taiping','MYS','Perak',206379
+2474,'Seremban','MYS','Negeri Sembilan',205938
+2475,'Kuching','MYS','Sarawak',166736
+2476,'Sibu','MYS','Sarawak',142322
+2477,'Sandakan','MYS','Sabah',141714
+2478,'Alor Setar','MYS','Kedah',140106
+2479,'Selayang Baru','MYS','Selangor',139898
+2480,'Sungai Petani','MYS','Kedah',129239
+2481,'Shah Alam','MYS','Selangor',114887
+2482,'Bamako','MLI','Bamako',911685
+2483,'Birkirkara','MLT','Outer Harbour',24148
+2484,'Valletta','MLT','Inner Harbour',7964
+2485,'Casablanca','MAR','Casablanca',3311616
+2486,'Rabat','MAR','Rabat-Salé-Zammour-Z',702110
+2487,'Marrakech','MAR','Marrakech-Tensift-Al',700373
+2488,'Fès','MAR','Fès-Boulemane',609433
+2489,'Tanger','MAR','Tanger-Tétouan',587555
+2490,'Salé','MAR','Rabat-Salé-Zammour-Z',568055
+2491,'Meknès','MAR','Meknès-Tafilalet',518033
+2492,'Oujda','MAR','Oriental',411475
+2493,'Kénitra','MAR','Gharb-Chrarda-Béni H',329514
+2494,'Tétouan','MAR','Tanger-Tétouan',312525
+2495,'Safi','MAR','Doukkala-Abda',295389
+2496,'Agadir','MAR','Souss Massa-Draâ',174825
+2497,'Mohammedia','MAR','Casablanca',174223
+2498,'Khouribga','MAR','Chaouia-Ouardigha',171274
+2499,'Beni-Mellal','MAR','Tadla-Azilal',157899
+2500,'Témara','MAR','Rabat-Salé-Zammour-Z',142235
+2501,'El Jadida','MAR','Doukkala-Abda',134103
+2502,'Nador','MAR','Oriental',126634
+2503,'Ksar el Kebir','MAR','Tanger-Tétouan',120570
+2504,'Settat','MAR','Chaouia-Ouardigha',108334
+2505,'Taza','MAR','Taza-Al Hoceima-Taou',104392
+2506,'El Araich','MAR','Tanger-Tétouan',101804
+2507,'Dalap-Uliga-Darrit','MHL','Majuro',31531
+2508,'Fort-de-France','MTQ','Fort-de-France',105913
+2509,'Nouakchott','MRT','Nouakchott',751486
+2510,'Nouâdhibou','MRT','Dakhlet Nouâdhibou',109911
+2511,'Port-Louis','MUS','Port-Louis',155633
+2512,'Beau Bassin-Rose Hill','MUS','Plaines Wilhelms',113307
+2513,'Vacoas-Phoenix','MUS','Plaines Wilhelms',110883
+2514,'Mamoutzou','MYT','Mamoutzou',13510
+2515,'Ciudad de México','MEX','Distrito Federal',9675206
+2516,'Guadalajara','MEX','Jalisco',1855597
+2517,'Ecatepec de Morelos','MEX','México',1824722
+2518,'Puebla','MEX','Puebla',1516009
+2519,'Nezahualcóyotl','MEX','México',1379460
+2520,'Juárez','MEX','Chihuahua',1371459
+2521,'Tijuana','MEX','Baja California',1365168
+2522,'León','MEX','Guanajuato',1276588
+2523,'Monterrey','MEX','Nuevo León',1248346
+2524,'Zapopan','MEX','Jalisco',1128681
+2525,'Naucalpan de Juárez','MEX','México',965694
+2526,'Mexicali','MEX','Baja California',861403
+2527,'Culiacán','MEX','Sinaloa',838831
+2528,'Acapulco de Juárez','MEX','Guerrero',811972
+2529,'Tlalnepantla de Baz','MEX','México',811685
+2530,'Mérida','MEX','Yucatán',792053
+2531,'Chihuahua','MEX','Chihuahua',754761
+2532,'San Luis Potosí','MEX','San Luis Potosí',753797
+2533,'Guadalupe','MEX','Nuevo León',753152
+2534,'Toluca','MEX','México',749590
+2535,'Aguascalientes','MEX','Aguascalientes',724525
+2536,'Querétaro','MEX','Querétaro de Arteaga',720559
+2537,'Morelia','MEX','Michoacán de Ocampo',698172
+2538,'Hermosillo','MEX','Sonora',685488
+2539,'Saltillo','MEX','Coahuila de Zaragoza',650188
+2540,'Torreón','MEX','Coahuila de Zaragoza',595842
+2541,'CentroVillahermosa ','MEX','Tabasco',585458
+2542,'San Nicolás de los Garza','MEX','Nuevo León',558056
+2543,'Durango','MEX','Durango',552406
+2544,'Chimalhuacán','MEX','México',552091
+2545,'Tlaquepaque','MEX','Jalisco',535456
+2546,'Atizapán de Zaragoza','MEX','México',526210
+2547,'Veracruz','MEX','Veracruz',514786
+2548,'Cuautitlán Izcalli','MEX','México',510122
+2549,'Irapuato','MEX','Guanajuato',495552
+2550,'Tuxtla Gutiérrez','MEX','Chiapas',488238
+2551,'Tultitlán','MEX','México',486963
+2552,'Reynosa','MEX','Tamaulipas',472733
+2553,'Benito Juárez','MEX','Quintana Roo',472170
+2554,'Matamoros','MEX','Tamaulipas',468964
+2555,'Xalapa','MEX','Veracruz',439267
+2556,'Celaya','MEX','Guanajuato',430348
+2557,'Mazatlán','MEX','Sinaloa',428237
+2558,'Ensenada','MEX','Baja California',416196
+2559,'Ahome','MEX','Sinaloa',403910
+2560,'Cajeme','MEX','Sonora',400547
+2561,'Cuernavaca','MEX','Morelos',380602
+2562,'Tonalá','MEX','Jalisco',378510
+2563,'Valle de Chalco Solidaridad','MEX','México',363874
+2564,'Nuevo Laredo','MEX','Tamaulipas',349420
+2565,'Tepic','MEX','Nayarit',343504
+2566,'Tampico','MEX','Tamaulipas',331976
+2567,'Ixtapaluca','MEX','México',330144
+2568,'Apodaca','MEX','Nuevo León',318634
+2569,'Guasave','MEX','Sinaloa',312169
+2570,'Gómez Palacio','MEX','Durango',307221
+2571,'Tapachula','MEX','Chiapas',305345
+2572,'Nicolás Romero','MEX','México',303376
+2573,'Coatzacoalcos','MEX','Veracruz',300723
+2574,'Uruapan','MEX','Michoacán de Ocampo',298668
+2575,'Victoria','MEX','Tamaulipas',295823
+2576,'Oaxaca de Juárez','MEX','Oaxaca',289249
+2577,'Coacalco de Berriozábal','MEX','México',284095
+2578,'Pachuca de Soto','MEX','Hidalgo',275556
+2579,'General Escobedo','MEX','Nuevo León',262350
+2580,'Salamanca','MEX','Guanajuato',255483
+2581,'Santa Catarina','MEX','Nuevo León',255155
+2582,'Tehuacán','MEX','Puebla',254446
+2583,'Chalco','MEX','México',250232
+2584,'Cárdenas','MEX','Tabasco',244265
+2585,'Campeche','MEX','Campeche',244074
+2586,'La Paz','MEX','México',239921
+2587,'Othón P. BlancoChetumal ','MEX','Quintana Roo',234255
+2588,'Texcoco','MEX','México',229375
+2589,'La Paz','MEX','Baja California Sur',221522
+2590,'Metepec','MEX','México',218772
+2591,'Monclova','MEX','Coahuila de Zaragoza',218087
+2592,'Huixquilucan','MEX','México',217523
+2593,'Chilpancingo de los Bravo','MEX','Guerrero',216793
+2594,'Puerto Vallarta','MEX','Jalisco',206919
+2595,'Fresnillo','MEX','Zacatecas',205796
+2596,'Ciudad Madero','MEX','Tamaulipas',204974
+2597,'Soledad de Graciano Sánchez','MEX','San Luis Potosí',202657
+2598,'San Juan del Río','MEX','Querétaro',201918
+2599,'San Felipe del Progreso','MEX','México',199698
+2600,'Córdoba','MEX','Veracruz',199274
+2601,'Tecámac','MEX','México',194160
+2602,'Ocosingo','MEX','Chiapas',193127
+2603,'Carmen','MEX','Campeche',192984
+2604,'Lázaro Cárdenas','MEX','Michoacán de Ocampo',192433
+2605,'Jiutepec','MEX','Morelos',191927
+2606,'Papantla','MEX','Veracruz',191582
+2607,'Comalcalco','MEX','Tabasco',185408
+2608,'Zamora','MEX','Michoacán de Ocampo',181525
+2609,'Nogales','MEX','Sonora',179173
+2610,'Huimanguillo','MEX','Tabasco',178308
+2611,'Cuautla','MEX','Morelos',172449
+2612,'Minatitlán','MEX','Veracruz',172280
+2613,'Poza Rica de Hidalgo','MEX','Veracruz',171937
+2614,'Ciudad Valles','MEX','San Luis Potosí',164879
+2615,'Navolato','MEX','Sinaloa',163736
+2616,'San Luis Río Colorado','MEX','Sonora',163600
+2617,'Pénjamo','MEX','Guanajuato',162082
+2618,'San Andrés Tuxtla','MEX','Veracruz',160195
+2619,'Guanajuato','MEX','Guanajuato',159029
+2620,'Navojoa','MEX','Sonora',158217
+2621,'Zitácuaro','MEX','Michoacán de Ocampo',155373
+2622,'Boca del Río','MEX','Veracruz-Llave',152841
+2623,'Allende','MEX','Guanajuato',151628
+2624,'Silao','MEX','Guanajuato',150944
+2625,'Macuspana','MEX','Tabasco',150671
+2626,'San Juan Bautista Tuxtepec','MEX','Oaxaca',150536
+2627,'San Cristóbal de las Casas','MEX','Chiapas',149008
+2628,'Valle de Santiago','MEX','Guanajuato',147025
+2629,'Guaymas','MEX','Sonora',146520
+2630,'Colima','MEX','Colima',145783
+2631,'Dolores Hidalgo','MEX','Guanajuato',144905
+2632,'Lagos de Moreno','MEX','Jalisco',144088
+2633,'Piedras Negras','MEX','Coahuila de Zaragoza',144031
+2634,'Altamira','MEX','Tamaulipas',143570
+2635,'Túxpam','MEX','Veracruz',142428
+2636,'San Pedro Garza García','MEX','Nuevo León',142058
+2637,'Cuauhtémoc','MEX','Chihuahua',139955
+2638,'Manzanillo','MEX','Colima',139657
+2639,'Iguala de la Independencia','MEX','Guerrero',139509
+2640,'Zacatecas','MEX','Zacatecas',139303
+2641,'Tlajomulco de Zúñiga','MEX','Jalisco',138762
+2642,'Tulancingo de Bravo','MEX','Hidalgo',137327
+2643,'Zinacantepec','MEX','México',137067
+2644,'San Martín Texmelucan','MEX','Puebla',136367
+2645,'Tepatitlán de Morelos','MEX','Jalisco',133952
+2646,'Martínez de la Torre','MEX','Veracruz',133802
+2647,'Orizaba','MEX','Veracruz',133434
+2648,'Apatzingán','MEX','Michoacán de Ocampo',132715
+2649,'Atlixco','MEX','Puebla',131779
+2650,'Delicias','MEX','Chihuahua',130781
+2651,'Ixtlahuaca','MEX','México',130123
+2652,'El Mante','MEX','Tamaulipas',126638
+2653,'Lerdo','MEX','Durango',126434
+2654,'Almoloya de Juárez','MEX','México',124496
+2655,'Acámbaro','MEX','Guanajuato',124421
+2656,'Acuña','MEX','Coahuila de Zaragoza',124310
+2657,'Guadalupe','MEX','Zacatecas',122615
+2658,'Huejutla de Reyes','MEX','Hidalgo',121642
+2659,'Hidalgo','MEX','Michoacán de Ocampo',119591
+2660,'Los Cabos','MEX','Baja California Sur',118467
+2661,'Comitán de Domínguez','MEX','Chiapas',118228
+2662,'Cunduacán','MEX','Tabasco',117302
+2663,'Río Bravo','MEX','Tamaulipas',117007
+2664,'Temapache','MEX','Veracruz',115793
+2665,'Chilapa de Alvarez','MEX','Guerrero',115673
+2666,'Hidalgo del Parral','MEX','Chihuahua',113605
+2667,'San Francisco del Rincón','MEX','Guanajuato',112781
+2668,'Taxco de Alarcón','MEX','Guerrero',112509
+2669,'Zumpango','MEX','México',112367
+2670,'San Pedro Cholula','MEX','Puebla',112314
+2671,'Lerma','MEX','México',112291
+2672,'Tecomán','MEX','Colima',111820
+2673,'Las Margaritas','MEX','Chiapas',109672
+2674,'Cosoleacaque','MEX','Veracruz',109458
+2675,'San Luis de la Paz','MEX','Guanajuato',108967
+2676,'José Azueta','MEX','Guerrero',107487
+2677,'Santiago Ixcuintla','MEX','Nayarit',107333
+2678,'San Felipe','MEX','Guanajuato',107327
+2679,'Tejupilco','MEX','México',106908
+2680,'Tantoyuca','MEX','Veracruz',106656
+2681,'Salvatierra','MEX','Guanajuato',106218
+2682,'Tultepec','MEX','México',105140
+2683,'Temixco','MEX','Morelos',104376
+2684,'Matamoros','MEX','Coahuila de Zaragoza',103444
+2685,'Pánuco','MEX','Veracruz',101973
+2686,'El Fuerte','MEX','Sinaloa',100851
+2687,'Tierra Blanca','MEX','Veracruz',100385
+2688,'Weno','FSM','Chuuk',24772
+2689,'Palikir','FSM','Pohnpei',9682
+2690,'Chisinau','MDA','Chisinau',810721
+2691,'Tiraspol','MDA','Dnjestria',218810
+2692,'Balti','MDA','Balti',172750
+2693,'BenderTîghina ','MDA','BenderTîghina ',141556
+2694,'Monte-Carlo','MCO','–',14811
+2695,'Monaco-Ville','MCO','–',1387
+2696,'Ulan Bator','MNG','Ulaanbaatar',871310
+2697,'Plymouth','MSR','Plymouth',2250
+2698,'Maputo','MOZ','Maputo',1147487
+2699,'Matola','MOZ','Maputo',478237
+2700,'Beira','MOZ','Sofala',447498
+2701,'Nampula','MOZ','Nampula',341615
+2702,'Chimoio','MOZ','Manica',192635
+2703,'Naçala-Porto','MOZ','Nampula',178209
+2704,'Quelimane','MOZ','Zambézia',169052
+2705,'Mocuba','MOZ','Zambézia',140429
+2706,'Tete','MOZ','Tete',114847
+2707,'Xai-Xai','MOZ','Gaza',111984
+2708,'Gurue','MOZ','Zambézia',111825
+2709,'Maxixe','MOZ','Inhambane',105839
+2710,'RangoonYangon ','MMR','Rangoon [Yangon]',3785818
+2711,'Mandalay','MMR','Mandalay',996989
+2712,'MoulmeinMawlamyine ','MMR','Mon',346742
+2713,'PeguBago ','MMR','Pegu [Bago]',214982
+2714,'BasseinPathein ','MMR','Irrawaddy [Ayeyarwad',207099
+2715,'Monywa','MMR','Sagaing',156083
+2716,'SittweAkyab ','MMR','Rakhine',154958
+2717,'TaunggyiTaunggye ','MMR','Shan',148087
+2718,'Meikhtila','MMR','Mandalay',146059
+2719,'MerguiMyeik ','MMR','Tenasserim [Tanintha',138179
+2720,'LashioLasho ','MMR','Shan',121172
+2721,'PromePyay ','MMR','Pegu [Bago]',119034
+2722,'HenzadaHinthada ','MMR','Irrawaddy [Ayeyarwad',117906
+2723,'Myingyan','MMR','Mandalay',116667
+2724,'TavoyDawei ','MMR','Tenasserim [Tanintha',109010
+2725,'PagakkuPakokku ','MMR','Magwe [Magway]',106758
+2726,'Windhoek','NAM','Khomas',190318
+2727,'Yangor','NRU','–',4558
+2728,'Yaren','NRU','–',627
+2729,'Kathmandu','NPL','Central',666499
+2730,'Biratnagar','NPL','Eastern',177665
+2731,'Pokhara','NPL','Western',164774
+2732,'Lalitapur','NPL','Central',164244
+2733,'Birgunj','NPL','Central',102072
+2734,'Managua','NIC','Managua',1079987
+2735,'León','NIC','León',139489
+2736,'Chinandega','NIC','Chinandega',109670
+2737,'Masaya','NIC','Masaya',100194
+2738,'Niamey','NER','Niamey',472987
+2739,'Zinder','NER','Zinder',136141
+2740,'Maradi','NER','Maradi',127214
+2741,'Lagos','NGA','Lagos',1709512
+2742,'Ibadan','NGA','Oyo & Osun',1612661
+2743,'Ogbomosho','NGA','Oyo & Osun',822096
+2744,'Kano','NGA','Kano & Jigawa',759144
+2745,'Oshogbo','NGA','Oyo & Osun',536952
+2746,'Ilorin','NGA','Kwara & Kogi',535826
+2747,'Abeokuta','NGA','Ogun',481319
+2748,'Port Harcourt','NGA','Rivers & Bayelsa',461724
+2749,'Zaria','NGA','Kaduna',427039
+2750,'Ilesha','NGA','Oyo & Osun',426137
+2751,'Onitsha','NGA','Anambra & Enugu & Eb',418818
+2752,'Iwo','NGA','Oyo & Osun',407668
+2753,'Ado-Ekiti','NGA','Ondo & Ekiti',404740
+2754,'Abuja','NGA','Federal Capital Dist',394267
+2755,'Kaduna','NGA','Kaduna',385370
+2756,'Mushin','NGA','Lagos',375235
+2757,'Maiduguri','NGA','Borno & Yobe',360370
+2758,'Enugu','NGA','Anambra & Enugu & Eb',355977
+2759,'Ede','NGA','Oyo & Osun',345842
+2760,'Aba','NGA','Imo & Abia',336607
+2761,'Ife','NGA','Oyo & Osun',334242
+2762,'Ila','NGA','Oyo & Osun',297305
+2763,'Oyo','NGA','Oyo & Osun',288745
+2764,'Ikerre','NGA','Ondo & Ekiti',275457
+2765,'Benin City','NGA','Edo & Delta',258339
+2766,'Iseyin','NGA','Oyo & Osun',244712
+2767,'Katsina','NGA','Katsina',232549
+2768,'Jos','NGA','Plateau & Nassarawa',232325
+2769,'Sokoto','NGA','Sokoto & Kebbi & Zam',230747
+2770,'Ilobu','NGA','Oyo & Osun',224104
+2771,'Offa','NGA','Kwara & Kogi',222077
+2772,'Ikorodu','NGA','Lagos',208224
+2773,'Ilawe-Ekiti','NGA','Ondo & Ekiti',207775
+2774,'Owo','NGA','Ondo & Ekiti',206648
+2775,'Ikirun','NGA','Oyo & Osun',204284
+2776,'Shaki','NGA','Oyo & Osun',196512
+2777,'Calabar','NGA','Cross River',196399
+2778,'Ondo','NGA','Ondo & Ekiti',195500
+2779,'Akure','NGA','Ondo & Ekiti',182773
+2780,'Gusau','NGA','Sokoto & Kebbi & Zam',177931
+2781,'Ijebu-Ode','NGA','Ogun',176129
+2782,'Effon-Alaiye','NGA','Oyo & Osun',172413
+2783,'Kumo','NGA','Bauchi & Gombe',166670
+2784,'Shomolu','NGA','Lagos',166332
+2785,'Oka-Akoko','NGA','Ondo & Ekiti',160926
+2786,'Ikare','NGA','Ondo & Ekiti',158562
+2787,'Sapele','NGA','Edo & Delta',156759
+2788,'Deba Habe','NGA','Bauchi & Gombe',156083
+2789,'Minna','NGA','Niger',154168
+2790,'Warri','NGA','Edo & Delta',142006
+2791,'Bida','NGA','Niger',141331
+2792,'Ikire','NGA','Oyo & Osun',138853
+2793,'Makurdi','NGA','Benue',138628
+2794,'Lafia','NGA','Plateau & Nassarawa',137951
+2795,'Inisa','NGA','Oyo & Osun',134911
+2796,'Shagamu','NGA','Ogun',131983
+2797,'Awka','NGA','Anambra & Enugu & Eb',125227
+2798,'Gombe','NGA','Bauchi & Gombe',121398
+2799,'Igboho','NGA','Oyo & Osun',120272
+2800,'Ejigbo','NGA','Oyo & Osun',119258
+2801,'Agege','NGA','Lagos',118245
+2802,'Ise-Ekiti','NGA','Ondo & Ekiti',116443
+2803,'Ugep','NGA','Cross River',115542
+2804,'Epe','NGA','Lagos',113740
+2805,'Alofi','NIU','–',765
+2806,'Kingston','NFK','–',898
+2807,'Oslo','NOR','Oslo',572906
+2808,'Bergen','NOR','Hordaland',260081
+2809,'Trondheim','NOR','Sør-Trøndelag',169108
+2810,'Stavanger','NOR','Rogaland',122577
+2811,'Bærum','NOR','Akershus',114121
+2812,'Abidjan','CIV','Abidjan',2815405
+2813,'Bouaké','CIV','Bouaké',371461
+2814,'Yamoussoukro','CIV','Yamoussoukro',146400
+2815,'Daloa','CIV','Daloa',137210
+2816,'Korhogo','CIV','Korhogo',123249
+2817,'al-Sib','OMN','Masqat',174553
+2818,'Salala','OMN','Zufar',148439
+2819,'Bawshar','OMN','Masqat',121060
+2820,'Suhar','OMN','al-Batina',102268
+2821,'Masqat','OMN','Masqat',58523
+2822,'Karachi','PAK','Sindh',10438695
+2823,'Lahore','PAK','Punjab',5702319
+2824,'Faisalabad','PAK','Punjab',2226696
+2825,'Rawalpindi','PAK','Punjab',1583622
+2826,'Multan','PAK','Punjab',1331618
+2827,'Hyderabad','PAK','Sindh',1296517
+2828,'Gujranwala','PAK','Punjab',1266646
+2829,'Peshawar','PAK','Nothwest Border Prov',1112651
+2830,'Quetta','PAK','Baluchistan',630994
+2831,'Islamabad','PAK','Islamabad',590669
+2832,'Sargodha','PAK','Punjab',512807
+2833,'Sialkot','PAK','Punjab',470279
+2834,'Bahawalpur','PAK','Punjab',454300
+2835,'Sukkur','PAK','Sindh',370703
+2836,'Jhang','PAK','Punjab',329078
+2837,'Sheikhupura','PAK','Punjab',306173
+2838,'Larkana','PAK','Sindh',304474
+2839,'Gujrat','PAK','Punjab',281674
+2840,'Mardan','PAK','Nothwest Border Prov',275357
+2841,'Kasur','PAK','Punjab',272132
+2842,'Rahim Yar Khan','PAK','Punjab',257302
+2843,'Sahiwal','PAK','Punjab',233549
+2844,'Okara','PAK','Punjab',226245
+2845,'Wah','PAK','Punjab',223428
+2846,'Dera Ghazi Khan','PAK','Punjab',211829
+2847,'Mirpur Khas','PAK','Sind',207775
+2848,'Nawabshah','PAK','Sind',206198
+2849,'Mingora','PAK','Nothwest Border Prov',196512
+2850,'Chiniot','PAK','Punjab',190657
+2851,'Kamoke','PAK','Punjab',170048
+2852,'Mandi Burewala','PAK','Punjab',168810
+2853,'Jhelum','PAK','Punjab',164192
+2854,'Sadiqabad','PAK','Punjab',159350
+2855,'Jacobabad','PAK','Sind',155071
+2856,'Shikarpur','PAK','Sind',150115
+2857,'Khanewal','PAK','Punjab',149777
+2858,'Hafizabad','PAK','Punjab',146625
+2859,'Kohat','PAK','Nothwest Border Prov',141106
+2860,'Muzaffargarh','PAK','Punjab',136939
+2861,'Khanpur','PAK','Punjab',132661
+2862,'Gojra','PAK','Punjab',129506
+2863,'Bahawalnagar','PAK','Punjab',123425
+2864,'Muridke','PAK','Punjab',122299
+2865,'Pak Pattan','PAK','Punjab',121398
+2866,'Abottabad','PAK','Nothwest Border Prov',119370
+2867,'Tando Adam','PAK','Sind',116443
+2868,'Jaranwala','PAK','Punjab',116331
+2869,'Khairpur','PAK','Sind',115091
+2870,'Chishtian Mandi','PAK','Punjab',114528
+2871,'Daska','PAK','Punjab',114304
+2872,'Dadu','PAK','Sind',111037
+2873,'Mandi Bahauddin','PAK','Punjab',109573
+2874,'Ahmadpur East','PAK','Punjab',108109
+2875,'Kamalia','PAK','Punjab',107322
+2876,'Khuzdar','PAK','Baluchistan',104843
+2877,'Vihari','PAK','Punjab',103942
+2878,'Dera Ismail Khan','PAK','Nothwest Border Prov',101804
+2879,'Wazirabad','PAK','Punjab',101013
+2880,'Nowshera','PAK','Nothwest Border Prov',100677
+2881,'Koror','PLW','Koror',13510
+2882,'Ciudad de Panamá','PAN','Panamá',530840
+2883,'San Miguelito','PAN','San Miguelito',355168
+2884,'Port Moresby','PNG','National Capital Dis',278160
+2885,'Asunción','PRY','Asunción',628144
+2886,'Ciudad del Este','PRY','Alto Paraná',150769
+2887,'San Lorenzo','PRY','Central',150221
+2888,'Lambaré','PRY','Central',112254
+2889,'Fernando de la Mora','PRY','Central',107305
+2890,'Lima','PER','Lima',7280290
+2891,'Arequipa','PER','Arequipa',858133
+2892,'Trujillo','PER','La Libertad',734255
+2893,'Chiclayo','PER','Lambayeque',582223
+2894,'Callao','PER','Callao',477821
+2895,'Iquitos','PER','Loreto',413299
+2896,'Chimbote','PER','Ancash',378388
+2897,'Huancayo','PER','Junín',368253
+2898,'Piura','PER','Piura',366000
+2899,'Cusco','PER','Cusco',327711
+2900,'Pucallpa','PER','Ucayali',248728
+2901,'Tacna','PER','Tacna',242890
+2902,'Ica','PER','Ica',219395
+2903,'Sullana','PER','Piura',165950
+2904,'Juliaca','PER','Puno',160561
+2905,'Huánuco','PER','Huanuco',146046
+2906,'Ayacucho','PER','Ayacucho',133965
+2907,'Chincha Alta','PER','Ica',123893
+2908,'Cajamarca','PER','Cajamarca',121633
+2909,'Puno','PER','Puno',114389
+2910,'Ventanilla','PER','Callao',113802
+2911,'Castilla','PER','Piura',102075
+2912,'Adamstown','PCN','–',42
+2913,'Garapan','MNP','Saipan',10359
+2914,'Lisboa','PRT','Lisboa',634263
+2915,'Porto','PRT','Porto',307507
+2916,'Amadora','PRT','Lisboa',137508
+2917,'Coímbra','PRT','Coímbra',108222
+2918,'Braga','PRT','Braga',101953
+2919,'San Juan','PRI','San Juan',489173
+2920,'Bayamón','PRI','Bayamón',252307
+2921,'Ponce','PRI','Ponce',209998
+2922,'Carolina','PRI','Carolina',209548
+2923,'Caguas','PRI','Caguas',158226
+2924,'Arecibo','PRI','Arecibo',112761
+2925,'Guaynabo','PRI','Guaynabo',112673
+2926,'Mayagüez','PRI','Mayagüez',110850
+2927,'Toa Baja','PRI','Toa Baja',105951
+2928,'Warszawa','POL','Mazowieckie',1819164
+2929,'Lódz','POL','Lodzkie',901051
+2930,'Kraków','POL','Malopolskie',831274
+2931,'Wroclaw','POL','Dolnoslaskie',717098
+2932,'Poznan','POL','Wielkopolskie',649679
+2933,'Gdansk','POL','Pomorskie',516892
+2934,'Szczecin','POL','Zachodnio-Pomorskie',469593
+2935,'Bydgoszcz','POL','Kujawsko-Pomorskie',435658
+2936,'Lublin','POL','Lubelskie',401194
+2937,'Katowice','POL','Slaskie',389575
+2938,'Bialystok','POL','Podlaskie',319756
+2939,'Czestochowa','POL','Slaskie',290335
+2940,'Gdynia','POL','Pomorskie',285503
+2941,'Sosnowiec','POL','Slaskie',274896
+2942,'Radom','POL','Mazowieckie',261562
+2943,'Kielce','POL','Swietokrzyskie',239174
+2944,'Gliwice','POL','Slaskie',238928
+2945,'Torun','POL','Kujawsko-Pomorskie',232165
+2946,'Bytom','POL','Slaskie',231492
+2947,'Zabrze','POL','Slaskie',225429
+2948,'Bielsko-Biala','POL','Slaskie',203052
+2949,'Olsztyn','POL','Warminsko-Mazurskie',192463
+2950,'Rzeszów','POL','Podkarpackie',182490
+2951,'Ruda Slaska','POL','Slaskie',179806
+2952,'Rybnik','POL','Slaskie',162819
+2953,'Walbrzych','POL','Dolnoslaskie',154196
+2954,'Tychy','POL','Slaskie',149977
+2955,'Dabrowa Górnicza','POL','Slaskie',147566
+2956,'Plock','POL','Mazowieckie',147537
+2957,'Elblag','POL','Warminsko-Mazurskie',146152
+2958,'Opole','POL','Opolskie',145894
+2959,'Gorzów Wielkopolski','POL','Lubuskie',141915
+2960,'Wloclawek','POL','Kujawsko-Pomorskie',138935
+2961,'Chorzów','POL','Slaskie',137060
+2962,'Tarnów','POL','Malopolskie',136819
+2963,'Zielona Góra','POL','Lubuskie',133089
+2964,'Koszalin','POL','Zachodnio-Pomorskie',126550
+2965,'Legnica','POL','Dolnoslaskie',123126
+2966,'Kalisz','POL','Wielkopolskie',120091
+2967,'Grudziadz','POL','Kujawsko-Pomorskie',115354
+2968,'Slupsk','POL','Pomorskie',115283
+2969,'Jastrzebie-Zdrój','POL','Slaskie',115196
+2970,'Jaworzno','POL','Slaskie',110280
+2971,'Jelenia Góra','POL','Dolnoslaskie',105744
+2972,'Malabo','GNQ','Bioko',45044
+2973,'Doha','QAT','Doha',399785
+2974,'Paris','FRA','Île-de-France',2393369
+2975,'Marseille','FRA','Provence-Alpes-Côte',899157
+2976,'Lyon','FRA','Rhône-Alpes',501649
+2977,'Toulouse','FRA','Midi-Pyrénées',439595
+2978,'Nice','FRA','Provence-Alpes-Côte',385975
+2979,'Nantes','FRA','Pays de la Loire',304344
+2980,'Strasbourg','FRA','Alsace',297433
+2981,'Montpellier','FRA','Languedoc-Roussillon',253823
+2982,'Bordeaux','FRA','Aquitaine',242531
+2983,'Rennes','FRA','Haute-Normandie',232245
+2984,'Le Havre','FRA','Champagne-Ardenne',214987
+2985,'Reims','FRA','Nord-Pas-de-Calais',210822
+2986,'Lille','FRA','Rhône-Alpes',207952
+2987,'St-Étienne','FRA','Bretagne',202943
+2988,'Toulon','FRA','Provence-Alpes-Côte',180903
+2989,'Grenoble','FRA','Rhône-Alpes',172658
+2990,'Angers','FRA','Pays de la Loire',170361
+2991,'Dijon','FRA','Bourgogne',168772
+2992,'Brest','FRA','Bretagne',168509
+2993,'Le Mans','FRA','Pays de la Loire',164535
+2994,'Clermont-Ferrand','FRA','Auvergne',154438
+2995,'Amiens','FRA','Picardie',152594
+2996,'Aix-en-Provence','FRA','Provence-Alpes-Côte',151152
+2997,'Limoges','FRA','Limousin',150867
+2998,'Nîmes','FRA','Languedoc-Roussillon',150254
+2999,'Tours','FRA','Centre',149573
+3000,'Villeurbanne','FRA','Rhône-Alpes',139883
+3001,'Metz','FRA','Lorraine',139390
+3002,'Besançon','FRA','Franche-Comté',132582
+3003,'Caen','FRA','Basse-Normandie',128364
+3004,'Orléans','FRA','Centre',127393
+3005,'Mulhouse','FRA','Alsace',124280
+3006,'Rouen','FRA','Haute-Normandie',120036
+3007,'Boulogne-Billancourt','FRA','Île-de-France',119783
+3008,'Perpignan','FRA','Languedoc-Roussillon',118374
+3009,'Nancy','FRA','Lorraine',116672
+3010,'Roubaix','FRA','Nord-Pas-de-Calais',109217
+3011,'Argenteuil','FRA','Île-de-France',105813
+3012,'Tourcoing','FRA','Nord-Pas-de-Calais',105338
+3013,'Montreuil','FRA','Île-de-France',102110
+3014,'Cayenne','GUF','Cayenne',57092
+3015,'Faaa','PYF','Tahiti',29151
+3016,'Papeete','PYF','Tahiti',28775
+3017,'Saint-Denis','REU','Saint-Denis',148065
+3018,'Bucuresti','ROM','Bukarest',2270488
+3019,'Iasi','ROM','Iasi',391980
+3020,'Constanta','ROM','Constanta',385442
+3021,'Cluj-Napoca','ROM','Cluj',374443
+3022,'Galati','ROM','Galati',371940
+3023,'Timisoara','ROM','Timis',365217
+3024,'Brasov','ROM','Brasov',353866
+3025,'Craiova','ROM','Dolj',353083
+3026,'Ploiesti','ROM','Prahova',283056
+3027,'Braila','ROM','Braila',263244
+3028,'Oradea','ROM','Bihor',250274
+3029,'Bacau','ROM','Bacau',235629
+3030,'Pitesti','ROM','Arges',210780
+3031,'Arad','ROM','Arad',207670
+3032,'Sibiu','ROM','Sibiu',191007
+3033,'Târgu Mures','ROM','Mures',185987
+3034,'Baia Mare','ROM','Maramures',168545
+3035,'Buzau','ROM','Buzau',167089
+3036,'Satu Mare','ROM','Satu Mare',146465
+3037,'Botosani','ROM','Botosani',144968
+3038,'Piatra Neamt','ROM','Neamt',140846
+3039,'Râmnicu Vâlcea','ROM','Vâlcea',134845
+3040,'Suceava','ROM','Suceava',133502
+3041,'Drobeta-Turnu Severin','ROM','Mehedinti',132732
+3042,'Târgoviste','ROM','Dâmbovita',111464
+3043,'Focsani','ROM','Vrancea',111463
+3044,'Târgu Jiu','ROM','Gorj',110951
+3045,'Tulcea','ROM','Tulcea',108422
+3046,'Resita','ROM','Caras-Severin',105830
+3047,'Kigali','RWA','Kigali',322081
+3048,'Stockholm','SWE','Lisboa',845010
+3049,'Gothenburg [Göteborg]','SWE','West Götanmaan län',525903
+3050,'Malmö','SWE','Skåne län',292325
+3051,'Uppsala','SWE','Uppsala län',213482
+3052,'Linköping','SWE','East Götanmaan län',149965
+3053,'Västerås','SWE','Västmanlands län',142263
+3054,'Örebro','SWE','Örebros län',139874
+3055,'Norrköping','SWE','East Götanmaan län',137612
+3056,'Helsingborg','SWE','Skåne län',132586
+3057,'Jönköping','SWE','Jönköpings län',131864
+3058,'Umeå','SWE','Västerbottens län',117695
+3059,'Lund','SWE','Skåne län',111428
+3060,'Borås','SWE','West Götanmaan län',109103
+3061,'Sundsvall','SWE','Västernorrlands län',104872
+3062,'Gävle','SWE','Gävleborgs län',102187
+3063,'Jamestown','SHN','Saint Helena',1687
+3064,'Basseterre','KNA','St George Basseterre',13062
+3065,'Castries','LCA','Castries',2587
+3066,'Kingstown','VCT','St George',19254
+3067,'Saint-Pierre','SPM','Saint-Pierre',6538
+3068,'Berlin','DEU','Berliini',3813935
+3069,'Hamburg','DEU','Hamburg',1919806
+3070,'Munich [München]','DEU','Baijeri',1345266
+3071,'Köln','DEU','Nordrhein-Westfalen',1083936
+3072,'Frankfurt am Main','DEU','Hessen',725043
+3073,'Essen','DEU','Nordrhein-Westfalen',675149
+3074,'Dortmund','DEU','Nordrhein-Westfalen',664673
+3075,'Stuttgart','DEU','Baden-Württemberg',655922
+3076,'Düsseldorf','DEU','Nordrhein-Westfalen',640620
+3077,'Bremen','DEU','Bremen',608497
+3078,'Duisburg','DEU','Nordrhein-Westfalen',585367
+3079,'Hannover','DEU','Niedersachsen',579653
+3080,'Leipzig','DEU','Saksi',551289
+3081,'Nürnberg','DEU','Baijeri',548019
+3082,'Dresden','DEU','Saksi',536803
+3083,'Bochum','DEU','Nordrhein-Westfalen',442387
+3084,'Wuppertal','DEU','Nordrhein-Westfalen',415542
+3085,'Bielefeld','DEU','Nordrhein-Westfalen',361634
+3086,'Mannheim','DEU','Baden-Württemberg',346551
+3087,'Bonn','DEU','Nordrhein-Westfalen',339026
+3088,'Gelsenkirchen','DEU','Nordrhein-Westfalen',317551
+3089,'Karlsruhe','DEU','Baden-Württemberg',312175
+3090,'Wiesbaden','DEU','Hessen',302615
+3091,'Münster','DEU','Nordrhein-Westfalen',298059
+3092,'Mönchengladbach','DEU','Nordrhein-Westfalen',296961
+3093,'Chemnitz','DEU','Saksi',296428
+3094,'Augsburg','DEU','Baijeri',287019
+3095,'Halle/Saale','DEU','Anhalt Sachsen',286447
+3096,'Braunschweig','DEU','Niedersachsen',277395
+3097,'Aachen','DEU','Nordrhein-Westfalen',274584
+3098,'Krefeld','DEU','Nordrhein-Westfalen',272268
+3099,'Magdeburg','DEU','Anhalt Sachsen',264727
+3100,'Kiel','DEU','Schleswig-Holstein',263288
+3101,'Oberhausen','DEU','Nordrhein-Westfalen',250397
+3102,'Lübeck','DEU','Schleswig-Holstein',240236
+3103,'Hagen','DEU','Nordrhein-Westfalen',231088
+3104,'Rostock','DEU','Mecklenburg-Vorpomme',228921
+3105,'Freiburg im Breisgau','DEU','Baden-Württemberg',227994
+3106,'Erfurt','DEU','Thüringen',226656
+3107,'Kassel','DEU','Hessen',220962
+3108,'Saarbrücken','DEU','Saarland',207026
+3109,'Mainz','DEU','Rheinland-Pfalz',206234
+3110,'Hamm','DEU','Nordrhein-Westfalen',204737
+3111,'Herne','DEU','Nordrhein-Westfalen',197820
+3112,'Mülheim an der Ruhr','DEU','Nordrhein-Westfalen',195830
+3113,'Solingen','DEU','Nordrhein-Westfalen',186470
+3114,'Osnabrück','DEU','Niedersachsen',185295
+3115,'Ludwigshafen am Rhein','DEU','Rheinland-Pfalz',184429
+3116,'Leverkusen','DEU','Nordrhein-Westfalen',181129
+3117,'Oldenburg','DEU','Niedersachsen',173568
+3118,'Neuss','DEU','Nordrhein-Westfalen',168585
+3119,'Heidelberg','DEU','Baden-Württemberg',157291
+3120,'Darmstadt','DEU','Hessen',155155
+3121,'Paderborn','DEU','Nordrhein-Westfalen',155009
+3122,'Potsdam','DEU','Brandenburg',145253
+3123,'Würzburg','DEU','Baijeri',143413
+3124,'Regensburg','DEU','Baijeri',141032
+3125,'Recklinghausen','DEU','Nordrhein-Westfalen',140792
+3126,'Göttingen','DEU','Niedersachsen',140515
+3127,'Bremerhaven','DEU','Bremen',138215
+3128,'Wolfsburg','DEU','Niedersachsen',137337
+3129,'Bottrop','DEU','Nordrhein-Westfalen',136371
+3130,'Remscheid','DEU','Nordrhein-Westfalen',135277
+3131,'Heilbronn','DEU','Baden-Württemberg',134603
+3132,'Pforzheim','DEU','Baden-Württemberg',132014
+3133,'Offenbach am Main','DEU','Hessen',131338
+3134,'Ulm','DEU','Baden-Württemberg',130748
+3135,'Ingolstadt','DEU','Baijeri',129310
+3136,'Gera','DEU','Thüringen',129189
+3137,'Salzgitter','DEU','Niedersachsen',127177
+3138,'Cottbus','DEU','Brandenburg',124881
+3139,'Reutlingen','DEU','Baden-Württemberg',124259
+3140,'Fürth','DEU','Baijeri',123617
+3141,'Siegen','DEU','Nordrhein-Westfalen',123002
+3142,'Koblenz','DEU','Rheinland-Pfalz',121627
+3143,'Moers','DEU','Nordrhein-Westfalen',120313
+3144,'Bergisch Gladbach','DEU','Nordrhein-Westfalen',119538
+3145,'Zwickau','DEU','Saksi',117282
+3146,'Hildesheim','DEU','Niedersachsen',117132
+3147,'Witten','DEU','Nordrhein-Westfalen',116425
+3148,'Schwerin','DEU','Mecklenburg-Vorpomme',115854
+3149,'Erlangen','DEU','Baijeri',113459
+3150,'Kaiserslautern','DEU','Rheinland-Pfalz',112641
+3151,'Trier','DEU','Rheinland-Pfalz',112490
+3152,'Jena','DEU','Thüringen',112365
+3153,'Iserlohn','DEU','Nordrhein-Westfalen',112021
+3154,'Gütersloh','DEU','Nordrhein-Westfalen',107014
+3155,'Marl','DEU','Nordrhein-Westfalen',105558
+3156,'Lünen','DEU','Nordrhein-Westfalen',103653
+3157,'Düren','DEU','Nordrhein-Westfalen',102581
+3158,'Ratingen','DEU','Nordrhein-Westfalen',102423
+3159,'Velbert','DEU','Nordrhein-Westfalen',101217
+3160,'Esslingen am Neckar','DEU','Baden-Württemberg',100977
+3161,'Honiara','SLB','Honiara',56419
+3162,'Lusaka','ZMB','Lusaka',1483154
+3163,'Ndola','ZMB','Copperbelt',370729
+3164,'Kitwe','ZMB','Copperbelt',325008
+3165,'Kabwe','ZMB','Central',173764
+3166,'Chingola','ZMB','Copperbelt',160363
+3167,'Mufulira','ZMB','Copperbelt',139529
+3168,'Luanshya','ZMB','Copperbelt',132997
+3169,'Apia','WSM','Upolu',40427
+3170,'Serravalle','SMR','Serravalle/Dogano',5403
+3171,'San Marino','SMR','San Marino',2579
+3172,'São Tomé','STP','Aqua Grande',55787
+3173,'Riyadh','SAU','Riyadh',3743362
+3174,'Jedda','SAU','Mekka',2304463
+3175,'Mekka','SAU','Mekka',1087534
+3176,'Medina','SAU','Medina',685042
+3177,'al-Dammam','SAU','al-Sharqiya',543145
+3178,'al-Taif','SAU','Mekka',468594
+3179,'Tabuk','SAU','Tabuk',329514
+3180,'Burayda','SAU','al-Qasim',279961
+3181,'al-Hufuf','SAU','al-Sharqiya',254286
+3182,'al-Mubarraz','SAU','al-Sharqiya',246741
+3183,'Khamis Mushayt','SAU','Asir',245389
+3184,'Hail','SAU','Hail',199102
+3185,'al-Kharj','SAU','Riad',171286
+3186,'al-Khubar','SAU','al-Sharqiya',159574
+3187,'Jubayl','SAU','al-Sharqiya',158562
+3188,'Hafar al-Batin','SAU','al-Sharqiya',155183
+3189,'al-Tuqba','SAU','al-Sharqiya',141556
+3190,'Yanbu','SAU','Medina',134911
+3191,'Abha','SAU','Asir',126465
+3192,'Ara´ar','SAU','al-Khudud al-Samaliy',121737
+3193,'al-Qatif','SAU','al-Sharqiya',111375
+3194,'al-Hawiya','SAU','Mekka',105743
+3195,'Unayza','SAU','Qasim',102591
+3196,'Najran','SAU','Najran',102479
+3197,'Pikine','SEN','Cap-Vert',963188
+3198,'Dakar','SEN','Cap-Vert',884114
+3199,'Thiès','SEN','Thiès',279286
+3200,'Kaolack','SEN','Kaolack',224104
+3201,'Ziguinchor','SEN','Ziguinchor',216221
+3202,'Rufisque','SEN','Cap-Vert',168923
+3203,'Saint-Louis','SEN','Saint-Louis',149101
+3204,'Mbour','SEN','Thiès',123087
+3205,'Diourbel','SEN','Diourbel',111937
+3206,'Victoria','SYC','Mahé',46171
+3207,'Freetown','SLE','Western',957236
+3208,'Singapore','SGP','–',4524615
+3209,'Bratislava','SVK','Bratislava',504846
+3210,'Košice','SVK','Východné Slovensko',272386
+3211,'Prešov','SVK','Východné Slovensko',105831
+3212,'Ljubljana','SVN','Osrednjeslovenska',305171
+3213,'Maribor','SVN','Podravska',130105
+3214,'Mogadishu','SOM','Banaadir',1122781
+3215,'Hargeysa','SOM','Woqooyi Galbeed',101353
+3216,'Kismaayo','SOM','Jubbada Hoose',101353
+3217,'Colombo','LKA','Western',726373
+3218,'Dehiwala','LKA','Western',228609
+3219,'Moratuwa','LKA','Western',213969
+3220,'Jaffna','LKA','Northern',167796
+3221,'Kandy','LKA','Central',157661
+3222,'Sri Jayawardenepura Kotte','LKA','Western',132885
+3223,'Negombo','LKA','Western',112614
+3224,'Omdurman','SDN','Khartum',1431804
+3225,'Khartum','SDN','Khartum',1067016
+3226,'Sharq al-Nil','SDN','Khartum',789310
+3227,'Port Sudan','SDN','al-Bahr al-Ahmar',347074
+3228,'Kassala','SDN','Kassala',264220
+3229,'Obeid','SDN','Kurdufan al-Shamaliy',258367
+3230,'Nyala','SDN','Darfur al-Janubiya',255842
+3231,'Wad Madani','SDN','al-Jazira',238025
+3232,'al-Qadarif','SDN','al-Qadarif',215279
+3233,'Kusti','SDN','al-Bahr al-Abyad',195498
+3234,'al-Fashir','SDN','Darfur al-Shamaliya',159781
+3235,'Juba','SDN','Bahr al-Jabal',129483
+3236,'Helsinki [Helsingfors]','FIN','Newmaa',625551
+3237,'Espoo','FIN','Newmaa',240174
+3238,'Tampere','FIN','Pirkanmaa',220126
+3239,'Vantaa','FIN','Newmaa',200983
+3240,'Turku [Åbo]','FIN','Varsinais-Suomi',194329
+3241,'Oulu','FIN','Pohjois-Pohjanmaa',135985
+3242,'Lahti','FIN','Päijät-Häme',109147
+3243,'Paramaribo','SUR','Paramaribo',126128
+3244,'Mbabane','SWZ','Hhohho',68693
+3245,'Zürich','CHE','Zürich',379290
+3246,'Geneve','CHE','Geneve',195388
+3247,'Basel','CHE','Basel-Stadt',187728
+3248,'Bern','CHE','Bern',138179
+3249,'Lausanne','CHE','Vaud',128943
+3250,'Damascus','SYR','Damascus',1516937
+3251,'Aleppo','SYR','Aleppo',1421195
+3252,'Hims','SYR','Hims',571418
+3253,'Hama','SYR','Hama',386677
+3254,'Latakia','SYR','Latakia',297939
+3255,'al-Qamishliya','SYR','al-Hasaka',162487
+3256,'Dayr al-Zawr','SYR','Dayr al-Zawr',158177
+3257,'Jaramana','SYR','Damaskos',155935
+3258,'Duma','SYR','Damaskos',147703
+3259,'al-Raqqa','SYR','al-Raqqa',121645
+3260,'Idlib','SYR','Idlib',102570
+3261,'Dushanbe','TJK','Karotegin',590106
+3262,'Khujand','TJK','Khujand',181873
+3263,'Taipei','TWN','Taipei',2974543
+3264,'Kaohsiung','TWN','Kaohsiung',1661656
+3265,'Taichung','TWN','Taichung',1059253
+3266,'Tainan','TWN','Tainan',819911
+3267,'Panchiao','TWN','Taipei',589938
+3268,'Chungho','TWN','Taipei',441651
+3269,'KeelungChilung ','TWN','Keelung',433797
+3270,'Sanchung','TWN','Taipei',428032
+3271,'Hsinchuang','TWN','Taipei',411098
+3272,'Hsinchu','TWN','Hsinchu',407620
+3273,'Chungli','TWN','Taoyuan',358848
+3274,'Fengshan','TWN','Kaohsiung',358750
+3275,'Taoyuan','TWN','Taoyuan',356358
+3276,'Chiayi','TWN','Chiayi',298554
+3277,'Hsintien','TWN','Taipei',296857
+3278,'Changhwa','TWN','Changhwa',256442
+3279,'Yungho','TWN','Taipei',256424
+3280,'Tucheng','TWN','Taipei',253267
+3281,'Pingtung','TWN','Pingtung',241815
+3282,'Yungkang','TWN','Tainan',217353
+3283,'Pingchen','TWN','Taoyuan',212103
+3284,'Tali','TWN','Taichung',193629
+3285,'Taiping','TWN','',186405
+3286,'Pate','TWN','Taoyuan',182097
+3287,'Fengyuan','TWN','Taichung',181345
+3288,'Luchou','TWN','Taipei',180764
+3289,'Hsichuh','TWN','Taipei',174525
+3290,'Shulin','TWN','Taipei',170341
+3291,'Yuanlin','TWN','Changhwa',142347
+3292,'Yangmei','TWN','Taoyuan',142257
+3293,'Taliao','TWN','',130515
+3294,'Kueishan','TWN','',126346
+3295,'Tanshui','TWN','Taipei',125995
+3296,'Taitung','TWN','Taitung',125044
+3297,'Hualien','TWN','Hualien',122080
+3298,'Nantou','TWN','Nantou',117933
+3299,'Lungtan','TWN','Taipei',116090
+3300,'Touliu','TWN','Yünlin',111375
+3301,'Tsaotun','TWN','Nantou',109010
+3302,'Kangshan','TWN','Kaohsiung',103828
+3303,'Ilan','TWN','Ilan',103604
+3304,'Miaoli','TWN','Miaoli',101353
+3305,'Dar es Salaam','TZA','Dar es Salaam',1967403
+3306,'Dodoma','TZA','Dodoma',212842
+3307,'Mwanza','TZA','Mwanza',194035
+3308,'Zanzibar','TZA','Zanzibar West',177518
+3309,'Tanga','TZA','Tanga',154732
+3310,'Mbeya','TZA','Mbeya',147300
+3311,'Morogoro','TZA','Morogoro',132661
+3312,'Arusha','TZA','Arusha',115429
+3313,'Moshi','TZA','Kilimanjaro',109010
+3314,'Tabora','TZA','Tabora',104505
+3315,'København','DNK','København',558234
+3316,'Århus','DNK','Århus',320779
+3317,'Odense','DNK','Fyn',207112
+3318,'Aalborg','DNK','Nordjylland',181490
+3319,'Frederiksberg','DNK','Frederiksberg',101720
+3320,'Bangkok','THA','Bangkok',7117540
+3321,'Nonthaburi','THA','Nonthaburi',328950
+3322,'Nakhon Ratchasima','THA','Nakhon Ratchasima',204284
+3323,'Chiang Mai','THA','Chiang Mai',192685
+3324,'Udon Thani','THA','Udon Thani',178044
+3325,'Hat Yai','THA','Songkhla',167380
+3326,'Khon Kaen','THA','Khon Kaen',142457
+3327,'Pak Kret','THA','Nonthaburi',141955
+3328,'Nakhon Sawan','THA','Nakhon Sawan',139417
+3329,'Ubon Ratchathani','THA','Ubon Ratchathani',130970
+3330,'Songkhla','THA','Songkhla',106870
+3331,'Nakhon Pathom','THA','Nakhon Pathom',105970
+3332,'Lomé','TGO','Maritime',422310
+3333,'Fakaofo','TKL','Fakaofo',336
+3334,'Nuku´alofa','TON','Tongatapu',25223
+3335,'Chaguanas','TTO','Caroni',63739
+3336,'Port-of-Spain','TTO','Port-of-Spain',48868
+3337,'N´Djaména','TCD','Chari-Baguirmi',597950
+3338,'Moundou','TCD','Logone Occidental',112051
+3339,'Praha','CZE','Hlavní mesto Praha',1330136
+3340,'Brno','CZE','Jizní Morava',430035
+3341,'Ostrava','CZE','Severní Morava',360414
+3342,'Plzen','CZE','Zapadní Cechy',187795
+3343,'Olomouc','CZE','Severní Morava',115657
+3344,'Liberec','CZE','Severní Cechy',111662
+3345,'Ceské Budejovice','CZE','Jizní Cechy',110570
+3346,'Hradec Králové','CZE','Východní Cechy',110450
+3347,'Ústí nad Labem','CZE','Severní Cechy',107535
+3348,'Pardubice','CZE','Východní Cechy',102825
+3349,'Tunis','TUN','Tunis',777726
+3350,'Sfax','TUN','Sfax',290323
+3351,'Ariana','TUN','Ariana',221852
+3352,'Ettadhamen','TUN','Ariana',201130
+3353,'Sousse','TUN','Sousse',164304
+3354,'Kairouan','TUN','Kairouan',127367
+3355,'Biserta','TUN','Biserta',122636
+3356,'Gabès','TUN','Gabès',120046
+3357,'Istanbul','TUR','Istanbul',9896666
+3358,'Ankara','TUR','Ankara',3421459
+3359,'Izmir','TUR','Izmir',2399128
+3360,'Adana','TUR','Adana',1273908
+3361,'Bursa','TUR','Bursa',1234093
+3362,'Gaziantep','TUR','Gaziantep',888602
+3363,'Konya','TUR','Konya',707637
+3364,'MersinIçel ','TUR','Içel',661294
+3365,'Antalya','TUR','Antalya',636182
+3366,'Diyarbakir','TUR','Diyarbakir',540424
+3367,'Kayseri','TUR','Kayseri',535665
+3368,'Eskisehir','TUR','Eskisehir',530171
+3369,'Sanliurfa','TUR','Sanliurfa',457113
+3370,'Samsun','TUR','Samsun',382747
+3371,'Malatya','TUR','Malatya',371982
+3372,'Gebze','TUR','Kocaeli',297495
+3373,'Denizli','TUR','Denizli',285871
+3374,'Sivas','TUR','Sivas',277756
+3375,'Erzurum','TUR','Erzurum',277635
+3376,'Tarsus','TUR','Adana',277266
+3377,'Kahramanmaras','TUR','Kahramanmaras',276777
+3378,'Elâzig','TUR','Elâzig',257680
+3379,'Van','TUR','Van',246985
+3380,'Sultanbeyli','TUR','Istanbul',237693
+3381,'IzmitKocaeli ','TUR','Kocaeli',236568
+3382,'Manisa','TUR','Manisa',233279
+3383,'Batman','TUR','Batman',229501
+3384,'Balikesir','TUR','Balikesir',221156
+3385,'SakaryaAdapazari ','TUR','Sakarya',214690
+3386,'Iskenderun','TUR','Hatay',172324
+3387,'Osmaniye','TUR','Osmaniye',164420
+3388,'Çorum','TUR','Çorum',163847
+3389,'Kütahya','TUR','Kütahya',163022
+3390,'HatayAntakya ','TUR','Hatay',162143
+3391,'Kirikkale','TUR','Kirikkale',159961
+3392,'Adiyaman','TUR','Adiyaman',159381
+3393,'Trabzon','TUR','Trabzon',155670
+3394,'Ordu','TUR','Ordu',150499
+3395,'Aydin','TUR','Aydin',144879
+3396,'Usak','TUR','Usak',144328
+3397,'Edirne','TUR','Edirne',138947
+3398,'Çorlu','TUR','Tekirdag',138853
+3399,'Isparta','TUR','Isparta',137288
+3400,'Karabük','TUR','Karabük',133205
+3401,'Kilis','TUR','Kilis',133159
+3402,'Alanya','TUR','Antalya',132096
+3403,'Kiziltepe','TUR','Mardin',126128
+3404,'Zonguldak','TUR','Zonguldak',125610
+3405,'Siirt','TUR','Siirt',120609
+3406,'Viransehir','TUR','Sanliurfa',119821
+3407,'Tekirdag','TUR','Tekirdag',119457
+3408,'Karaman','TUR','Karaman',117343
+3409,'Afyon','TUR','Afyon',117100
+3410,'Aksaray','TUR','Aksaray',115632
+3411,'Ceyhan','TUR','Adana',115330
+3412,'Erzincan','TUR','Erzincan',115209
+3413,'Bismil','TUR','Diyarbakir',114191
+3414,'Nazilli','TUR','Aydin',112500
+3415,'Tokat','TUR','Tokat',112051
+3416,'Kars','TUR','Kars',104731
+3417,'Inegöl','TUR','Bursa',101916
+3418,'Bandirma','TUR','Balikesir',101577
+3419,'Ashgabat','TKM','Ahal',608801
+3420,'Chärjew','TKM','Lebap',213066
+3421,'Dashhowuz','TKM','Dashhowuz',159687
+3422,'Mary','TKM','Mary',113740
+3423,'Cockburn Town','TCA','Grand Turk',5401
+3424,'Funafuti','TUV','Funafuti',5177
+3425,'Kampala','UGA','Central',1003183
+3426,'Kyiv','UKR','Kiova',2955049
+3427,'Harkova [Harkiv]','UKR','Harkova',1689242
+3428,'Dnipropetrovsk','UKR','Dnipropetrovsk',1242156
+3429,'Donetsk','UKR','Donetsk',1182469
+3430,'Odesa','UKR','Odesa',1138547
+3431,'Zaporizzja','UKR','Zaporizzja',954985
+3432,'Lviv','UKR','Lviv',887414
+3433,'Kryvyi Rig','UKR','Dnipropetrovsk',791690
+3434,'Mykolajiv','UKR','Mykolajiv',572088
+3435,'Mariupol','UKR','Donetsk',551816
+3436,'Lugansk','UKR','Lugansk',528168
+3437,'Vinnytsja','UKR','Vinnytsja',440326
+3438,'Makijivka','UKR','Donetsk',432445
+3439,'Herson','UKR','Herson',397533
+3440,'Sevastopol','UKR','Krim',391903
+3441,'Simferopol','UKR','Krim',381765
+3442,'Pultava [Poltava]','UKR','Pultava',352487
+3443,'Tšernigiv','UKR','Tšernigiv',352487
+3444,'Tšerkasy','UKR','Tšerkasy',347982
+3445,'Gorlivka','UKR','Donetsk',336720
+3446,'Zytomyr','UKR','Zytomyr',334467
+3447,'Sumy','UKR','Sumy',331088
+3448,'Dniprodzerzynsk','UKR','Dnipropetrovsk',304063
+3449,'Kirovograd','UKR','Kirovograd',298431
+3450,'Hmelnytskyi','UKR','Hmelnytskyi',295051
+3451,'Tšernivtsi','UKR','Tšernivtsi',291674
+3452,'Rivne','UKR','Rivne',275906
+3453,'Krementšuk','UKR','Pultava',269151
+3454,'Ivano-Frankivsk','UKR','Ivano-Frankivsk',266898
+3455,'Ternopil','UKR','Ternopil',265772
+3456,'Lutsk','UKR','Volynia',244374
+3457,'Bila Tserkva','UKR','Kiova',242123
+3458,'Kramatorsk','UKR','Donetsk',209464
+3459,'Melitopol','UKR','Zaporizzja',190318
+3460,'Kertš','UKR','Krim',182436
+3461,'Nikopol','UKR','Dnipropetrovsk',167796
+3462,'Berdjansk','UKR','Zaporizzja',146400
+3463,'Pavlograd','UKR','Dnipropetrovsk',143020
+3464,'Sjeverodonetsk','UKR','Lugansk',143020
+3465,'Slovjansk','UKR','Donetsk',143020
+3466,'Uzgorod','UKR','Taka-Karpatia',143020
+3467,'Altševsk','UKR','Lugansk',134011
+3468,'Lysytšansk','UKR','Lugansk',130632
+3469,'Jevpatorija','UKR','Krim',126128
+3470,'Kamjanets-Podilskyi','UKR','Hmelnytskyi',122749
+3471,'Jenakijeve','UKR','Donetsk',118245
+3472,'Krasnyi Lutš','UKR','Lugansk',113740
+3473,'Stahanov','UKR','Lugansk',113740
+3474,'Oleksandrija','UKR','Kirovograd',111488
+3475,'Konotop','UKR','Sumy',108109
+3476,'Kostjantynivka','UKR','Donetsk',106983
+3477,'Berdytšiv','UKR','Zytomyr',101353
+3478,'Izmajil','UKR','Odesa',101353
+3479,'Šostka','UKR','Sumy',101353
+3480,'Uman','UKR','Tšerkasy',101353
+3481,'Brovary','UKR','Kiova',100225
+3482,'Mukatševe','UKR','Taka-Karpatia',100225
+3483,'Budapest','HUN','Budapest',2040098
+3484,'Debrecen','HUN','Hajdú-Bihar',229337
+3485,'Miskolc','HUN','Borsod-Abaúj-Zemplén',194100
+3486,'Szeged','HUN','Csongrád',178108
+3487,'Pécs','HUN','Baranya',177178
+3488,'Györ','HUN','Györ-Moson-Sopron',143153
+3489,'Nyiregyháza','HUN','Szabolcs-Szatmár-Ber',126599
+3490,'Kecskemét','HUN','Bács-Kiskun',118927
+3491,'Székesfehérvár','HUN','Fejér',118379
+3492,'Montevideo','URY','Montevideo',1391934
+3493,'Nouméa','NCL','–',85915
+3494,'Auckland','NZL','Auckland',429966
+3495,'Christchurch','NZL','Canterbury',365098
+3496,'Manukau','NZL','Auckland',317349
+3497,'North Shore','NZL','Auckland',211378
+3498,'Waitakere','NZL','Auckland',192121
+3499,'Wellington','NZL','Wellington',187728
+3500,'Dunedin','NZL','Dunedin',134686
+3501,'Hamilton','NZL','Hamilton',131871
+3502,'Lower Hutt','NZL','Wellington',110475
+3503,'Toskent','UZB','Toskent Shahri',2384646
+3504,'Namangan','UZB','Namangan',417241
+3505,'Samarkand','UZB','Samarkand',407443
+3506,'Andijon','UZB','Andijon',358794
+3507,'Buhoro','UZB','Buhoro',267010
+3508,'Karsi','UZB','Qashqadaryo',218584
+3509,'Nukus','UZB','Karakalpakistan',218584
+3510,'Kükon','UZB','Fargona',214081
+3511,'Fargona','UZB','Fargona',203269
+3512,'Circik','UZB','Toskent',164868
+3513,'Margilon','UZB','Fargona',158562
+3514,'Ürgenc','UZB','Khorazm',156422
+3515,'Angren','UZB','Toskent',144147
+3516,'Cizah','UZB','Cizah',140541
+3517,'Navoi','UZB','Navoi',130970
+3518,'Olmalik','UZB','Toskent',129393
+3519,'Termiz','UZB','Surkhondaryo',123312
+3520,'Minsk','BLR','Horad Minsk',1885193
+3521,'Gomel','BLR','Gomel',534925
+3522,'Mogiljov','BLR','Mogiljov',400911
+3523,'Vitebsk','BLR','Vitebsk',382893
+3524,'Grodno','BLR','Grodno',340098
+3525,'Brest','BLR','Brest',322081
+3526,'Bobruisk','BLR','Mogiljov',248880
+3527,'Baranovitši','BLR','Brest',188066
+3528,'Borisov','BLR','Minsk',170048
+3529,'Pinsk','BLR','Brest',146400
+3530,'Orša','BLR','Vitebsk',139642
+3531,'Mozyr','BLR','Gomel',123875
+3532,'Novopolotsk','BLR','Vitebsk',119370
+3533,'Lida','BLR','Grodno',113740
+3534,'Soligorsk','BLR','Minsk',113740
+3535,'Molodetšno','BLR','Minsk',109234
+3536,'Mata-Utu','WLF','Wallis',1278
+3537,'Port-Vila','VUT','Shefa',37950
+3538,'Città del Vaticano','VAT','–',510
+3539,'Caracas','VEN','Distrito Federal',2224497
+3540,'Maracaíbo','VEN','Zulia',1469386
+3541,'Barquisimeto','VEN','Lara',987909
+3542,'Valencia','VEN','Carabobo',894447
+3543,'Ciudad Guayana','VEN','Bolívar',747445
+3544,'Petare','VEN','Miranda',550541
+3545,'Maracay','VEN','Aragua',500510
+3546,'Barcelona','VEN','Anzoátegui',362922
+3547,'Maturín','VEN','Monagas',360060
+3548,'San Cristóbal','VEN','Táchira',359663
+3549,'Ciudad Bolívar','VEN','Bolívar',339092
+3550,'Cumaná','VEN','Sucre',330081
+3551,'Mérida','VEN','Mérida',253256
+3552,'Cabimas','VEN','Zulia',249250
+3553,'Barinas','VEN','Barinas',245310
+3554,'Turmero','VEN','Aragua',244935
+3555,'Baruta','VEN','Miranda',233439
+3556,'Puerto Cabello','VEN','Carabobo',211403
+3557,'Santa Ana de Coro','VEN','Falcón',209199
+3558,'Los Teques','VEN','Miranda',201337
+3559,'Punto Fijo','VEN','Falcón',188308
+3560,'Guarenas','VEN','Miranda',186815
+3561,'Acarigua','VEN','Portuguesa',179005
+3562,'Puerto La Cruz','VEN','Anzoátegui',175341
+3563,'Ciudad Losada','VEN','',151466
+3564,'Guacara','VEN','Carabobo',147901
+3565,'Valera','VEN','Trujillo',146714
+3566,'Guanare','VEN','Portuguesa',141466
+3567,'Carúpano','VEN','Sucre',134729
+3568,'Catia La Mar','VEN','Distrito Federal',131772
+3569,'El Tigre','VEN','Anzoátegui',130921
+3570,'Guatire','VEN','Miranda',122885
+3571,'Calabozo','VEN','Guárico',120660
+3572,'Pozuelos','VEN','Anzoátegui',119022
+3573,'Ciudad Ojeda','VEN','Zulia',111885
+3574,'Ocumare del Tuy','VEN','Miranda',109424
+3575,'Valle de la Pascua','VEN','Guárico',108026
+3576,'Araure','VEN','Portuguesa',106159
+3577,'San Fernando de Apure','VEN','Apure',105640
+3578,'San Felipe','VEN','Yaracuy',102411
+3579,'El Limón','VEN','Aragua',101353
+3580,'Moscow','RUS','MoscowCity ',9447599
+3581,'St Petersburg','RUS','Pietari',5286204
+3582,'Novosibirsk','RUS','Novosibirsk',1575274
+3583,'Nizni Novgorod','RUS','Nizni Novgorod',1528200
+3584,'Jekaterinburg','RUS','Sverdlovsk',1426057
+3585,'Samara','RUS','Samara',1301954
+3586,'Omsk','RUS','Omsk',1293846
+3587,'Kazan','RUS','Tatarstan',1239902
+3588,'Ufa','RUS','Baškortostan',1228865
+3589,'Tšeljabinsk','RUS','Tšeljabinsk',1219857
+3590,'Rostov-na-Donu','RUS','Rostov-na-Donu',1140463
+3591,'Perm','RUS','Perm',1137083
+3592,'Volgograd','RUS','Volgograd',1118727
+3593,'Voronez','RUS','Voronez',1022216
+3594,'Krasnojarsk','RUS','Krasnojarsk',985953
+3595,'Saratov','RUS','Saratov',984263
+3596,'Toljatti','RUS','Samara',814100
+3597,'Uljanovsk','RUS','Uljanovsk',751598
+3598,'Izevsk','RUS','Udmurtia',735157
+3599,'Krasnodar','RUS','Krasnodar',719616
+3600,'Jaroslavl','RUS','Jaroslavl',694501
+3601,'Habarovsk','RUS','Habarovsk',686280
+3602,'Vladivostok','RUS','Primorje',682677
+3603,'Irkutsk','RUS','Irkutsk',668599
+3604,'Barnaul','RUS','Altai',653285
+3605,'Novokuznetsk','RUS','Kemerovo',632449
+3606,'Penza','RUS','Penza',599341
+3607,'Rjazan','RUS','Rjazan',596751
+3608,'Orenburg','RUS','Orenburg',589656
+3609,'Lipetsk','RUS','Lipetsk',586727
+3610,'Nabereznyje Tšelny','RUS','Tatarstan',579633
+3611,'Tula','RUS','Tula',569948
+3612,'Tjumen','RUS','Tjumen',566907
+3613,'Kemerovo','RUS','Kemerovo',554859
+3614,'Astrahan','RUS','Astrahan',547425
+3615,'Tomsk','RUS','Tomsk',542920
+3616,'Kirov','RUS','Kirov',525014
+3617,'Ivanovo','RUS','Ivanovo',517132
+3618,'Tšeboksary','RUS','Tšuvassia',517132
+3619,'Brjansk','RUS','Brjansk',515104
+3620,'Tver','RUS','Tver',512287
+3621,'Kursk','RUS','Kursk',499451
+3622,'Magnitogorsk','RUS','Tšeljabinsk',481882
+3623,'Kaliningrad','RUS','Kaliningrad',477940
+3624,'Nizni Tagil','RUS','Sverdlovsk',440214
+3625,'Murmansk','RUS','Murmansk',423773
+3626,'Ulan-Ude','RUS','Burjatia',417129
+3627,'Kurgan','RUS','Kurgan',410709
+3628,'Arkangeli','RUS','Arkangeli',407443
+3629,'Sotši','RUS','Krasnodar',403839
+3630,'Smolensk','RUS','Smolensk',397983
+3631,'Orjol','RUS','Orjol',387960
+3632,'Stavropol','RUS','Stavropol',386609
+3633,'Belgorod','RUS','Belgorod',385144
+3634,'Kaluga','RUS','Kaluga',382105
+3635,'Vladimir','RUS','Vladimir',379626
+3636,'Mahatškala','RUS','Dagestan',374784
+3637,'Tšerepovets','RUS','Vologda',365325
+3638,'Saransk','RUS','Mordva',354513
+3639,'Tambov','RUS','Tambov',351360
+3640,'Vladikavkaz','RUS','North Ossetia-Alania',349221
+3641,'Tšita','RUS','Tšita',348995
+3642,'Vologda','RUS','Vologda',340662
+3643,'Veliki Novgorod','RUS','Novgorod',337282
+3644,'Komsomolsk-na-Amure','RUS','Habarovsk',328385
+3645,'Kostroma','RUS','Kostroma',324444
+3646,'Volzski','RUS','Volgograd',323093
+3647,'Taganrog','RUS','Rostov-na-Donu',320277
+3648,'Petroskoi','RUS','Karjala',317688
+3649,'Bratsk','RUS','Irkutsk',312620
+3650,'Dzerzinsk','RUS','Nizni Novgorod',312056
+3651,'Surgut','RUS','Hanti-Mansia',309580
+3652,'Orsk','RUS','Orenburg',308454
+3653,'Sterlitamak','RUS','Baškortostan',298657
+3654,'Angarsk','RUS','Irkutsk',298092
+3655,'Joškar-Ola','RUS','Marinmaa',280637
+3656,'Rybinsk','RUS','Jaroslavl',269825
+3657,'Prokopjevsk','RUS','Kemerovo',267235
+3658,'Niznevartovsk','RUS','Hanti-Mansia',263406
+3659,'Naltšik','RUS','Kabardi-Balkaria',262843
+3660,'Syktyvkar','RUS','Komi',258677
+3661,'Severodvinsk','RUS','Arkangeli',258227
+3662,'Bijsk','RUS','Altai',253384
+3663,'Niznekamsk','RUS','Tatarstan',251583
+3664,'Blagoveštšensk','RUS','Amur',250005
+3665,'Šahty','RUS','Rostov-na-Donu',249780
+3666,'Staryi Oskol','RUS','Belgorod',240771
+3667,'Zelenograd','RUS','MoscowCity ',233226
+3668,'Balakovo','RUS','Saratov',231987
+3669,'Novorossijsk','RUS','Krasnodar',228947
+3670,'Pihkova','RUS','Pihkova',226919
+3671,'Zlatoust','RUS','Tšeljabinsk',221739
+3672,'Jakutsk','RUS','SahaJakutia ',220050
+3673,'Podolsk','RUS','Moskova',218810
+3674,'Petropavlovsk-Kamtšatski','RUS','Kamtšatka',218584
+3675,'Kamensk-Uralski','RUS','Sverdlovsk',214645
+3676,'Engels','RUS','Saratov',212842
+3677,'Syzran','RUS','Samara',210478
+3678,'Grozny','RUS','Tšetšenia',209464
+3679,'Novotšerkassk','RUS','Rostov-na-Donu',207660
+3680,'Berezniki','RUS','Perm',204845
+3681,'Juzno-Sahalinsk','RUS','Sahalin',201805
+3682,'Volgodonsk','RUS','Rostov-na-Donu',200679
+3683,'Abakan','RUS','Hakassia',190544
+3684,'Maikop','RUS','Adygea',188404
+3685,'Miass','RUS','Tšeljabinsk',187165
+3686,'Armavir','RUS','Krasnodar',185701
+3687,'Ljubertsy','RUS','Moskova',184576
+3688,'Rubtsovsk','RUS','Altai',183113
+3689,'Kovrov','RUS','Vladimir',180070
+3690,'Nahodka','RUS','Primorje',177594
+3691,'Ussurijsk','RUS','Primorje',177143
+3692,'Salavat','RUS','Baškortostan',176579
+3693,'Mytištši','RUS','Moskova',175341
+3694,'Kolomna','RUS','Moskova',169710
+3695,'Elektrostal','RUS','Moskova',165542
+3696,'Murom','RUS','Vladimir',160363
+3697,'Kolpino','RUS','Pietari',159011
+3698,'Norilsk','RUS','Krasnojarsk',158562
+3699,'Almetjevsk','RUS','Tatarstan',158448
+3700,'Novomoskovsk','RUS','Tula',155521
+3701,'Dimitrovgrad','RUS','Uljanovsk',154281
+3702,'Pervouralsk','RUS','Sverdlovsk',153268
+3703,'Himki','RUS','Moskova',150566
+3704,'Balašiha','RUS','Moskova',149665
+3705,'Nevinnomyssk','RUS','Stavropol',149328
+3706,'Pjatigorsk','RUS','Stavropol',149215
+3707,'Korolev','RUS','Moskova',149101
+3708,'Serpuhov','RUS','Moskova',148650
+3709,'Odintsovo','RUS','Moskova',143469
+3710,'Orehovo-Zujevo','RUS','Moskova',140653
+3711,'Kamyšin','RUS','Volgograd',140317
+3712,'Novotšeboksarsk','RUS','Tšuvassia',138966
+3713,'Tšerkessk','RUS','Karatšai-Tšerkessia',137051
+3714,'Atšinsk','RUS','Krasnojarsk',136939
+3715,'Magadan','RUS','Magadan',136263
+3716,'Mitšurinsk','RUS','Tambov',135925
+3717,'Kislovodsk','RUS','Stavropol',135588
+3718,'Jelets','RUS','Lipetsk',134461
+3719,'Seversk','RUS','Tomsk',133560
+3720,'Noginsk','RUS','Moskova',131983
+3721,'Velikije Luki','RUS','Pihkova',130970
+3722,'Novokuibyševsk','RUS','Samara',130857
+3723,'Neftekamsk','RUS','Baškortostan',130294
+3724,'Leninsk-Kuznetski','RUS','Kemerovo',128154
+3725,'Oktjabrski','RUS','Baškortostan',125565
+3726,'Sergijev Posad','RUS','Moskova',125114
+3727,'Arzamas','RUS','Nizni Novgorod',124664
+3728,'Kiseljovsk','RUS','Kemerovo',123875
+3729,'Novotroitsk','RUS','Orenburg',123425
+3730,'Obninsk','RUS','Kaluga',121961
+3731,'Kansk','RUS','Krasnojarsk',120947
+3732,'Glazov','RUS','Udmurtia',119709
+3733,'Solikamsk','RUS','Perm',119370
+3734,'Sarapul','RUS','Udmurtia',119034
+3735,'Ust-Ilimsk','RUS','Irkutsk',118470
+3736,'Štšolkovo','RUS','Moskova',118131
+3737,'Mezduretšensk','RUS','Kemerovo',117569
+3738,'Usolje-Sibirskoje','RUS','Irkutsk',116555
+3739,'Elista','RUS','Kalmykia',116331
+3740,'Novošahtinsk','RUS','Rostov-na-Donu',114753
+3741,'Votkinsk','RUS','Udmurtia',114528
+3742,'Kyzyl','RUS','Tyva',113852
+3743,'Serov','RUS','Sverdlovsk',113064
+3744,'Zelenodolsk','RUS','Tatarstan',112839
+3745,'Zeleznodoroznyi','RUS','Moskova',112727
+3746,'Kinešma','RUS','Ivanovo',112614
+3747,'Kuznetsk','RUS','Penza',110587
+3748,'Uhta','RUS','Komi',110361
+3749,'Jessentuki','RUS','Stavropol',110249
+3750,'Tobolsk','RUS','Tjumen',109911
+3751,'Neftejugansk','RUS','Hanti-Mansia',109685
+3752,'Bataisk','RUS','Rostov-na-Donu',109573
+3753,'Nojabrsk','RUS','Yamalin Nenetsia',109573
+3754,'Balašov','RUS','Saratov',109348
+3755,'Zeleznogorsk','RUS','Kursk',109122
+3756,'Zukovski','RUS','Moskova',108672
+3757,'Anzero-Sudzensk','RUS','Kemerovo',108222
+3758,'Bugulma','RUS','Tatarstan',105970
+3759,'Zeleznogorsk','RUS','Krasnojarsk',105856
+3760,'Novouralsk','RUS','Sverdlovsk',105069
+3761,'Puškin','RUS','Pietari',104619
+3762,'Vorkuta','RUS','Komi',104280
+3763,'Derbent','RUS','Dagestan',103942
+3764,'Kirovo-Tšepetsk','RUS','Kirov',103155
+3765,'Krasnogorsk','RUS','Moskova',102479
+3766,'Klin','RUS','Moskova',101353
+3767,'Tšaikovski','RUS','Perm',101353
+3768,'Novyi Urengoi','RUS','Yamalin Nenetsia',101126
+3769,'Ho Chi Minh City','VNM','Ho Chi Minh City',4482124
+3770,'Hanoi','VNM','Hanoi',1587888
+3771,'Haiphong','VNM','Haiphong',881931
+3772,'Da Nang','VNM','Quang Nam-Da Nang',430950
+3773,'Biên Hoa','VNM','Dong Nai',317681
+3774,'Nha Trang','VNM','Khanh Hoa',249252
+3775,'Hue','VNM','Thua Thien-Hue',246795
+3776,'Can Tho','VNM','Can Tho',242782
+3777,'Cam Pha','VNM','Quang Binh',235461
+3778,'Nam Dinh','VNM','Nam Ha',193358
+3779,'Quy Nhon','VNM','Binh Dinh',183995
+3780,'Vung Tau','VNM','Ba Ria-Vung Tau',163453
+3781,'Rach Gia','VNM','Kien Giang',158935
+3782,'Long Xuyen','VNM','An Giang',149417
+3783,'Thai Nguyen','VNM','Bac Thai',143743
+3784,'Hong Gai','VNM','Quang Ninh',143563
+3785,'Phan Thiêt','VNM','Binh Thuan',128646
+3786,'Cam Ranh','VNM','Khanh Hoa',128425
+3787,'Vinh','VNM','Nghe An',126640
+3788,'My Tho','VNM','Tien Giang',122077
+3789,'Da Lat','VNM','Lam Dong',119831
+3790,'Buon Ma Thuot','VNM','Dac Lac',109283
+3791,'Tallinn','EST','Harjumaa',454946
+3792,'Tartu','EST','Tartumaa',114015
+3793,'New York','USA','New York',9018618
+3794,'Los Angeles','USA','California',4160964
+3795,'Chicago','USA','Illinois',3261381
+3796,'Houston','USA','Texas',2200104
+3797,'Philadelphia','USA','Pennsylvania',1709005
+3798,'Phoenix','USA','Arizona',1487708
+3799,'San Diego','USA','California',1377744
+3800,'Dallas','USA','Texas',1338531
+3801,'San Antonio','USA','Texas',1289053
+3802,'Detroit','USA','Michigan',1071281
+3803,'San Jose','USA','California',1007847
+3804,'Indianapolis','USA','Indiana',891834
+3805,'San Francisco','USA','California',874725
+3806,'Jacksonville','USA','Florida',827915
+3807,'Columbus','USA','Ohio',801228
+3808,'Austin','USA','Texas',739391
+3809,'Baltimore','USA','Maryland',733303
+3810,'Memphis','USA','Tennessee',732116
+3811,'Milwaukee','USA','Wisconsin',672287
+3812,'Boston','USA','Massachusetts',663465
+3813,'Washington','USA','District of Columbia',644229
+3814,'Nashville-Davidson','USA','Tennessee',641787
+3815,'El Paso','USA','Texas',634772
+3816,'Seattle','USA','Washington',634448
+3817,'Denver','USA','Colorado',624607
+3818,'Charlotte','USA','North Carolina',609057
+3819,'Fort Worth','USA','Texas',602148
+3820,'Portland','USA','Oregon',595873
+3821,'Oklahoma City','USA','Oklahoma',569985
+3822,'Tucson','USA','Arizona',548099
+3823,'New Orleans','USA','Louisiana',545819
+3824,'Las Vegas','USA','Nevada',538792
+3825,'Cleveland','USA','Ohio',538756
+3826,'Long Beach','USA','California',519747
+3827,'Albuquerque','USA','New Mexico',505201
+3828,'Kansas City','USA','Missouri',497247
+3829,'Fresno','USA','California',481604
+3830,'Virginia Beach','USA','Virginia',478906
+3831,'Atlanta','USA','Georgia',469015
+3832,'Sacramento','USA','California',458366
+3833,'Oakland','USA','California',449881
+3834,'Mesa','USA','Arizona',446379
+3835,'Tulsa','USA','Oklahoma',442634
+3836,'Omaha','USA','Nebraska',439209
+3837,'Minneapolis','USA','Minnesota',430887
+3838,'Honolulu','USA','Hawaii',418543
+3839,'Miami','USA','Florida',408197
+3840,'Colorado Springs','USA','Colorado',406417
+3841,'Saint Louis','USA','Missouri',392115
+3842,'Wichita','USA','Kansas',387717
+3843,'Santa Ana','USA','California',380614
+3844,'Pittsburgh','USA','Pennsylvania',376769
+3845,'Arlington','USA','Texas',374974
+3846,'Cincinnati','USA','Ohio',373078
+3847,'Anaheim','USA','California',369395
+3848,'Toledo','USA','Ohio',353183
+3849,'Tampa','USA','Florida',341728
+3850,'Buffalo','USA','New York',329567
+3851,'Saint Paul','USA','Minnesota',323376
+3852,'Corpus Christi','USA','Texas',312456
+3853,'Aurora','USA','Colorado',311261
+3854,'Raleigh','USA','North Carolina',310921
+3855,'Newark','USA','New Jersey',308053
+3856,'Lexington-Fayette','USA','Kentucky',293376
+3857,'Anchorage','USA','Alaska',293117
+3858,'Louisville','USA','Kentucky',288555
+3859,'Riverside','USA','California',287355
+3860,'Saint Petersburg','USA','Florida',279546
+3861,'Bakersfield','USA','California',278223
+3862,'Stockton','USA','California',274522
+3863,'Birmingham','USA','Alabama',273451
+3864,'Jersey City','USA','New Jersey',270338
+3865,'Norfolk','USA','Virginia',263972
+3866,'Baton Rouge','USA','Louisiana',256557
+3867,'Hialeah','USA','Florida',254981
+3868,'Lincoln','USA','Nebraska',254037
+3869,'Greensboro','USA','North Carolina',252133
+3870,'Plano','USA','Texas',250038
+3871,'Rochester','USA','New York',247497
+3872,'Glendale','USA','Arizona',246415
+3873,'Akron','USA','Ohio',244458
+3874,'Garland','USA','Texas',242987
+3875,'Madison','USA','Wisconsin',234301
+3876,'Fort Wayne','USA','Indiana',231678
+3877,'Fremont','USA','California',229073
+3878,'Scottsdale','USA','Arizona',228277
+3879,'Montgomery','USA','Alabama',226995
+3880,'Shreveport','USA','Louisiana',225391
+3881,'Augusta-Richmond County','USA','Georgia',224976
+3882,'Lubbock','USA','Texas',224739
+3883,'Chesapeake','USA','Virginia',224311
+3884,'Mobile','USA','Alabama',224008
+3885,'Des Moines','USA','Iowa',223746
+3886,'Grand Rapids','USA','Michigan',222753
+3887,'Richmond','USA','Virginia',222739
+3888,'Yonkers','USA','New York',220821
+3889,'Spokane','USA','Washington',220307
+3890,'Glendale','USA','California',219568
+3891,'Tacoma','USA','Washington',217974
+3892,'Irving','USA','Texas',215787
+3893,'Huntington Beach','USA','California',213510
+3894,'Modesto','USA','California',212680
+3895,'Durham','USA','North Carolina',210628
+3896,'Columbus','USA','Georgia',209790
+3897,'Orlando','USA','Florida',209409
+3898,'Boise City','USA','Idaho',209224
+3899,'Winston-Salem','USA','North Carolina',209210
+3900,'San Bernardino','USA','California',208788
+3901,'Jackson','USA','Mississippi',207498
+3902,'Little Rock','USA','Arkansas',206233
+3903,'Salt Lake City','USA','Utah',204669
+3904,'Reno','USA','Nevada',203247
+3905,'Newport News','USA','Virginia',202875
+3906,'Chandler','USA','Arizona',198856
+3907,'Laredo','USA','Texas',198851
+3908,'Henderson','USA','Nevada',197504
+3909,'Arlington','USA','Virginia',196892
+3910,'Knoxville','USA','Tennessee',195825
+3911,'Amarillo','USA','Texas',195528
+3912,'Providence','USA','Rhode Island',195518
+3913,'Chula Vista','USA','California',195450
+3914,'Worcester','USA','Massachusetts',194427
+3915,'Oxnard','USA','California',191847
+3916,'Dayton','USA','Ohio',187141
+3917,'Garden Grove','USA','California',186034
+3918,'Oceanside','USA','California',181341
+3919,'Tempe','USA','Arizona',178633
+3920,'Huntsville','USA','Alabama',178174
+3921,'Ontario','USA','California',177939
+3922,'Chattanooga','USA','Tennessee',175176
+3923,'Fort Lauderdale','USA','Florida',171621
+3924,'Springfield','USA','Massachusetts',171266
+3925,'Springfield','USA','Missouri',170702
+3926,'Santa Clarita','USA','California',170146
+3927,'Salinas','USA','California',170116
+3928,'Tallahassee','USA','Florida',169623
+3929,'Rockford','USA','Illinois',169051
+3930,'Pomona','USA','California',168328
+3931,'Metairie','USA','Louisiana',168277
+3932,'Paterson','USA','New Jersey',168047
+3933,'Overland Park','USA','Kansas',167886
+3934,'Santa Rosa','USA','California',166213
+3935,'Syracuse','USA','New York',165888
+3936,'Kansas City','USA','Kansas',165393
+3937,'Hampton','USA','Virginia',164909
+3938,'Lakewood','USA','Colorado',162306
+3939,'Vancouver','USA','Washington',161668
+3940,'Irvine','USA','California',161120
+3941,'Aurora','USA','Illinois',161026
+3942,'Moreno Valley','USA','California',160340
+3943,'Pasadena','USA','California',159545
+3944,'Hayward','USA','California',157693
+3945,'Brownsville','USA','Texas',157347
+3946,'Bridgeport','USA','Connecticut',157129
+3947,'Hollywood','USA','Florida',156935
+3948,'Warren','USA','Michigan',155685
+3949,'Torrance','USA','California',155347
+3950,'Eugene','USA','Oregon',155287
+3951,'Pembroke Pines','USA','Florida',154762
+3952,'Salem','USA','Oregon',154197
+3953,'Pasadena','USA','Texas',150830
+3954,'Escondido','USA','California',150407
+3955,'Sunnyvale','USA','California',148380
+3956,'Savannah','USA','Georgia',148098
+3957,'Fontana','USA','California',145192
+3958,'Orange','USA','California',145070
+3959,'Naperville','USA','Illinois',144549
+3960,'Alexandria','USA','Virginia',144464
+3961,'Rancho Cucamonga','USA','California',143856
+3962,'Grand Prairie','USA','Texas',143500
+3963,'East Los Angeles','USA','California',142320
+3964,'Fullerton','USA','California',141897
+3965,'Corona','USA','California',140730
+3966,'Flint','USA','Michigan',140701
+3967,'Paradise','USA','Nevada',140410
+3968,'Mesquite','USA','Texas',140230
+3969,'Sterling Heights','USA','Michigan',140171
+3970,'Sioux Falls','USA','South Dakota',139613
+3971,'New Haven','USA','Connecticut',139219
+3972,'Topeka','USA','Kansas',137814
+3973,'Concord','USA','California',137141
+3974,'Evansville','USA','Indiana',136918
+3975,'Hartford','USA','Connecticut',136913
+3976,'Fayetteville','USA','North Carolina',136280
+3977,'Cedar Rapids','USA','Iowa',135990
+3978,'Elizabeth','USA','New Jersey',135776
+3979,'Lansing','USA','Michigan',134154
+3980,'Lancaster','USA','California',133693
+3981,'Fort Collins','USA','Colorado',133618
+3982,'Coral Springs','USA','Florida',132374
+3983,'Stamford','USA','Connecticut',131851
+3984,'Thousand Oaks','USA','California',131763
+3985,'Vallejo','USA','California',131488
+3986,'Palmdale','USA','California',131387
+3987,'Columbia','USA','South Carolina',130945
+3988,'El Monte','USA','California',130592
+3989,'Abilene','USA','Texas',130552
+3990,'North Las Vegas','USA','Nevada',130056
+3991,'Ann Arbor','USA','Michigan',128407
+3992,'Beaumont','USA','Texas',128229
+3993,'Waco','USA','Texas',128071
+3994,'Macon','USA','Georgia',127632
+3995,'Independence','USA','Missouri',127578
+3996,'Peoria','USA','Illinois',127179
+3997,'Inglewood','USA','California',126780
+3998,'Springfield','USA','Illinois',125513
+3999,'Simi Valley','USA','California',125396
+4000,'Lafayette','USA','Louisiana',124165
+4001,'Gilbert','USA','Arizona',123533
+4002,'Carrollton','USA','Texas',123398
+4003,'Bellevue','USA','Washington',123389
+4004,'West Valley City','USA','Utah',122631
+4005,'Clarksville','USA','Tennessee',122509
+4006,'Costa Mesa','USA','California',122437
+4007,'Peoria','USA','Arizona',122031
+4008,'South Bend','USA','Indiana',121384
+4009,'Downey','USA','California',120860
+4010,'Waterbury','USA','Connecticut',120802
+4011,'Manchester','USA','New Hampshire',120503
+4012,'Allentown','USA','Pennsylvania',120082
+4013,'McAllen','USA','Texas',119836
+4014,'Joliet','USA','Illinois',119619
+4015,'Lowell','USA','Massachusetts',118433
+4016,'Provo','USA','Utah',118432
+4017,'West Covina','USA','California',118334
+4018,'Wichita Falls','USA','Texas',117339
+4019,'Erie','USA','Pennsylvania',116800
+4020,'Daly City','USA','California',116692
+4021,'Citrus Heights','USA','California',116504
+4022,'Norwalk','USA','California',116327
+4023,'Gary','USA','Indiana',115705
+4024,'Berkeley','USA','California',115701
+4025,'Santa Clara','USA','California',115272
+4026,'Green Bay','USA','Wisconsin',115218
+4027,'Cape Coral','USA','Florida',115187
+4028,'Arvada','USA','Colorado',115038
+4029,'Pueblo','USA','Colorado',115001
+4030,'Sandy','USA','Utah',114700
+4031,'Athens-Clarke County','USA','Georgia',114289
+4032,'Cambridge','USA','Massachusetts',114140
+4033,'Westminster','USA','Colorado',113672
+4034,'San Buenaventura','USA','California',113644
+4035,'Portsmouth','USA','Virginia',113250
+4036,'Livonia','USA','Michigan',113227
+4037,'Burbank','USA','California',112970
+4038,'Clearwater','USA','Florida',112541
+4039,'Midland','USA','Texas',110691
+4040,'Davenport','USA','Iowa',110650
+4041,'Mission Viejo','USA','California',110416
+4042,'Miami Beach','USA','Florida',110198
+4043,'Sunrise Manor','USA','Nevada',107390
+4044,'New Bedford','USA','Massachusetts',106734
+4045,'El Cajon','USA','California',106507
+4046,'Norman','USA','Oklahoma',106073
+4047,'Richmond','USA','California',105970
+4048,'Albany','USA','New York',105848
+4049,'Brockton','USA','Massachusetts',105465
+4050,'Roanoke','USA','Virginia',105133
+4051,'Billings','USA','Montana',104716
+4052,'Compton','USA','California',104577
+4053,'Gainesville','USA','Florida',103930
+4054,'Fairfield','USA','California',103894
+4055,'Arden-Arcade','USA','California',103649
+4056,'San Mateo','USA','California',103378
+4057,'Visalia','USA','California',103336
+4058,'Boulder','USA','Colorado',102746
+4059,'Cary','USA','North Carolina',102717
+4060,'Santa Monica','USA','California',102573
+4061,'Fall River','USA','Massachusetts',101977
+4062,'Kenosha','USA','Wisconsin',100729
+4063,'Elgin','USA','Illinois',100685
+4064,'Odessa','USA','Texas',100555
+4065,'Carson','USA','California',100325
+4066,'Charleston','USA','South Carolina',100297
+4067,'Charlotte Amalie','VIR','St Thomas',14638
+4068,'Harare','ZWE','Harare',1587888
+4069,'Bulawayo','ZWE','Bulawayo',700179
+4070,'Chitungwiza','ZWE','Harare',309593
+4071,'Mount Darwin','ZWE','Harare',185096
+4072,'Mutare','ZWE','Manicaland',147937
+4073,'Gweru','ZWE','Midlands',144187
+4074,'Gaza','PSE','Gaza',398244
+4075,'Khan Yunis','PSE','Khan Yunis',138712
+4076,'Hebron','PSE','Hebron',134462
+4077,'Jabaliya','PSE','North Gaza',128269
+4078,'Nablus','PSE','Nablus',112873
+4079,'Rafah','PSE','Rafah',103627
